@@ -8,8 +8,8 @@
     "suppliers:build": "node scripts/suppliers-to-json.mjs",
     "suppliers:geocode": "node scripts/suppliers-to-json.mjs --geocode",
     "products:migrate": "node scripts/migrate-products-csv.mjs",
-    "dev": "npm run products:build && npm run suppliers:build && vite dev",
-    "build": "npm run products:build && npm run suppliers:build && vite build",
+    "dev": "npm run suppliers:build && vite dev",
+    "build": "npm run suppliers:build && vite build",
     "preview": "vite preview"
   },
   "devDependencies": {
