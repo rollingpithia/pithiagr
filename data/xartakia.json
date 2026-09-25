@@ -1,0 +1,1531 @@
+{
+  "type": 1,
+  "image": "/assets/catalogue/xartakia-cat-87.jpg",
+  "icons": {
+    "Per Pack Quantity & Display Quantity": "/assets/icons/pack.svg",
+    "Dimentions": "/assets/icons/dimensions.svg",
+    "Thickness": "/assets/icons/thickness.svg",
+    "Grams/Weight": "/assets/icons/weight.svg",
+    "Burn Rate": "/assets/icons/burn.svg"
+  },
+  "sourceLanguage": "el",
+  "languages": [
+    "el",
+    "en",
+    "es",
+    "nl"
+  ],
+  "translationNotes": {
+    "sourceLanguage": "el",
+    "languages": [
+      {
+        "id": "el",
+        "name": "Greek",
+        "role": "source"
+      },
+      {
+        "id": "en",
+        "name": "English",
+        "role": "translation"
+      },
+      {
+        "id": "es",
+        "name": "Spanish",
+        "role": "translation"
+      },
+      {
+        "id": "nl",
+        "name": "Dutch",
+        "role": "translation"
+      }
+    ],
+    "howToTranslate": [
+      "Greek (el) is entered manually and is the only source. Do not edit el. Write en, es, and nl from el.",
+      "If el is null, leave en, es, and nl null.",
+      "Translate the product, not isolated words. A name, category, attributes, and description for the same product must use the same terms.",
+      "Keep paragraph breaks. Do not add claims, slogans, or details that are not in the Greek.",
+      "Do not translate the top-level note, SKU, Active, Image, Diameter, Filter Type, Dimentions, or Grams/Weight. Those stay as they are."
+    ],
+    "brandAndLineNames": [
+      "Πυθία, Πυθια, and ΠΥΘΙΑ are the brand. In en, es, and nl write PITHIA. Do not translate the meaning.",
+      "ΦΥΣΙΣ is the line name. In English, Spanish, and Dutch write Fysis. Do not translate it as nature, natural, or físico.",
+      "Greek uses ΦΥΣΙΣ. In en, es, and nl write Fysis."
+    ],
+    "keepAsWritten": [
+      "Slim",
+      "Ultra Slim",
+      "Super Slim",
+      "Long Ultra Slim",
+      "Long",
+      "King Size",
+      "K.S",
+      "Classic",
+      "Special Edition",
+      "SE",
+      "Pocket",
+      "Tips",
+      "1&1/4",
+      "Natura",
+      "Activated carbon",
+      "Display",
+      "booklet"
+    ],
+    "productTerms": {
+      "rule": "Use the word smokers in that country use for the product. Do not translate χαρτάκια or φιλτράκια literally. Use the same local term every time that product type appears in a name, category, or description.",
+      "χαρτάκια": {
+        "en": "rolling papers",
+        "es": "papel de liar",
+        "nl": "vloeitjes"
+      },
+      "φιλτράκια / φίλτρα": {
+        "en": "filter tips",
+        "es": "filtros",
+        "nl": "filtertips",
+        "note": "These are the acetate filter tips. Do not call them papers."
+      },
+      "τζιβάνες": {
+        "en": "tips",
+        "es": "tips",
+        "nl": "tips",
+        "note": "Paper tips. Keep them distinct from φιλτράκια. Do not call them filter tips."
+      },
+      "καπνοθήκες": {
+        "en": "tobacco cases",
+        "es": "tabaqueras",
+        "nl": "tabaksdozen"
+      },
+      "πορτοφόλια": {
+        "en": "wallets",
+        "es": "carteras",
+        "nl": "portemonnees"
+      }
+    },
+    "specs": [
+      "Translate only the words. Leave numbers, SKUs, mm, g/m², and size punctuation unchanged.",
+      "ΠΟΛΥ ΛΕΠΤΟ: en extra thin, es muy fino, nl extra dun.",
+      "ΜΕΣΑΙΟ: en medium, es medio, nl medium.",
+      "Βραδείας: en slow burning, es combustión lenta, nl langzaam brandend.",
+      "Κανονική: en regular burning, es combustión normal, nl normaal brandend.",
+      "Color words in names are translated (Γαλάζιο, Ασημί, Πράσινο, Μαύρο, Μπλε, Ακατέργαστο). English color words already in the Greek name stay in English for en and are translated for es and nl.",
+      "Category paths keep the ' > ' separator and the same order. Translate each segment.",
+      "Attributes stay a comma-separated list in the same order. Translate a word only when it is not in keepAsWritten or brandAndLineNames."
+    ],
+    "style": [
+      "Match the Greek tone: concrete, product-first, calm. No extra marketing.",
+      "Where the Greek speaks to the reader, keep that address in the translation.",
+      "Keep a repeated regulatory sentence about European standards, tar, and carbon monoxide when it is present. Do not drop it and do not strengthen it."
+    ]
+  },
+  "description": {
+    "el": "Σχεδιασμένη για να σέβεται και να αναδεικνύει την αυθεντική γεύση του καπνού, η συλλογή από χαρτάκια Πυθία προσαρμόζεται σε κάθε συνήθεια, περιλαμβάνοντας κλασικά μεγέθη, ακατέργαστες επιλογές, φυσικές επιλογές (ΦΥΣΙΣ) και μεγάλες εκδόσεις King Size. Κάθε χαρτάκι διαθέτει σταθερή υφή που εγγυάται σίγουρο αποτέλσμα χωρίς ανεπιθύμητα τσακίσματα. Είτε προτιμάτε πολύ λεπτά χαρτάκια για εξαιρετικά βραδεία καύση είτε μεσαίο πάχος για πιο άμεσο αποτέλεσμα, η σειρά προσφέρει ομοιόμορφη, προβλέψιμη καύση και απόλυτα καθαρή αίσθηση δημιουργούντας μία ολοκληρωμένη εμπειρία.",
+    "en": "Designed to respect and bring out the authentic taste of tobacco, the PITHIA rolling papers collection adapts to every habit, including classic sizes, unbleached options, natural options (Fysis), and large King Size editions. Every rolling paper has a consistent texture that guarantees a sure result without unwanted creasing. Whether you prefer extra thin rolling papers for an exceptionally slow burn or a medium thickness for a more immediate result, the line offers an even, predictable burn and a perfectly clean feel, creating a complete experience.",
+    "es": "Diseñada para respetar y realzar el sabor auténtico del tabaco, la colección de papel de liar PITHIA se adapta a cada costumbre e incluye tamaños clásicos, opciones sin blanquear, opciones naturales (Fysis) y grandes ediciones King Size. Cada papel de liar tiene una textura constante que garantiza un resultado seguro, sin arrugas indeseadas. Tanto si prefiere papel de liar muy fino para una combustión excepcionalmente lenta como un grosor medio para un resultado más inmediato, la línea ofrece una combustión uniforme y previsible y una sensación totalmente limpia, creando una experiencia completa.",
+    "nl": "Ontworpen om de authentieke smaak van de tabak te respecteren en tot zijn recht te laten komen, past de collectie vloeitjes van PITHIA zich aan elke gewoonte aan, met klassieke formaten, ongebleekte varianten, natuurlijke varianten (Fysis) en grote edities in King Size. Elk vloeitje heeft een constante textuur die een zeker resultaat garandeert, zonder ongewenste kreukels. Of u nu de voorkeur geeft aan extra dunne vloeitjes voor een uitzonderlijk langzame verbranding of aan een medium dikte voor een directer resultaat, de lijn biedt een gelijkmatige, voorspelbare verbranding en een volkomen zuiver gevoel, voor een complete ervaring."
+  },
+  "note": "Note: Main columns are SKU (but optional), Name, Category, Atrributes, Active, Image, Short Description, Description, Alt Text (for Type 2). The other columns are to be read and added as information icons and for each category or type product they differ Active is to display or not, ignoring the product.",
+  "products": [
+    {
+      "SKU": "P00001",
+      "Name": {
+        "el": "Πυθία Χαρτάκια Γαλάζιο",
+        "en": "PITHIA Rolling Papers Light Blue",
+        "es": "PITHIA Papel de Liar Celeste",
+        "nl": "PITHIA Vloeitjes Lichtblauw"
+      },
+      "Category": {
+        "el": "Χαρτάκια > Πυθία Χαρτάκια Classic",
+        "en": "Rolling Papers > PITHIA Rolling Papers Classic",
+        "es": "Papel de Liar > PITHIA Papel de Liar Classic",
+        "nl": "Vloeitjes > PITHIA Vloeitjes Classic"
+      },
+      "Attributes": {
+        "el": "Classic",
+        "en": "Classic",
+        "es": "Classic",
+        "nl": "Classic"
+      },
+      "Per Pack Quantity & Display Quantity": {
+        "el": "Συσκευασία: 50 τεμάχια (60 φύλλα/τεμάχιο)",
+        "en": "Packaging: 50 units (60 leaves/unit)",
+        "es": "Presentación: 50 unidades (60 hojas/unidad)",
+        "nl": "Verpakking: 50 stuks (60 vellen/stuk)"
+      },
+      "Dimentions": "70 x 36mm",
+      "Thickness": {
+        "el": "ΠΟΛΥ ΛΕΠΤΟ",
+        "en": "EXTRA THIN",
+        "es": "MUY FINO",
+        "nl": "EXTRA DUN"
+      },
+      "Grams/Weight": "14 g/m²",
+      "Burn Rate": {
+        "el": "Βραδείας",
+        "en": "Slow burning",
+        "es": "Combustión lenta",
+        "nl": "Langzaam brandend"
+      },
+      "Active": true,
+      "Image": "/assets/catalogue/xartakia/P00001-1.webp",
+      "Short Description": {
+        "el": "Πολύ λεπτά χαρτάκια, 14 g/m², που καίγονται αργά και ομοιόμορφα, χωρίς άλλη γεύση από αυτήν που τους δίνεις. 60 σε κάθε booklet, κλασικό μέγεθος 70 × 36 mm. 50 τεμάχια ανά Display. Χωρίς χλώριο. Τα κλασικά χαρτάκια μας πληρούν όλες τις ευρωπαϊκές προδιαγραφές και έχουν σχεδιαστεί ώστε να μειώνουν αποτελεσματικά την πίσσα και το μονοξείδιο του άνθρακα.",
+        "en": "Extra thin rolling papers, 14 g/m², that burn slowly and evenly, with no taste other than the one you give them. 60 in every booklet, classic size 70 × 36 mm. 50 units per Display. Chlorine-free. Our classic rolling papers meet all European standards and have been designed to effectively reduce tar and carbon monoxide.",
+        "es": "Papel de liar muy fino, 14 g/m², que arde despacio y de forma uniforme, sin más sabor que el que le das. 60 en cada booklet, tamaño clásico 70 × 36 mm. 50 unidades por Display. Sin cloro. Nuestro papel de liar clásico cumple todas las normas europeas y ha sido diseñado para reducir eficazmente el alquitrán y el monóxido de carbono.",
+        "nl": "Extra dunne vloeitjes, 14 g/m², die langzaam en gelijkmatig branden, zonder andere smaak dan die je ze geeft. 60 in elk booklet, klassiek formaat 70 × 36 mm. 50 stuks per Display. Chloorvrij. Onze klassieke vloeitjes voldoen aan alle Europese normen en zijn ontworpen om teer en koolmonoxide effectief te verminderen."
+      },
+      "Description": {
+        "el": "Πολύ λεπτά χαρτάκια που κρατούν το σχήμα τους και καίγονται αργά και ομοιόμορφα, χωρίς άλλη γεύση πέρα από αυτήν που τους δίνεις. Εξήντα σε κάθε booklet, χωρίς χλώριο. Από φυσικές πρώτες ύλες. Κατασκευάζονται στην Ισπανία, μένοντας πιστά σε μια παράδοση χαρτοποιίας στη γενέτειρα του ριζόχαρτου και ολοκληρώνονται εδώ με ένα έργο που θα κρατούσες και μετά το τελευταίο χαρτάκι. Το χαρτάκι που αναγνωρίζεις από απόσταση στο τραπέζι. Διάλεξε τον ουρανό σου.",
+        "en": "Extra thin rolling papers that hold their shape and burn slowly and evenly, with no taste beyond the one you give them. Sixty in every booklet, chlorine-free. From natural raw materials. Made in Spain, staying true to a papermaking tradition in the birthplace of rolling paper, and finished here with artwork you would keep even after the last rolling paper is gone. The rolling paper you recognize from across the table. Choose your sky.",
+        "es": "Papel de liar muy fino que mantiene su forma y arde despacio y de forma uniforme, sin más sabor que el que le das. Sesenta en cada booklet, sin cloro. De materias primas naturales. Se fabrica en España, manteniéndose fiel a una tradición papelera en la cuna del papel de liar, y se termina aquí con una obra que guardarías incluso después del último papel de liar. El papel de liar que reconoces desde el otro lado de la mesa. Elige tu cielo.",
+        "nl": "Extra dunne vloeitjes die hun vorm houden en langzaam en gelijkmatig branden, zonder andere smaak dan die je ze geeft. Zestig in elk booklet, chloorvrij. Van natuurlijke grondstoffen. Gemaakt in Spanje, nog altijd trouw aan een traditie van papiermakerij in de bakermat van het vloeipapier, en hier afgewerkt met een werk dat je ook na het laatste vloeitje zou bewaren. Het vloeitje dat je van de andere kant van de tafel herkent. Kies je hemel."
+      },
+      "Alt Text": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      }
+    },
+    {
+      "SKU": "P00002",
+      "Name": {
+        "el": "Πυθία Χαρτάκια Ασημί",
+        "en": "PITHIA Rolling Papers Silver",
+        "es": "PITHIA Papel de Liar Plata",
+        "nl": "PITHIA Vloeitjes Zilver"
+      },
+      "Category": {
+        "el": "Χαρτάκια > Πυθία Χαρτάκια Classic",
+        "en": "Rolling Papers > PITHIA Rolling Papers Classic",
+        "es": "Papel de Liar > PITHIA Papel de Liar Classic",
+        "nl": "Vloeitjes > PITHIA Vloeitjes Classic"
+      },
+      "Attributes": {
+        "el": "Classic",
+        "en": "Classic",
+        "es": "Classic",
+        "nl": "Classic"
+      },
+      "Per Pack Quantity & Display Quantity": {
+        "el": "Συσκευασία: 50 τεμάχια (60 φύλλα/τεμάχιο)",
+        "en": "Packaging: 50 units (60 leaves/unit)",
+        "es": "Presentación: 50 unidades (60 hojas/unidad)",
+        "nl": "Verpakking: 50 stuks (60 vellen/stuk)"
+      },
+      "Dimentions": "70 x 36mm",
+      "Thickness": {
+        "el": "ΠΟΛΥ ΛΕΠΤΟ",
+        "en": "EXTRA THIN",
+        "es": "MUY FINO",
+        "nl": "EXTRA DUN"
+      },
+      "Grams/Weight": "14 g/m²",
+      "Burn Rate": {
+        "el": "Βραδείας",
+        "en": "Slow burning",
+        "es": "Combustión lenta",
+        "nl": "Langzaam brandend"
+      },
+      "Active": true,
+      "Image": "/assets/catalogue/xartakia/P00002-1.webp",
+      "Short Description": {
+        "el": "Πολύ λεπτά χαρτάκια, 14 g/m², που καίγονται αργά και ομοιόμορφα, χωρίς άλλη γεύση από αυτήν που τους δίνεις. 60 σε κάθε booklet, κλασικό μέγεθος 70 × 36 mm. 50 τεμάχια ανά Display. Χωρίς χλώριο. Τα κλασικά χαρτάκια μας πληρούν όλες τις ευρωπαϊκές προδιαγραφές και έχουν σχεδιαστεί ώστε να μειώνουν αποτελεσματικά την πίσσα και το μονοξείδιο του άνθρακα.",
+        "en": "Extra thin rolling papers, 14 g/m², that burn slowly and evenly, with no taste other than the one you give them. 60 in every booklet, classic size 70 × 36 mm. 50 units per Display. Chlorine-free. Our classic rolling papers meet all European standards and have been designed to effectively reduce tar and carbon monoxide.",
+        "es": "Papel de liar muy fino, 14 g/m², que arde despacio y de forma uniforme, sin más sabor que el que le das. 60 en cada booklet, tamaño clásico 70 × 36 mm. 50 unidades por Display. Sin cloro. Nuestro papel de liar clásico cumple todas las normas europeas y ha sido diseñado para reducir eficazmente el alquitrán y el monóxido de carbono.",
+        "nl": "Extra dunne vloeitjes, 14 g/m², die langzaam en gelijkmatig branden, zonder andere smaak dan die je ze geeft. 60 in elk booklet, klassiek formaat 70 × 36 mm. 50 stuks per Display. Chloorvrij. Onze klassieke vloeitjes voldoen aan alle Europese normen en zijn ontworpen om teer en koolmonoxide effectief te verminderen."
+      },
+      "Description": {
+        "el": "Πολύ λεπτά χαρτάκια που υποχωρούν στα δάχτυλα και καίγονται αργά, χωρίς να προσθέτουν τίποτα δικό τους στη γεύση. Εξήντα σε κάθε booklet, χωρίς χλώριο. Από φυσικές πρώτες ύλες. Κατασκευάζονται στην Ισπανία, πιστά σε μια παράδοση χαρτοποιίας στη γενέτειρα του ριζόχαρτου και ολοκληρώνονται εδώ με ένα έργο που θα κρατούσες και μετά το τελευταίο χαρτάκι και το αναγνωρίζεις από απόσταση στο τραπέζι. Για όσους δηλώνουν όσα θέλουν αθόρυβα. Διάλεξε τον ουρανό σου.",
+        "en": "Extra thin rolling papers that yield between the fingers and burn slowly, adding nothing of their own to the taste. Sixty in every booklet, chlorine-free. From natural raw materials. Made in Spain, true to a papermaking tradition in the birthplace of rolling paper, and finished here with artwork you would keep even after the last rolling paper is gone, and that you recognize from across the table. For those who say what they want, quietly. Choose your sky.",
+        "es": "Papel de liar muy fino que cede entre los dedos y arde despacio, sin aportar nada propio al sabor. Sesenta en cada booklet, sin cloro. De materias primas naturales. Se fabrica en España, fiel a una tradición papelera en la cuna del papel de liar, y se termina aquí con una obra que guardarías incluso después del último papel de liar y que reconoces desde el otro lado de la mesa. Para quienes dicen lo que quieren sin hacer ruido. Elige tu cielo.",
+        "nl": "Extra dunne vloeitjes die meegeven tussen de vingers en langzaam branden, zonder iets eigens aan de smaak toe te voegen. Zestig in elk booklet, chloorvrij. Van natuurlijke grondstoffen. Gemaakt in Spanje, trouw aan een traditie van papiermakerij in de bakermat van het vloeipapier, en hier afgewerkt met een werk dat je ook na het laatste vloeitje zou bewaren en dat je van de andere kant van de tafel herkent. Voor mensen die zonder ophef zeggen wat ze willen. Kies je hemel."
+      },
+      "Alt Text": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      }
+    },
+    {
+      "SKU": "P00048",
+      "Name": {
+        "el": "Πυθία Χαρτάκια Πράσινο",
+        "en": "PITHIA Rolling Papers Green",
+        "es": "PITHIA Papel de Liar Verde",
+        "nl": "PITHIA Vloeitjes Groen"
+      },
+      "Category": {
+        "el": "Χαρτάκια > Πυθία Χαρτάκια Classic",
+        "en": "Rolling Papers > PITHIA Rolling Papers Classic",
+        "es": "Papel de Liar > PITHIA Papel de Liar Classic",
+        "nl": "Vloeitjes > PITHIA Vloeitjes Classic"
+      },
+      "Attributes": {
+        "el": "Classic",
+        "en": "Classic",
+        "es": "Classic",
+        "nl": "Classic"
+      },
+      "Per Pack Quantity & Display Quantity": {
+        "el": "Συσκευασία: 50 τεμάχια (60 φύλλα/τεμάχιο)",
+        "en": "Packaging: 50 units (60 leaves/unit)",
+        "es": "Presentación: 50 unidades (60 hojas/unidad)",
+        "nl": "Verpakking: 50 stuks (60 vellen/stuk)"
+      },
+      "Dimentions": "70 x 36mm",
+      "Thickness": {
+        "el": "ΜΕΣΑΙΟ",
+        "en": "MEDIUM",
+        "es": "MEDIO",
+        "nl": "MEDIUM"
+      },
+      "Grams/Weight": "18 g/m²",
+      "Burn Rate": {
+        "el": "Κανονική",
+        "en": "Regular burning",
+        "es": "Combustión normal",
+        "nl": "Normaal brandend"
+      },
+      "Active": true,
+      "Image": "/assets/catalogue/xartakia/P00048-1.jpg",
+      "Short Description": {
+        "el": "Φύλλα με σώμα που στέκονται μόνα τους και καίγονται σταθερά ως το τέλος. 60 σε κάθε booklet. Μεσαίο πάχος, 18 g/m², 70 × 36 mm. 50 τεμάχια ανά Display. Τα κλασικά χαρτάκια μας πληρούν όλες τις ευρωπαϊκές προδιαγραφές και έχουν σχεδιαστεί ώστε να μειώνουν αποτελεσματικά την πίσσα και το μονοξείδιο του άνθρακα.",
+        "en": "Leaves with body that stand on their own and burn steadily to the end. 60 in every booklet. Medium thickness, 18 g/m², 70 × 36 mm. 50 units per Display. Our classic rolling papers meet all European standards and have been designed to effectively reduce tar and carbon monoxide.",
+        "es": "Hojas con cuerpo que se sostienen solas y arden de forma constante hasta el final. 60 en cada booklet. Grosor medio, 18 g/m², 70 × 36 mm. 50 unidades por Display. Nuestro papel de liar clásico cumple todas las normas europeas y ha sido diseñado para reducir eficazmente el alquitrán y el monóxido de carbono.",
+        "nl": "Vellen met body die op zichzelf blijven staan en gestaag branden tot het einde. 60 in elk booklet. Medium dikte, 18 g/m², 70 × 36 mm. 50 stuks per Display. Onze klassieke vloeitjes voldoen aan alle Europese normen en zijn ontworpen om teer en koolmonoxide effectief te verminderen."
+      },
+      "Description": {
+        "el": "Τα χαρτάκια Πυθία Πράσινο ξεχωρίζουν για τη σταθερή τους υφή, προσφέροντας απόλυτο έλεγχο και ευκολία παντού. Με μεσαίο πάχος που διατηρεί άψογα τη δομή του ανάμεσα στα δάχτυλα χωρίς να τσακίζει, εξασφαλίζουν κανονική και προβλέψιμη καύση από την αρχή μέχρι το τέλος. Αποτελούν την πιο στιβαρή, \"χειροπιαστή\" επιλογή της κλασικής σειράς, παράγονται χωρίς λεύκανση χλωρίου και πληρούν αυστηρές ευρωπαϊκές προδιαγραφές ποιότητας. Μια απόλυτα αξιόπιστη, καθημερινή λύση που ανταποκρίνεται στις ανάγκες του καθένα.",
+        "en": "PITHIA Green rolling papers stand out for their consistent texture, offering complete control and ease anywhere. Their medium thickness holds its structure perfectly between the fingers without creasing, ensuring a regular, predictable burn from start to finish. They are the sturdiest, most \"tangible\" choice in the classic line, produced without chlorine bleaching and meeting strict European quality standards. A thoroughly reliable, everyday solution that meets everyone's needs.",
+        "es": "El papel de liar PITHIA Verde destaca por su textura constante, que ofrece un control absoluto y comodidad en cualquier lugar. Con un grosor medio que conserva perfectamente su estructura entre los dedos sin arrugarse, asegura una combustión normal y previsible de principio a fin. Es la opción más robusta y \"tangible\" de la línea clásica, se produce sin blanqueo con cloro y cumple estrictas normas europeas de calidad. Una solución cotidiana totalmente fiable que responde a las necesidades de cada uno.",
+        "nl": "De vloeitjes PITHIA Groen onderscheiden zich door hun constante textuur, die overal volledige controle en gemak biedt. Met een medium dikte die tussen de vingers perfect in vorm blijft zonder te kreuken, zorgen ze voor een normale, voorspelbare verbranding van begin tot eind. Ze zijn de stevigste, meest \"tastbare\" keuze uit de klassieke lijn, worden geproduceerd zonder chloorbleking en voldoen aan strenge Europese kwaliteitsnormen. Een volkomen betrouwbare oplossing voor elke dag, die aan ieders behoeften voldoet."
+      },
+      "Alt Text": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      }
+    },
+    {
+      "SKU": "P00060",
+      "Name": {
+        "el": "Πυθία Χαρτάκια Μαύρο",
+        "en": "PITHIA Rolling Papers Black",
+        "es": "PITHIA Papel de Liar Negro",
+        "nl": "PITHIA Vloeitjes Zwart"
+      },
+      "Category": {
+        "el": "Χαρτάκια > Πυθία Χαρτάκια Classic",
+        "en": "Rolling Papers > PITHIA Rolling Papers Classic",
+        "es": "Papel de Liar > PITHIA Papel de Liar Classic",
+        "nl": "Vloeitjes > PITHIA Vloeitjes Classic"
+      },
+      "Attributes": {
+        "el": "Classic",
+        "en": "Classic",
+        "es": "Classic",
+        "nl": "Classic"
+      },
+      "Per Pack Quantity & Display Quantity": {
+        "el": "Συσκευασία: 50 τεμάχια (50 φύλλα/τεμάχιο)",
+        "en": "Packaging: 50 units (50 leaves/unit)",
+        "es": "Presentación: 50 unidades (50 hojas/unidad)",
+        "nl": "Verpakking: 50 stuks (50 vellen/stuk)"
+      },
+      "Dimentions": "70 x 36mm",
+      "Thickness": {
+        "el": "ΠΟΛΥ ΛΕΠΤΟ",
+        "en": "EXTRA THIN",
+        "es": "MUY FINO",
+        "nl": "EXTRA DUN"
+      },
+      "Grams/Weight": "13 g/m²",
+      "Burn Rate": {
+        "el": "Βραδείας",
+        "en": "Slow burning",
+        "es": "Combustión lenta",
+        "nl": "Langzaam brandend"
+      },
+      "Active": true,
+      "Image": "/assets/catalogue/xartakia/P00060-1.jpg",
+      "Short Description": {
+        "el": "Πολύ λεπτά. 13 g/m², 70 × 36 mm. 60 σε κάθε booklet. 50 τεμάχια ανά Display. Τα κλασικά χαρτάκια μας πληρούν όλες τις ευρωπαϊκές προδιαγραφές και έχουν σχεδιαστεί ώστε να μειώνουν αποτελεσματικά την πίσσα και το μονοξείδιο του άνθρακα.",
+        "en": "Extra thin. 13 g/m², 70 × 36 mm. 60 in every booklet. 50 units per Display. Our classic rolling papers meet all European standards and have been designed to effectively reduce tar and carbon monoxide.",
+        "es": "Muy fino. 13 g/m², 70 × 36 mm. 60 en cada booklet. 50 unidades por Display. Nuestro papel de liar clásico cumple todas las normas europeas y ha sido diseñado para reducir eficazmente el alquitrán y el monóxido de carbono.",
+        "nl": "Extra dun. 13 g/m², 70 × 36 mm. 60 in elk booklet. 50 stuks per Display. Onze klassieke vloeitjes voldoen aan alle Europese normen en zijn ontworpen om teer en koolmonoxide effectief te verminderen."
+      },
+      "Description": {
+        "el": "Από τα πιο λεπτά χαρτάκια που προσφέρει η Πυθία. Το κρατάς και το ξεχνάς, το στρίβεις και χάνεται, και δεν αφήνει καμία γεύση εκτός από του καπνού σου. Καίγεται αργά και υπομονετικά. Πενήντα σε κάθε booklet, από φυσικές πρώτες ύλες και χωρίς χλώριο. Για τους απαιτητικούς και για όσους ξέρουν τι κάνουν ή για αυτούς που θέλουν να δοκιμάσουν κάτι διαφορετικό.",
+        "en": "Among the thinnest rolling papers PITHIA offers. You hold it and forget it, you roll it and it disappears, and it leaves no taste except that of your tobacco. It burns slowly, patiently. Fifty in every booklet, from natural raw materials and chlorine-free. For the demanding and for those who know what they are doing, or for those who want to try something different.",
+        "es": "Entre los papeles de liar más finos que ofrece PITHIA. Lo sostienes y te olvidas de él, lo lías y desaparece, y no deja más sabor que el de tu tabaco. Arde despacio, con paciencia. Cincuenta en cada booklet, de materias primas naturales y sin cloro. Para los exigentes y para quienes saben lo que hacen, o para quienes quieren probar algo distinto.",
+        "nl": "Een van de dunste vloeitjes die PITHIA aanbiedt. Je houdt het vast en vergeet het, je draait het en het verdwijnt, en het laat geen andere smaak achter dan die van je tabak. Het brandt langzaam en geduldig. Vijftig in elk booklet, van natuurlijke grondstoffen en chloorvrij. Voor de veeleisenden en voor mensen die weten wat ze doen, of voor wie iets anders wil proberen."
+      },
+      "Alt Text": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      }
+    },
+    {
+      "SKU": "P00067",
+      "Name": {
+        "el": "Πυθία Χαρτάκια Μπλε",
+        "en": "PITHIA Rolling Papers Blue",
+        "es": "PITHIA Papel de Liar Azul",
+        "nl": "PITHIA Vloeitjes Blauw"
+      },
+      "Category": {
+        "el": "Χαρτάκια > Πυθία Χαρτάκια Classic",
+        "en": "Rolling Papers > PITHIA Rolling Papers Classic",
+        "es": "Papel de Liar > PITHIA Papel de Liar Classic",
+        "nl": "Vloeitjes > PITHIA Vloeitjes Classic"
+      },
+      "Attributes": {
+        "el": "Classic",
+        "en": "Classic",
+        "es": "Classic",
+        "nl": "Classic"
+      },
+      "Per Pack Quantity & Display Quantity": {
+        "el": "Συσκευασία: 50 τεμάχια (50 φύλλα/τεμάχιο)",
+        "en": "Packaging: 50 units (50 leaves/unit)",
+        "es": "Presentación: 50 unidades (50 hojas/unidad)",
+        "nl": "Verpakking: 50 stuks (50 vellen/stuk)"
+      },
+      "Dimentions": "70 x 36mm",
+      "Thickness": {
+        "el": "ΜΕΣΑΙΟ",
+        "en": "MEDIUM",
+        "es": "MEDIO",
+        "nl": "MEDIUM"
+      },
+      "Grams/Weight": "18 g/m²",
+      "Burn Rate": {
+        "el": "Κανονική",
+        "en": "Regular burning",
+        "es": "Combustión normal",
+        "nl": "Normaal brandend"
+      },
+      "Active": false,
+      "Image": "/assets/catalogue/xartakia/P00067-1.jpg",
+      "Short Description": {
+        "el": "Μεσαίο πάχος, 18 g/m².  Κανονική καύση, σταθερή και ομοιόμορφη σε όλο το μήκος. Φυσικές πρώτες ύλες, χωρίς χλώριο. 50 σε κάθε booklet. 50 τεμάχια ανά Display. Τα κλασικά χαρτάκια μας πληρούν όλες τις ευρωπαϊκές προδιαγραφές και έχουν σχεδιαστεί ώστε να μειώνουν αποτελεσματικά την πίσσα και το μονοξείδιο του άνθρακα.",
+        "en": "Medium thickness, 18 g/m². Regular burning, steady and even along the entire length. Natural raw materials, chlorine-free. 50 in every booklet. 50 units per Display. Our classic rolling papers meet all European standards and have been designed to effectively reduce tar and carbon monoxide.",
+        "es": "Grosor medio, 18 g/m². Combustión normal, constante y uniforme en toda su longitud. Materias primas naturales, sin cloro. 50 en cada booklet. 50 unidades por Display. Nuestro papel de liar clásico cumple todas las normas europeas y ha sido diseñado para reducir eficazmente el alquitrán y el monóxido de carbono.",
+        "nl": "Medium dikte, 18 g/m². Normaal brandend, gestaag en gelijkmatig over de hele lengte. Natuurlijke grondstoffen, chloorvrij. 50 in elk booklet. 50 stuks per Display. Onze klassieke vloeitjes voldoen aan alle Europese normen en zijn ontworpen om teer en koolmonoxide effectief te verminderen."
+      },
+      "Description": {
+        "el": "Τα Μπλε χαρτάκια Πυθία αποτελούν μια κλασική και αξιόπιστη επιλογή. Χάρη στο μεσαίο τους πάχος (18 g/m²), προσφέρουν εξαιρετική αίσθηση στην αφή και διπλώνουν με απόλυτη ευκολία. Καίγονται σταθερά και ομοιόμορφα από την αρχή μέχρι το τέλος, ενώ η κατασκευή τους από φυσικές πρώτες ύλες χωρίς λεύκανση χλωρίου διατηρεί καθαρή την αυθεντική γεύση του καπνού.",
+        "en": "PITHIA Blue rolling papers are a classic, reliable choice. Thanks to their medium thickness (18 g/m²), they feel excellent to the touch and fold with complete ease. They burn steadily and evenly from start to finish, while their natural raw materials, free of chlorine bleaching, keep the authentic taste of the tobacco clean.",
+        "es": "El papel de liar PITHIA Azul es una opción clásica y fiable. Gracias a su grosor medio (18 g/m²), ofrece un tacto excelente y se dobla con total facilidad. Arde de forma constante y uniforme de principio a fin, mientras que su fabricación con materias primas naturales sin blanqueo con cloro mantiene limpio el sabor auténtico del tabaco.",
+        "nl": "De vloeitjes PITHIA Blauw zijn een klassieke, betrouwbare keuze. Dankzij hun medium dikte (18 g/m²) voelen ze uitstekend aan en laten ze zich met het grootste gemak vouwen. Ze branden gestaag en gelijkmatig van begin tot eind, terwijl de natuurlijke grondstoffen zonder chloorbleking de authentieke smaak van de tabak zuiver houden."
+      },
+      "Alt Text": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      }
+    },
+    {
+      "SKU": "P00046",
+      "Name": {
+        "el": "Πυθία Χαρτάκια Ασημί",
+        "en": "PITHIA Rolling Papers Silver",
+        "es": "PITHIA Papel de Liar Plata",
+        "nl": "PITHIA Vloeitjes Zilver"
+      },
+      "Category": {
+        "el": "Χαρτάκια > Πυθία Χαρτάκια Classic",
+        "en": "Rolling Papers > PITHIA Rolling Papers Classic",
+        "es": "Papel de Liar > PITHIA Papel de Liar Classic",
+        "nl": "Vloeitjes > PITHIA Vloeitjes Classic"
+      },
+      "Attributes": {
+        "el": "Classic",
+        "en": "Classic",
+        "es": "Classic",
+        "nl": "Classic"
+      },
+      "Per Pack Quantity & Display Quantity": {
+        "el": "Συσκευασία: 50 τεμάχια (50 φύλλα/τεμάχιο)",
+        "en": "Packaging: 50 units (50 leaves/unit)",
+        "es": "Presentación: 50 unidades (50 hojas/unidad)",
+        "nl": "Verpakking: 50 stuks (50 vellen/stuk)"
+      },
+      "Dimentions": "70 x 36mm",
+      "Thickness": {
+        "el": "ΠΟΛΥ ΛΕΠΤΟ",
+        "en": "EXTRA THIN",
+        "es": "MUY FINO",
+        "nl": "EXTRA DUN"
+      },
+      "Grams/Weight": "14 g/m²",
+      "Burn Rate": {
+        "el": "Βραδείας",
+        "en": "Slow burning",
+        "es": "Combustión lenta",
+        "nl": "Langzaam brandend"
+      },
+      "Active": false,
+      "Image": "/assets/catalogue/xartakia/P00046-1.webp",
+      "Short Description": {
+        "el": "Πολύ λεπτά χαρτάκια, 14 g/m², που καίγονται αργά και ομοιόμορφα. 50 σε κάθε booklet, κλασικό μέγεθος 70 × 36 mm. 50 τεμάχια ανά Display. Χωρίς χλώριο. Τα κλασικά χαρτάκια μας πληρούν όλες τις ευρωπαϊκές προδιαγραφές και έχουν σχεδιαστεί ώστε να μειώνουν αποτελεσματικά την πίσσα και το μονοξείδιο του άνθρακα.",
+        "en": "Extra thin rolling papers, 14 g/m², that burn slowly and evenly. 50 in every booklet, classic size 70 × 36 mm. 50 units per Display. Chlorine-free. Our classic rolling papers meet all European standards and have been designed to effectively reduce tar and carbon monoxide.",
+        "es": "Papel de liar muy fino, 14 g/m², que arde despacio y de forma uniforme. 50 en cada booklet, tamaño clásico 70 × 36 mm. 50 unidades por Display. Sin cloro. Nuestro papel de liar clásico cumple todas las normas europeas y ha sido diseñado para reducir eficazmente el alquitrán y el monóxido de carbono.",
+        "nl": "Extra dunne vloeitjes, 14 g/m², die langzaam en gelijkmatig branden. 50 in elk booklet, klassiek formaat 70 × 36 mm. 50 stuks per Display. Chloorvrij. Onze klassieke vloeitjes voldoen aan alle Europese normen en zijn ontworpen om teer en koolmonoxide effectief te verminderen."
+      },
+      "Description": {
+        "el": "Τα Ασημί χαρτάκια Πυθία είναι σχεδιασμένα για όσους προτιμούν εξαιρετικά λεπτό χαρτί για το στρίψιμό τους. Με βάρος μόλις 14 g/m², προσφέρουν αργή και ισορροπημένη καύση, επιτρέποντας στη γεύση του καπνού να αναδειχθεί πλήρως χωρίς ανεπιθύμητη οσμή χαρτιού. Κατασκευασμένα από φυσικές πρώτες ύλες χωρίς λεύκανση χλωρίου, διπλώνουν εύκολα και προσφέρουν ένα ποιοτικό και καθαρό αποτέλεσμα σε κάθε χρήση.",
+        "en": "PITHIA Silver rolling papers are designed for those who prefer exceptionally thin paper for their rolling. Weighing just 14 g/m², they offer a slow, balanced burn, letting the taste of the tobacco come through fully with no unwanted paper smell. Made from natural raw materials without chlorine bleaching, they fold easily and deliver a clean, quality result with every use.",
+        "es": "El papel de liar PITHIA Plata está diseñado para quienes prefieren un papel excepcionalmente fino para liar. Con un peso de solo 14 g/m², ofrece una combustión lenta y equilibrada que deja que el sabor del tabaco se exprese plenamente, sin olor a papel indeseado. Fabricado con materias primas naturales sin blanqueo con cloro, se dobla con facilidad y ofrece un resultado limpio y de calidad en cada uso.",
+        "nl": "De vloeitjes PITHIA Zilver zijn ontworpen voor wie uitzonderlijk dun papier verkiest om te draaien. Met een gewicht van slechts 14 g/m² bieden ze een langzame, evenwichtige verbranding, waardoor de smaak van de tabak volledig tot zijn recht komt, zonder ongewenste papiergeur. Gemaakt van natuurlijke grondstoffen zonder chloorbleking laten ze zich makkelijk vouwen en geven ze bij elk gebruik een zuiver resultaat van hoge kwaliteit."
+      },
+      "Alt Text": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      }
+    },
+    {
+      "SKU": "P02615",
+      "Name": {
+        "el": "Πυθία Χαρτάκια ΦΥΣΙΣ Green",
+        "en": "PITHIA Rolling Papers Fysis Green",
+        "es": "PITHIA Papel de Liar Fysis Verde",
+        "nl": "PITHIA Vloeitjes Fysis Groen"
+      },
+      "Category": {
+        "el": "Χαρτάκια > Πυθία Χαρτάκια ΦΥΣΙΣ",
+        "en": "Rolling Papers > PITHIA Rolling Papers Fysis",
+        "es": "Papel de Liar > PITHIA Papel de Liar Fysis",
+        "nl": "Vloeitjes > PITHIA Vloeitjes Fysis"
+      },
+      "Attributes": {
+        "el": "ΦΥΣΙΣ",
+        "en": "Fysis",
+        "es": "Fysis",
+        "nl": "Fysis"
+      },
+      "Per Pack Quantity & Display Quantity": {
+        "el": "Συσκευασία: 50 τεμάχια (60 φύλλα/τεμάχιο)",
+        "en": "Packaging: 50 units (60 leaves/unit)",
+        "es": "Presentación: 50 unidades (60 hojas/unidad)",
+        "nl": "Verpakking: 50 stuks (60 vellen/stuk)"
+      },
+      "Dimentions": "70 x 36mm",
+      "Thickness": {
+        "el": "ΜΕΣΑΙΟ",
+        "en": "MEDIUM",
+        "es": "MEDIO",
+        "nl": "MEDIUM"
+      },
+      "Grams/Weight": "18 g/m²",
+      "Burn Rate": {
+        "el": "Κανονική",
+        "en": "Regular burning",
+        "es": "Combustión normal",
+        "nl": "Normaal brandend"
+      },
+      "Active": true,
+      "Image": "/assets/catalogue/xartakia/P02615-1.webp",
+      "Short Description": {
+        "el": "Χωρίς πλαστικό, χωρίς χημικά, με χρώμα από φυσικές χρωστικές τροφίμων. Μεσαίο πάχος, 18 g/m², με κανονική καύση, 70 × 36 mm. Χαρτάκια με σώμα, 60 σε κάθε booklet. 50 τεμάχια ανά Display.",
+        "en": "No plastic, no chemicals, with color from natural food colorings. Medium thickness, 18 g/m², regular burning, 70 × 36 mm. Rolling papers with body, 60 in every booklet. 50 units per Display.",
+        "es": "Sin plástico, sin químicos, con color procedente de colorantes alimentarios naturales. Grosor medio, 18 g/m², de combustión normal, 70 × 36 mm. Papel de liar con cuerpo, 60 en cada booklet. 50 unidades por Display.",
+        "nl": "Zonder plastic, zonder chemicaliën, met kleur uit natuurlijke voedingskleurstoffen. Medium dikte, 18 g/m², normaal brandend, 70 × 36 mm. Vloeitjes met body, 60 in elk booklet. 50 stuks per Display."
+      },
+      "Description": {
+        "el": "Τίποτα στο χαρτάκι που να μην υπάρχει στη φύση: κανένα πλαστικό, κανένα χημικό, και χρώμα που έρχεται αποκλειστικά από φυσικές χρωστικές τροφίμων, εγκεκριμένες για χρήση. Χαρτάκια με σώμα που καίγονται σταθερά ως το τέλος, εξήντα σε κάθε booklet, με φυσική κόλλα ακακίας και χωρίς χλώριο. Για όσους κοιτάζουν τι κρατούν στα χέρια τους.",
+        "en": "Nothing in the rolling paper that isn't found in nature: no plastic, no chemicals, and color that comes solely from natural food colorings approved for use. Rolling papers with body that burn steadily to the end, sixty in every booklet, with natural acacia gum and no chlorine. For those who look at what they hold in their hands.",
+        "es": "Nada en el papel de liar que no exista en la naturaleza: nada de plástico, nada de químicos, y un color que procede exclusivamente de colorantes alimentarios naturales, aprobados para su uso. Papel de liar con cuerpo que arde de forma constante hasta el final, sesenta en cada booklet, con goma de acacia natural y sin cloro. Para quienes se fijan en lo que tienen entre las manos.",
+        "nl": "Niets in het vloeitje dat niet in de natuur voorkomt: geen plastic, geen chemicaliën, en kleur die uitsluitend afkomstig is van natuurlijke voedingskleurstoffen, goedgekeurd voor gebruik. Vloeitjes met body die gestaag branden tot het einde, zestig in elk booklet, met natuurlijke acaciagom en zonder chloor. Voor mensen die kijken naar wat ze in handen hebben."
+      },
+      "Alt Text": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      }
+    },
+    {
+      "SKU": "P00061",
+      "Name": {
+        "el": "Πυθία Χαρτάκια ΦΥΣΙΣ Brown",
+        "en": "PITHIA Rolling Papers Fysis Brown",
+        "es": "PITHIA Papel de Liar Fysis Marrón",
+        "nl": "PITHIA Vloeitjes Fysis Bruin"
+      },
+      "Category": {
+        "el": "Χαρτάκια > Πυθία Χαρτάκια ΦΥΣΙΣ",
+        "en": "Rolling Papers > PITHIA Rolling Papers Fysis",
+        "es": "Papel de Liar > PITHIA Papel de Liar Fysis",
+        "nl": "Vloeitjes > PITHIA Vloeitjes Fysis"
+      },
+      "Attributes": {
+        "el": "ΦΥΣΙΣ",
+        "en": "Fysis",
+        "es": "Fysis",
+        "nl": "Fysis"
+      },
+      "Per Pack Quantity & Display Quantity": {
+        "el": "Συσκευασία: 50 τεμάχια (60 φύλλα/τεμάχιο)",
+        "en": "Packaging: 50 units (60 leaves/unit)",
+        "es": "Presentación: 50 unidades (60 hojas/unidad)",
+        "nl": "Verpakking: 50 stuks (60 vellen/stuk)"
+      },
+      "Dimentions": "70 x 36mm",
+      "Thickness": {
+        "el": "ΠΟΛΥ ΛΕΠΤΟ",
+        "en": "EXTRA THIN",
+        "es": "MUY FINO",
+        "nl": "EXTRA DUN"
+      },
+      "Grams/Weight": "14 g/m²",
+      "Burn Rate": {
+        "el": "Βραδείας",
+        "en": "Slow burning",
+        "es": "Combustión lenta",
+        "nl": "Langzaam brandend"
+      },
+      "Active": true,
+      "Image": "/assets/catalogue/xartakia/P00061-1.webp",
+      "Short Description": {
+        "el": "Το χρώμα του χαρτιού όπως βγαίνει, χωρίς λεύκανση. Πολύ λεπτά χαρτάκια, 14 g/m², με βραδεία καύση. 60 σε κάθε booklet. 50 τεμάχια ανά Display.",
+        "en": "The color of the paper as it comes, unbleached. Extra thin rolling papers, 14 g/m², slow burning. 60 in every booklet. 50 units per Display.",
+        "es": "El color del papel tal como sale, sin blanquear. Papel de liar muy fino, 14 g/m², de combustión lenta. 60 en cada booklet. 50 unidades por Display.",
+        "nl": "De kleur van het papier zoals het is, ongebleekt. Extra dunne vloeitjes, 14 g/m², langzaam brandend. 60 in elk booklet. 50 stuks per Display."
+      },
+      "Description": {
+        "el": "Το χρώμα του χαρτιού όπως βγαίνει, χωρίς λεύκανση και χωρίς παρέμβαση. Πολύ λεπτά χαρτάκια που καίγονται αργά και δεν προσθέτουν τίποτα δικό τους στη γεύση. Εξήντα σε κάθε booklet, με φυσική κόλλα ακακίας, χωρίς πλαστικό και χωρίς χημικά. Το πιο απλό χαρτί της σειράς,  συνήθως και το πιο σωστό.",
+        "en": "The color of the paper as it comes, with no bleaching and no intervention. Extra thin rolling papers that burn slowly and add nothing of their own to the taste. Sixty in every booklet, with natural acacia gum, no plastic, and no chemicals. The simplest paper in the line, and usually the right one.",
+        "es": "El color del papel tal como sale, sin blanqueo y sin intervención. Papel de liar muy fino que arde despacio y no aporta nada propio al sabor. Sesenta en cada booklet, con goma de acacia natural, sin plástico y sin químicos. El papel más sencillo de la línea y, por lo general, el más acertado.",
+        "nl": "De kleur van het papier zoals het is, zonder bleking en zonder ingrepen. Extra dunne vloeitjes die langzaam branden en niets eigens aan de smaak toevoegen. Zestig in elk booklet, met natuurlijke acaciagom, zonder plastic en zonder chemicaliën. Het eenvoudigste papier van de lijn, en meestal ook het juiste."
+      },
+      "Alt Text": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      }
+    },
+    {
+      "SKU": "P02616",
+      "Name": {
+        "el": "Πυθία Χαρτάκια ΦΥΣΙΣ Pink",
+        "en": "PITHIA Rolling Papers Fysis Pink",
+        "es": "PITHIA Papel de Liar Fysis Rosa",
+        "nl": "PITHIA Vloeitjes Fysis Roze"
+      },
+      "Category": {
+        "el": "Χαρτάκια > Πυθία Χαρτάκια ΦΥΣΙΣ",
+        "en": "Rolling Papers > PITHIA Rolling Papers Fysis",
+        "es": "Papel de Liar > PITHIA Papel de Liar Fysis",
+        "nl": "Vloeitjes > PITHIA Vloeitjes Fysis"
+      },
+      "Attributes": {
+        "el": "ΦΥΣΙΣ",
+        "en": "Fysis",
+        "es": "Fysis",
+        "nl": "Fysis"
+      },
+      "Per Pack Quantity & Display Quantity": {
+        "el": "Συσκευασία: 50 τεμάχια (60 φύλλα/τεμάχιο)",
+        "en": "Packaging: 50 units (60 leaves/unit)",
+        "es": "Presentación: 50 unidades (60 hojas/unidad)",
+        "nl": "Verpakking: 50 stuks (60 vellen/stuk)"
+      },
+      "Dimentions": "70 x 36mm",
+      "Thickness": {
+        "el": "ΠΟΛΥ ΛΕΠΤΟ",
+        "en": "EXTRA THIN",
+        "es": "MUY FINO",
+        "nl": "EXTRA DUN"
+      },
+      "Grams/Weight": "14 g/m²",
+      "Burn Rate": {
+        "el": "Βραδείας",
+        "en": "Slow burning",
+        "es": "Combustión lenta",
+        "nl": "Langzaam brandend"
+      },
+      "Active": true,
+      "Image": "/assets/catalogue/xartakia/P02616-1.webp",
+      "Short Description": {
+        "el": "Ροζ χρώμα από 100% φυσικές χρωστικές τροφίμων. Πολύ λεπτό χαρτάκι αργής καύσης, 14 g/m², 60 φύλλα ανά συσκευασία. 50 τεμάχια ανά Display.",
+        "en": "Pink color from 100% natural food colorings. Extra thin, slow burning rolling paper, 14 g/m², 60 leaves per pack. 50 units per Display.",
+        "es": "Color rosa procedente de colorantes alimentarios 100% naturales. Papel de liar muy fino de combustión lenta, 14 g/m², 60 hojas por paquete. 50 unidades por Display.",
+        "nl": "Roze kleur uit 100% natuurlijke voedingskleurstoffen. Extra dun, langzaam brandend vloeitje, 14 g/m², 60 vellen per verpakking. 50 stuks per Display."
+      },
+      "Description": {
+        "el": "Το απροσδόκητο χρώμα της ΦΥΣΙΣ, προερχόμενο αποκλειστικά από βρώσιμες, πιστοποιημένες χρωστικές. Τα πολύ λεπτά χαρτάκια προσφέρουν καθαρή γεύση και σταθερή, αργή καύση. Με φυσική κόλλα ακακίας, πλήρως απαλλαγμένα από χλώριο, πλαστικό και πρόσθετα χημικά. Κάθε booklet περιέχει εξήντα φύλλα που συνδυάζουν την απόλυτη φυσικότητα σε ένα μόνο χαρτάκι.",
+        "en": "The unexpected color of Fysis, derived solely from edible, certified colorings. These extra thin rolling papers offer a clean taste and a steady, slow burn. With natural acacia gum, completely free of chlorine, plastic, and added chemicals. Each booklet holds sixty leaves that bring absolute naturalness together in a single rolling paper.",
+        "es": "El color inesperado de Fysis, procedente exclusivamente de colorantes comestibles y certificados. Este papel de liar muy fino ofrece un sabor limpio y una combustión lenta y constante. Con goma de acacia natural, totalmente libre de cloro, plástico y químicos añadidos. Cada booklet contiene sesenta hojas que reúnen la naturalidad absoluta en un solo papel de liar.",
+        "nl": "De onverwachte kleur van Fysis, uitsluitend afkomstig van eetbare, gecertificeerde kleurstoffen. De extra dunne vloeitjes bieden een zuivere smaak en een gestage, langzame verbranding. Met natuurlijke acaciagom, volledig vrij van chloor, plastic en toegevoegde chemicaliën. Elk booklet bevat zestig vellen die volledige natuurlijkheid samenbrengen in één enkel vloeitje."
+      },
+      "Alt Text": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      }
+    },
+    {
+      "SKU": "P02614",
+      "Name": {
+        "el": "Πυθία Χαρτάκια ΦΥΣΙΣ Blue",
+        "en": "PITHIA Rolling Papers Fysis Blue",
+        "es": "PITHIA Papel de Liar Fysis Azul",
+        "nl": "PITHIA Vloeitjes Fysis Blauw"
+      },
+      "Category": {
+        "el": "Χαρτάκια > Πυθία Χαρτάκια ΦΥΣΙΣ",
+        "en": "Rolling Papers > PITHIA Rolling Papers Fysis",
+        "es": "Papel de Liar > PITHIA Papel de Liar Fysis",
+        "nl": "Vloeitjes > PITHIA Vloeitjes Fysis"
+      },
+      "Attributes": {
+        "el": "ΦΥΣΙΣ",
+        "en": "Fysis",
+        "es": "Fysis",
+        "nl": "Fysis"
+      },
+      "Per Pack Quantity & Display Quantity": {
+        "el": "Συσκευασία: 50 τεμάχια (60 φύλλα/τεμάχιο)",
+        "en": "Packaging: 50 units (60 leaves/unit)",
+        "es": "Presentación: 50 unidades (60 hojas/unidad)",
+        "nl": "Verpakking: 50 stuks (60 vellen/stuk)"
+      },
+      "Dimentions": "70 x 36mm",
+      "Thickness": {
+        "el": "ΜΕΣΑΙΟ",
+        "en": "MEDIUM",
+        "es": "MEDIO",
+        "nl": "MEDIUM"
+      },
+      "Grams/Weight": "18 g/m²",
+      "Burn Rate": {
+        "el": "Κανονική",
+        "en": "Regular burning",
+        "es": "Combustión normal",
+        "nl": "Normaal brandend"
+      },
+      "Active": true,
+      "Image": "/assets/catalogue/xartakia/P02614-1.webp",
+      "Short Description": {
+        "el": "Μια μπλε νότα με την αγνότητα της φύσης. 60 χαρτάκια ανά booklet, 14 g/m², για σταθερή καύση και σίγουρο στρίψιμο. 50 τεμάχια ανά Display.",
+        "en": "A note of blue with the purity of nature. 60 rolling papers per booklet, 14 g/m², for a steady burn and a sure roll. 50 units per Display.",
+        "es": "Una nota azul con la pureza de la naturaleza. 60 papeles de liar por booklet, 14 g/m², para una combustión constante y un liado seguro. 50 unidades por Display.",
+        "nl": "Een blauwe noot met de zuiverheid van de natuur. 60 vloeitjes per booklet, 14 g/m², voor een gestage verbranding en zelfverzekerd draaien. 50 stuks per Display."
+      },
+      "Description": {
+        "el": "Η ξεχωριστή μπλε πρόταση της σειράς ΦΥΣΙΣ. Το Blue αποδεικνύει πόσο εντυπωσιακό μπορεί να είναι ένα χρώμα όταν προέρχεται αποκλειστικά από εγκεκριμένες χρωστικές τροφίμων, διατηρώντας την απόλυτη καθαρότητα στη γεύση αλλά και την απόλυτη ποιότητα που μπορεί να φέρει ένα χαρτάκι. Χάρη στο βάρος των 14 g/m², διαθέτει το απαραίτητα χαρακτηριστικά για ομοιόμορφη καύση μέχρι το τέλος. Μια ιδιαίτερη επιλογή με φυσική κόλλα ακακίας, χωρίς τίποτα συνθετικό μέσα της.",
+        "en": "The distinctive blue option in the Fysis line. Blue shows how striking a color can be when it comes solely from approved food colorings, preserving absolute clarity of taste as well as all the quality a rolling paper can offer. Thanks to its weight of 14 g/m², it has the characteristics needed for an even burn to the end. A choice of its own, with natural acacia gum and nothing synthetic in it.",
+        "es": "La singular propuesta azul de la línea Fysis. El Azul demuestra lo impactante que puede ser un color cuando procede exclusivamente de colorantes alimentarios aprobados, conservando una pureza absoluta en el sabor y toda la calidad que puede aportar un papel de liar. Gracias a su peso de 14 g/m², reúne las características necesarias para una combustión uniforme hasta el final. Una elección especial, con goma de acacia natural y sin nada sintético en su interior.",
+        "nl": "De bijzondere blauwe variant van de Fysis-lijn. Blauw laat zien hoe indrukwekkend een kleur kan zijn wanneer die uitsluitend afkomstig is van goedgekeurde voedingskleurstoffen, met behoud van een absoluut zuivere smaak en alle kwaliteit die een vloeitje kan bieden. Dankzij het gewicht van 14 g/m² heeft het de eigenschappen die nodig zijn voor een gelijkmatige verbranding tot het einde. Een keuze apart, met natuurlijke acaciagom en niets synthetisch erin."
+      },
+      "Alt Text": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      }
+    },
+    {
+      "SKU": "P02613",
+      "Name": {
+        "el": "Πυθία Χαρτάκια ΦΥΣΙΣ 1&1/4 Pink + Tips",
+        "en": "PITHIA Rolling Papers Fysis 1&1/4 Pink + Tips",
+        "es": "PITHIA Papel de Liar Fysis 1&1/4 Rosa + Tips",
+        "nl": "PITHIA Vloeitjes Fysis 1&1/4 Roze + Tips"
+      },
+      "Category": {
+        "el": "Χαρτάκια > Πυθία Χαρτάκια ΦΥΣΙΣ 1&1/4",
+        "en": "Rolling Papers > PITHIA Rolling Papers Fysis 1&1/4",
+        "es": "Papel de Liar > PITHIA Papel de Liar Fysis 1&1/4",
+        "nl": "Vloeitjes > PITHIA Vloeitjes Fysis 1&1/4"
+      },
+      "Attributes": {
+        "el": "ΦΥΣΙΣ, 1&1/4",
+        "en": "Fysis, 1&1/4",
+        "es": "Fysis, 1&1/4",
+        "nl": "Fysis, 1&1/4"
+      },
+      "Per Pack Quantity & Display Quantity": {
+        "el": "Συσκευασία: 24 τεμάχια (50 φύλλα & 50 tips/τεμάχιο)",
+        "en": "Packaging: 24 units (50 leaves & 50 tips/unit)",
+        "es": "Presentación: 24 unidades (50 hojas & 50 tips/unidad)",
+        "nl": "Verpakking: 24 stuks (50 vellen & 50 tips/stuk)"
+      },
+      "Dimentions": "76 mm X 44 mm",
+      "Thickness": {
+        "el": "ΠΟΛΥ ΛΕΠΤΟ",
+        "en": "EXTRA THIN",
+        "es": "MUY FINO",
+        "nl": "EXTRA DUN"
+      },
+      "Grams/Weight": "14 g/m²",
+      "Burn Rate": {
+        "el": "Βραδείας",
+        "en": "Slow burning",
+        "es": "Combustión lenta",
+        "nl": "Langzaam brandend"
+      },
+      "Active": true,
+      "Image": "/assets/catalogue/xartakia/P02613-1.webp",
+      "Short Description": {
+        "el": "50 χαρτάκια και 50 χάρτινα tips μαζί, σε μέγεθος 1¼ (76 × 44 mm, 14 g/m²). Χωρίς πλαστικό, χωρίς χημικά. 24 συσκευασίες στο κουτί.",
+        "en": "50 rolling papers and 50 paper tips together, in 1¼ size (76 × 44 mm, 14 g/m²). No plastic, no chemicals. 24 packs in the box.",
+        "es": "50 papeles de liar y 50 tips de papel juntos, en tamaño 1¼ (76 × 44 mm, 14 g/m²). Sin plástico, sin químicos. 24 paquetes en la caja.",
+        "nl": "50 vloeitjes en 50 papieren tips samen, in formaat 1¼ (76 × 44 mm, 14 g/m²). Zonder plastic, zonder chemicaliën. 24 verpakkingen in de doos."
+      },
+      "Description": {
+        "el": "Λίγο περισσότερος χώρος από το κλασικό μέγεθος, και τα tips ήδη μέσα: πενήντα φύλλα και πενήντα χάρτινα tips στην ίδια συσκευασία.\n\nΤο απροσδόκητο χρώμα της ΦΥΣΙΣ, προερχόμενο αποκλειστικά από βρώσιμες, πιστοποιημένες χρωστικές. Τα πολύ λεπτά χαρτάκια προσφέρουν καθαρή γεύση και σταθερή, αργή καύση. Με φυσική κόλλα ακακίας, πλήρως απαλλαγμένα από χλώριο, πλαστικό και πρόσθετα χημικά. Η απόλυτη φυσικότητα σε ένα μόνο χαρτάκι.",
+        "en": "A little more room than the classic size, with the tips already inside: fifty leaves and fifty paper tips in the same pack.\n\nThe unexpected color of Fysis, derived solely from edible, certified colorings. These extra thin rolling papers offer a clean taste and a steady, slow burn. With natural acacia gum, completely free of chlorine, plastic, and added chemicals. Absolute naturalness in a single rolling paper.",
+        "es": "Un poco más de espacio que el tamaño clásico, y los tips ya dentro: cincuenta hojas y cincuenta tips de papel en el mismo paquete.\n\nEl color inesperado de Fysis, procedente exclusivamente de colorantes comestibles y certificados. Este papel de liar muy fino ofrece un sabor limpio y una combustión lenta y constante. Con goma de acacia natural, totalmente libre de cloro, plástico y químicos añadidos. La naturalidad absoluta en un solo papel de liar.",
+        "nl": "Iets meer ruimte dan het klassieke formaat, en de tips zitten er al in: vijftig vellen en vijftig papieren tips in dezelfde verpakking.\n\nDe onverwachte kleur van Fysis, uitsluitend afkomstig van eetbare, gecertificeerde kleurstoffen. De extra dunne vloeitjes bieden een zuivere smaak en een gestage, langzame verbranding. Met natuurlijke acaciagom, volledig vrij van chloor, plastic en toegevoegde chemicaliën. Volledige natuurlijkheid in één enkel vloeitje."
+      },
+      "Alt Text": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      }
+    },
+    {
+      "SKU": "P02612",
+      "Name": {
+        "el": "Πυθία Χαρτάκια ΦΥΣΙΣ 1&1/4 Green + Tips",
+        "en": "PITHIA Rolling Papers Fysis 1&1/4 Green + Tips",
+        "es": "PITHIA Papel de Liar Fysis 1&1/4 Verde + Tips",
+        "nl": "PITHIA Vloeitjes Fysis 1&1/4 Groen + Tips"
+      },
+      "Category": {
+        "el": "Χαρτάκια > Πυθία Χαρτάκια ΦΥΣΙΣ 1&1/4",
+        "en": "Rolling Papers > PITHIA Rolling Papers Fysis 1&1/4",
+        "es": "Papel de Liar > PITHIA Papel de Liar Fysis 1&1/4",
+        "nl": "Vloeitjes > PITHIA Vloeitjes Fysis 1&1/4"
+      },
+      "Attributes": {
+        "el": "ΦΥΣΙΣ, 1&1/4",
+        "en": "Fysis, 1&1/4",
+        "es": "Fysis, 1&1/4",
+        "nl": "Fysis, 1&1/4"
+      },
+      "Per Pack Quantity & Display Quantity": {
+        "el": "Συσκευασία: 24 τεμάχια (50 φύλλα & 50 tips/τεμάχιο)",
+        "en": "Packaging: 24 units (50 leaves & 50 tips/unit)",
+        "es": "Presentación: 24 unidades (50 hojas & 50 tips/unidad)",
+        "nl": "Verpakking: 24 stuks (50 vellen & 50 tips/stuk)"
+      },
+      "Dimentions": "76 mm X 44 mm",
+      "Thickness": {
+        "el": "ΜΕΣΑΙΟ",
+        "en": "MEDIUM",
+        "es": "MEDIO",
+        "nl": "MEDIUM"
+      },
+      "Grams/Weight": "18 g/m²",
+      "Burn Rate": {
+        "el": "Κανονική",
+        "en": "Regular burning",
+        "es": "Combustión normal",
+        "nl": "Normaal brandend"
+      },
+      "Active": true,
+      "Image": "/assets/catalogue/xartakia/P02612-1.webp",
+      "Short Description": {
+        "el": "50 χαρτάκια και 50 χάρτινα tips μαζί, σε μέγεθος 1¼ (76 × 44 mm, 14 g/m²). Χωρίς πλαστικό, χωρίς χημικά. 24 συσκευασίες στο κουτί.",
+        "en": "50 rolling papers and 50 paper tips together, in 1¼ size (76 × 44 mm, 14 g/m²). No plastic, no chemicals. 24 packs in the box.",
+        "es": "50 papeles de liar y 50 tips de papel juntos, en tamaño 1¼ (76 × 44 mm, 14 g/m²). Sin plástico, sin químicos. 24 paquetes en la caja.",
+        "nl": "50 vloeitjes en 50 papieren tips samen, in formaat 1¼ (76 × 44 mm, 14 g/m²). Zonder plastic, zonder chemicaliën. 24 verpakkingen in de doos."
+      },
+      "Description": {
+        "el": "Λίγο περισσότερος χώρος από το κλασικό μέγεθος, και τα tips ήδη μέσα: πενήντα φύλλα και πενήντα χάρτινα tips στην ίδια συσκευασία.\n\nΤο χαρτάκι που δεν θα μπορούσε να λείπει από τη συλλογή, Πυθία ΦΥΣΙΣ Green 1¼. Τίποτα στο χαρτάκι που να μην υπάρχει στη φύση: κανένα πλαστικό, κανένα χημικό, και χρώμα που έρχεται αποκλειστικά από φυσικές χρωστικές τροφίμων, εγκεκριμένες για χρήση. Χαρτάκια με σώμα που καίγονται σταθερά ως το τέλος, με φυσική κόλλα ακακίας και χωρίς χλώριο. Για όσους κοιτάζουν τι κρατούν στα χέρια τους.",
+        "en": "A little more room than the classic size, with the tips already inside: fifty leaves and fifty paper tips in the same pack.\n\nThe rolling paper the collection could not be without: PITHIA Fysis Green 1¼. Nothing in the rolling paper that isn't found in nature: no plastic, no chemicals, and color that comes solely from natural food colorings approved for use. Rolling papers with body that burn steadily to the end, with natural acacia gum and no chlorine. For those who look at what they hold in their hands.",
+        "es": "Un poco más de espacio que el tamaño clásico, y los tips ya dentro: cincuenta hojas y cincuenta tips de papel en el mismo paquete.\n\nEl papel de liar que no podía faltar en la colección: PITHIA Fysis Verde 1¼. Nada en el papel de liar que no exista en la naturaleza: nada de plástico, nada de químicos, y un color que procede exclusivamente de colorantes alimentarios naturales, aprobados para su uso. Papel de liar con cuerpo que arde de forma constante hasta el final, con goma de acacia natural y sin cloro. Para quienes se fijan en lo que tienen entre las manos.",
+        "nl": "Iets meer ruimte dan het klassieke formaat, en de tips zitten er al in: vijftig vellen en vijftig papieren tips in dezelfde verpakking.\n\nHet vloeitje dat in de collectie niet mocht ontbreken: PITHIA Fysis Groen 1¼. Niets in het vloeitje dat niet in de natuur voorkomt: geen plastic, geen chemicaliën, en kleur die uitsluitend afkomstig is van natuurlijke voedingskleurstoffen, goedgekeurd voor gebruik. Vloeitjes met body die gestaag branden tot het einde, met natuurlijke acaciagom en zonder chloor. Voor mensen die kijken naar wat ze in handen hebben."
+      },
+      "Alt Text": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      }
+    },
+    {
+      "SKU": "P02611",
+      "Name": {
+        "el": "Πυθία Χαρτάκια ΦΥΣΙΣ 1&1/4 Blue + Tips",
+        "en": "PITHIA Rolling Papers Fysis 1&1/4 Blue + Tips",
+        "es": "PITHIA Papel de Liar Fysis 1&1/4 Azul + Tips",
+        "nl": "PITHIA Vloeitjes Fysis 1&1/4 Blauw + Tips"
+      },
+      "Category": {
+        "el": "Χαρτάκια > Πυθία Χαρτάκια ΦΥΣΙΣ 1&1/4",
+        "en": "Rolling Papers > PITHIA Rolling Papers Fysis 1&1/4",
+        "es": "Papel de Liar > PITHIA Papel de Liar Fysis 1&1/4",
+        "nl": "Vloeitjes > PITHIA Vloeitjes Fysis 1&1/4"
+      },
+      "Attributes": {
+        "el": "ΦΥΣΙΣ, 1&1/4",
+        "en": "Fysis, 1&1/4",
+        "es": "Fysis, 1&1/4",
+        "nl": "Fysis, 1&1/4"
+      },
+      "Per Pack Quantity & Display Quantity": {
+        "el": "Συσκευασία: 24 τεμάχια (50 φύλλα & 50 tips/τεμάχιο)",
+        "en": "Packaging: 24 units (50 leaves & 50 tips/unit)",
+        "es": "Presentación: 24 unidades (50 hojas & 50 tips/unidad)",
+        "nl": "Verpakking: 24 stuks (50 vellen & 50 tips/stuk)"
+      },
+      "Dimentions": "76 mm X 44 mm",
+      "Thickness": {
+        "el": "ΜΕΣΑΙΟ",
+        "en": "MEDIUM",
+        "es": "MEDIO",
+        "nl": "MEDIUM"
+      },
+      "Grams/Weight": "18 g/m²",
+      "Burn Rate": {
+        "el": "Κανονική",
+        "en": "Regular burning",
+        "es": "Combustión normal",
+        "nl": "Normaal brandend"
+      },
+      "Active": true,
+      "Image": "/assets/catalogue/xartakia/P02611-1.webp",
+      "Short Description": {
+        "el": "50 χαρτάκια και 50 χάρτινα tips μαζί, σε μέγεθος 1¼ (76 × 44 mm, 14 g/m²). Χωρίς πλαστικό, χωρίς χημικά. 24 συσκευασίες στο κουτί.",
+        "en": "50 rolling papers and 50 paper tips together, in 1¼ size (76 × 44 mm, 14 g/m²). No plastic, no chemicals. 24 packs in the box.",
+        "es": "50 papeles de liar y 50 tips de papel juntos, en tamaño 1¼ (76 × 44 mm, 14 g/m²). Sin plástico, sin químicos. 24 paquetes en la caja.",
+        "nl": "50 vloeitjes en 50 papieren tips samen, in formaat 1¼ (76 × 44 mm, 14 g/m²). Zonder plastic, zonder chemicaliën. 24 verpakkingen in de doos."
+      },
+      "Description": {
+        "el": "Λίγο περισσότερος χώρος από το κλασικό μέγεθος, και τα tips ήδη μέσα: πενήντα φύλλα και πενήντα χάρτινα tips στην ίδια συσκευασία.\n\nΗ ξεχωριστή μπλε πρόταση της σειράς ΦΥΣΙΣ σε 1¼ μαζί με τα tips. Το Blue αποδεικνύει πόσο εντυπωσιακό μπορεί να είναι ένα χρώμα όταν προέρχεται αποκλειστικά από εγκεκριμένες χρωστικές τροφίμων, διατηρώντας την απόλυτη καθαρότητα στη γεύση αλλά και την απόλυτη ποιότητα που μπορεί να φέρει ένα χαρτάκι. Χάρη στο βάρος των 14 g/m², διαθέτει το απαραίτητα χαρακτηριστικά για ομοιόμορφη καύση μέχρι το τέλος. Μια ιδιαίτερη επιλογή με φυσική κόλλα ακακίας, χωρίς τίποτα συνθετικό μέσα της.",
+        "en": "A little more room than the classic size, with the tips already inside: fifty leaves and fifty paper tips in the same pack.\n\nThe distinctive blue option in the Fysis line, in 1¼ together with the tips. Blue shows how striking a color can be when it comes solely from approved food colorings, preserving absolute clarity of taste as well as all the quality a rolling paper can offer. Thanks to its weight of 14 g/m², it has the characteristics needed for an even burn to the end. A choice of its own, with natural acacia gum and nothing synthetic in it.",
+        "es": "Un poco más de espacio que el tamaño clásico, y los tips ya dentro: cincuenta hojas y cincuenta tips de papel en el mismo paquete.\n\nLa singular propuesta azul de la línea Fysis en 1¼, junto con los tips. El Azul demuestra lo impactante que puede ser un color cuando procede exclusivamente de colorantes alimentarios aprobados, conservando una pureza absoluta en el sabor y toda la calidad que puede aportar un papel de liar. Gracias a su peso de 14 g/m², reúne las características necesarias para una combustión uniforme hasta el final. Una elección especial, con goma de acacia natural y sin nada sintético en su interior.",
+        "nl": "Iets meer ruimte dan het klassieke formaat, en de tips zitten er al in: vijftig vellen en vijftig papieren tips in dezelfde verpakking.\n\nDe bijzondere blauwe variant van de Fysis-lijn in 1¼, samen met de tips. Blauw laat zien hoe indrukwekkend een kleur kan zijn wanneer die uitsluitend afkomstig is van goedgekeurde voedingskleurstoffen, met behoud van een absoluut zuivere smaak en alle kwaliteit die een vloeitje kan bieden. Dankzij het gewicht van 14 g/m² heeft het de eigenschappen die nodig zijn voor een gelijkmatige verbranding tot het einde. Een keuze apart, met natuurlijke acaciagom en niets synthetisch erin."
+      },
+      "Alt Text": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      }
+    },
+    {
+      "SKU": "P00065",
+      "Name": {
+        "el": "Πυθία Χαρτάκια Γαλάζιο K.S",
+        "en": "PITHIA Rolling Papers Light Blue K.S",
+        "es": "PITHIA Papel de Liar Celeste K.S",
+        "nl": "PITHIA Vloeitjes Lichtblauw K.S"
+      },
+      "Category": {
+        "el": "Χαρτάκια > Πυθία Χαρτάκια King Size",
+        "en": "Rolling Papers > PITHIA Rolling Papers King Size",
+        "es": "Papel de Liar > PITHIA Papel de Liar King Size",
+        "nl": "Vloeitjes > PITHIA Vloeitjes King Size"
+      },
+      "Attributes": {
+        "el": "King Size",
+        "en": "King Size",
+        "es": "King Size",
+        "nl": "King Size"
+      },
+      "Per Pack Quantity & Display Quantity": {
+        "el": "Συσκευασία: 60 τεμάχια (32 φύλλα/τεμάχιο)",
+        "en": "Packaging: 60 units (32 leaves/unit)",
+        "es": "Presentación: 60 unidades (32 hojas/unidad)",
+        "nl": "Verpakking: 60 stuks (32 vellen/stuk)"
+      },
+      "Dimentions": "110 x 44mm",
+      "Thickness": {
+        "el": "ΠΟΛΥ ΛΕΠΤΟ",
+        "en": "EXTRA THIN",
+        "es": "MUY FINO",
+        "nl": "EXTRA DUN"
+      },
+      "Grams/Weight": "14 g/m²",
+      "Burn Rate": {
+        "el": "Βραδείας",
+        "en": "Slow burning",
+        "es": "Combustión lenta",
+        "nl": "Langzaam brandend"
+      },
+      "Active": true,
+      "Image": "/assets/catalogue/xartakia/P00065-1.jpg",
+      "Short Description": {
+        "el": "Το γαλάζιο της σειράς σε King Size, 14 g/m², 110 × 44 mm. Πολύ λεπτά χαρτάκια με αργή καύση, 32 σε κάθε booklet. 60 τεμάχια ανά Display.",
+        "en": "The line's light blue in King Size, 14 g/m², 110 × 44 mm. Extra thin rolling papers with a slow burn, 32 in every booklet. 60 units per Display.",
+        "es": "El celeste de la línea en King Size, 14 g/m², 110 × 44 mm. Papel de liar muy fino de combustión lenta, 32 en cada booklet. 60 unidades por Display.",
+        "nl": "Het lichtblauw van de lijn in King Size, 14 g/m², 110 × 44 mm. Extra dunne vloeitjes met een langzame verbranding, 32 in elk booklet. 60 stuks per Display."
+      },
+      "Description": {
+        "el": "Τα χαρτάκια Πυθία Γαλάζιο King Size συνδυάζουν το μεγάλο μέγεθος με την εξαιρετικά λεπτή υφή της σειράς. Σχεδιασμένα για όσους απολαμβάνουν το στρίψιμο σε μεγαλύτερη διάσταση, εξασφαλίζουν αργή και ισορροπημένη καύση σε όλο το μήκος τους, αναδεικνύοντας στο έπακρο τη γεύση του καπνού. Η βραδεία καύση που προσφέρουν, κρατά τον ρυθμό σταθερό από την πρώτη ως την τελευταία στιγμή. Κατασκευάζονται χωρίς λεύκανση χλωρίου, προσφέροντας εύκολο ρολάρισμα και ένα απόλυτα καθαρό αποτέλεσμα.",
+        "en": "PITHIA Light Blue King Size rolling papers combine the large format with the line's exceptionally fine texture. Designed for those who enjoy rolling on a larger scale, they ensure a slow, balanced burn along their entire length, bringing out the taste of the tobacco to the fullest. The slow burn they offer keeps the pace steady from the first moment to the last. Made without chlorine bleaching, they roll easily and give a perfectly clean result.",
+        "es": "El papel de liar PITHIA Celeste King Size combina el gran formato con la textura excepcionalmente fina de la línea. Diseñado para quienes disfrutan liando en un tamaño mayor, asegura una combustión lenta y equilibrada en toda su longitud y realza al máximo el sabor del tabaco. Su combustión lenta mantiene el ritmo constante del primer al último momento. Se fabrica sin blanqueo con cloro, para un liado fácil y un resultado totalmente limpio.",
+        "nl": "De vloeitjes PITHIA Lichtblauw King Size combineren het grote formaat met de uitzonderlijk fijne textuur van de lijn. Ontworpen voor wie graag in een groter formaat draait, zorgen ze voor een langzame, evenwichtige verbranding over de hele lengte, waardoor de smaak van de tabak optimaal tot zijn recht komt. De langzame verbranding houdt het ritme gelijk van het eerste tot het laatste moment. Ze worden gemaakt zonder chloorbleking en rollen makkelijk, voor een volkomen zuiver resultaat."
+      },
+      "Alt Text": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      }
+    },
+    {
+      "SKU": "P00071",
+      "Name": {
+        "el": "Πυθία Χαρτάκια Μαύρο K.S",
+        "en": "PITHIA Rolling Papers Black K.S",
+        "es": "PITHIA Papel de Liar Negro K.S",
+        "nl": "PITHIA Vloeitjes Zwart K.S"
+      },
+      "Category": {
+        "el": "Χαρτάκια > Πυθία Χαρτάκια King Size",
+        "en": "Rolling Papers > PITHIA Rolling Papers King Size",
+        "es": "Papel de Liar > PITHIA Papel de Liar King Size",
+        "nl": "Vloeitjes > PITHIA Vloeitjes King Size"
+      },
+      "Attributes": {
+        "el": "King Size",
+        "en": "King Size",
+        "es": "King Size",
+        "nl": "King Size"
+      },
+      "Per Pack Quantity & Display Quantity": {
+        "el": "Συσκευασία: 60 τεμάχια (32 φύλλα/τεμάχιο)",
+        "en": "Packaging: 60 units (32 leaves/unit)",
+        "es": "Presentación: 60 unidades (32 hojas/unidad)",
+        "nl": "Verpakking: 60 stuks (32 vellen/stuk)"
+      },
+      "Dimentions": "110 x 44mm",
+      "Thickness": {
+        "el": "ΠΟΛΥ ΛΕΠΤΟ",
+        "en": "EXTRA THIN",
+        "es": "MUY FINO",
+        "nl": "EXTRA DUN"
+      },
+      "Grams/Weight": "13 g/m²",
+      "Burn Rate": {
+        "el": "Βραδείας",
+        "en": "Slow burning",
+        "es": "Combustión lenta",
+        "nl": "Langzaam brandend"
+      },
+      "Active": true,
+      "Image": "/assets/catalogue/xartakia/P00071-1.jpg",
+      "Short Description": {
+        "el": "Πολύ λεπτά χαρτάκια, στο πιο απαιτητικό μέγεθος, 13 g/m², 110 × 44 mm. Τριάντα δύο σε κάθε booklet. 60 τεμάχια ανά Display.",
+        "en": "Extra thin rolling papers in the most demanding size, 13 g/m², 110 × 44 mm. Thirty-two in every booklet. 60 units per Display.",
+        "es": "Papel de liar muy fino, en el tamaño más exigente, 13 g/m², 110 × 44 mm. Treinta y dos en cada booklet. 60 unidades por Display.",
+        "nl": "Extra dunne vloeitjes, in het meest veeleisende formaat, 13 g/m², 110 × 44 mm. Tweeëndertig in elk booklet. 60 stuks per Display."
+      },
+      "Description": {
+        "el": "Ένα από τα πιο λεπτά χαρτάκια μας, στο πιο απαιτητικό μέγεθος. Σε αυτό το μήκος κάθε γραμμάριο μετράει: το χαρτάκι σχεδόν εξαφανίζεται και αφήνει μόνο αυτό που έβαλες μέσα, ενώ η αργή καύση δεν επιτρέπει στη φλόγα να προηγηθεί. Σχεδιασμένα για όσους αναζητούν την απόλυτη ποιότητα, χωρίς να αφήνει ανεπιθύμητα υπολείμματα. Τριάντα δύο σε κάθε booklet, χωρίς χλώριο.",
+        "en": "One of our thinnest rolling papers, in the most demanding size. At this length every gram counts: the rolling paper all but disappears and leaves only what you put inside, while the slow burn doesn't let the flame get ahead. Designed for those who seek absolute quality, without leaving unwanted residue. Thirty-two in every booklet, chlorine-free.",
+        "es": "Uno de nuestros papeles de liar más finos, en el tamaño más exigente. En esta longitud cada gramo cuenta: el papel de liar casi desaparece y deja solo lo que pusiste dentro, mientras que la combustión lenta no deja que la llama se adelante. Diseñado para quienes buscan la calidad absoluta, sin dejar residuos indeseados. Treinta y dos en cada booklet, sin cloro.",
+        "nl": "Een van onze dunste vloeitjes, in het meest veeleisende formaat. Op deze lengte telt elke gram: het vloeitje verdwijnt bijna en laat alleen over wat je erin hebt gedaan, terwijl de langzame verbranding de vlam niet laat voorlopen. Ontworpen voor wie de absolute kwaliteit zoekt, zonder ongewenste resten achter te laten. Tweeëndertig in elk booklet, chloorvrij."
+      },
+      "Alt Text": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      }
+    },
+    {
+      "SKU": "P00069",
+      "Name": {
+        "el": "Πυθία Χαρτάκια Ακατ/στο K.S",
+        "en": "PITHIA Rolling Papers Unbleached K.S",
+        "es": "PITHIA Papel de Liar Sin Blanquear K.S",
+        "nl": "PITHIA Vloeitjes Ongebleekt K.S"
+      },
+      "Category": {
+        "el": "Χαρτάκια > Πυθία Χαρτάκια King Size",
+        "en": "Rolling Papers > PITHIA Rolling Papers King Size",
+        "es": "Papel de Liar > PITHIA Papel de Liar King Size",
+        "nl": "Vloeitjes > PITHIA Vloeitjes King Size"
+      },
+      "Attributes": {
+        "el": "King Size",
+        "en": "King Size",
+        "es": "King Size",
+        "nl": "King Size"
+      },
+      "Per Pack Quantity & Display Quantity": {
+        "el": "Συσκευασία: 60 τεμάχια (32 φύλλα/τεμάχιο)",
+        "en": "Packaging: 60 units (32 leaves/unit)",
+        "es": "Presentación: 60 unidades (32 hojas/unidad)",
+        "nl": "Verpakking: 60 stuks (32 vellen/stuk)"
+      },
+      "Dimentions": "110 x 44mm",
+      "Thickness": {
+        "el": "ΠΟΛΥ ΛΕΠΤΟ",
+        "en": "EXTRA THIN",
+        "es": "MUY FINO",
+        "nl": "EXTRA DUN"
+      },
+      "Grams/Weight": "13 g/m²",
+      "Burn Rate": {
+        "el": "Βραδείας",
+        "en": "Slow burning",
+        "es": "Combustión lenta",
+        "nl": "Langzaam brandend"
+      },
+      "Active": true,
+      "Image": "/assets/catalogue/xartakia/P00069-1.jpg",
+      "Short Description": {
+        "el": "Χαρτάκι στο φυσικό του χρώμα, χωρίς λεύκανση. Πολύ λεπτό, 13 g/m², σε King Size 110 × 44 mm. King Size, 32 σε κάθε booklet. 60 τεμάχια ανά Display.",
+        "en": "Rolling paper in its natural color, unbleached. Extra thin, 13 g/m², in King Size 110 × 44 mm. King Size, 32 in every booklet. 60 units per Display.",
+        "es": "Papel de liar en su color natural, sin blanquear. Muy fino, 13 g/m², en King Size 110 × 44 mm. King Size, 32 en cada booklet. 60 unidades por Display.",
+        "nl": "Vloeitje in zijn natuurlijke kleur, ongebleekt. Extra dun, 13 g/m², in King Size 110 × 44 mm. King Size, 32 in elk booklet. 60 stuks per Display."
+      },
+      "Description": {
+        "el": "Τα Ακατέργαστα King Size χαρτάκια Πυθία αποτελούν την πιο φυσική και λιτή επιλογή της σειράς. Αποτελούνται από πολύ λεπτά χαρτάκια, 13 g/m², που διατηρούν το φυσικό χρώμα του χαρτιού, καθώς δεν έχουν υποστεί καμία απολύτως λεύκανση. Αυτή η απουσία επεξεργασίας εγγυάται ότι το χαρτάκι δεν αλλοιώνει τα αρώματα του καπνού, προσφέροντας μια 100% αυθεντική εμπειρία. Διαθέτουν φυσική κόλλα ακακίας για σταθερό κλείσιμο και εξασφαλίζουν εξαιρετικά αργή και ομαλή καύση σε όλο τους το μήκος.",
+        "en": "PITHIA Unbleached King Size rolling papers are the most natural, most pared-back choice in the line. They are extra thin rolling papers, 13 g/m², that keep the natural color of the paper, as they have undergone no bleaching whatsoever. This absence of processing ensures the rolling paper does not alter the aromas of the tobacco, offering a 100% authentic experience. They have natural acacia gum for a secure seal and ensure an exceptionally slow, smooth burn along their entire length.",
+        "es": "El papel de liar PITHIA Sin Blanquear King Size es la opción más natural y sobria de la línea. Se trata de un papel de liar muy fino, 13 g/m², que conserva el color natural del papel, ya que no ha pasado por ningún tipo de blanqueo. Esta ausencia de procesado garantiza que el papel de liar no altere los aromas del tabaco, para una experiencia 100% auténtica. Cuenta con goma de acacia natural para un cierre firme y asegura una combustión excepcionalmente lenta y suave en toda su longitud.",
+        "nl": "De vloeitjes PITHIA Ongebleekt King Size zijn de meest natuurlijke en sobere keuze uit de lijn. Het zijn extra dunne vloeitjes, 13 g/m², die de natuurlijke kleur van het papier behouden, omdat ze geen enkele vorm van bleking hebben ondergaan. Het ontbreken van elke bewerking garandeert dat het vloeitje de aroma's van de tabak niet aantast, voor een 100% authentieke ervaring. Ze hebben natuurlijke acaciagom voor een stevige sluiting en zorgen voor een uitzonderlijk langzame, soepele verbranding over de hele lengte."
+      },
+      "Alt Text": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      }
+    },
+    {
+      "SKU": "P00064",
+      "Name": {
+        "el": "Πυθία Χαρτάκια Πράσινο K.S",
+        "en": "PITHIA Rolling Papers Green K.S",
+        "es": "PITHIA Papel de Liar Verde K.S",
+        "nl": "PITHIA Vloeitjes Groen K.S"
+      },
+      "Category": {
+        "el": "Χαρτάκια > Πυθία Χαρτάκια King Size",
+        "en": "Rolling Papers > PITHIA Rolling Papers King Size",
+        "es": "Papel de Liar > PITHIA Papel de Liar King Size",
+        "nl": "Vloeitjes > PITHIA Vloeitjes King Size"
+      },
+      "Attributes": {
+        "el": "King Size",
+        "en": "King Size",
+        "es": "King Size",
+        "nl": "King Size"
+      },
+      "Per Pack Quantity & Display Quantity": {
+        "el": "Συσκευασία: 60 τεμάχια (32 φύλλα/τεμάχιο)",
+        "en": "Packaging: 60 units (32 leaves/unit)",
+        "es": "Presentación: 60 unidades (32 hojas/unidad)",
+        "nl": "Verpakking: 60 stuks (32 vellen/stuk)"
+      },
+      "Dimentions": "110 x 44mm",
+      "Thickness": {
+        "el": "ΜΕΣΑΙΟ",
+        "en": "MEDIUM",
+        "es": "MEDIO",
+        "nl": "MEDIUM"
+      },
+      "Grams/Weight": "18 g/m²",
+      "Burn Rate": {
+        "el": "Κανονική",
+        "en": "Regular burning",
+        "es": "Combustión normal",
+        "nl": "Normaal brandend"
+      },
+      "Active": true,
+      "Image": "/assets/catalogue/xartakia/P00064-1.jpg",
+      "Short Description": {
+        "el": "Με πάχος 18 g/m² εξασφαλίζει σταθερό κράτημα χωρίς τσακίσματα και ομοιόμορφη καύση,  110 × 44 mm. 32 σε κάθε booklet. 60 τεμάχια ανά Display.",
+        "en": "With a thickness of 18 g/m², it ensures a steady hold without creasing and an even burn, 110 × 44 mm. 32 in every booklet. 60 units per Display.",
+        "es": "Con un grosor de 18 g/m², asegura un agarre firme sin arrugas y una combustión uniforme, 110 × 44 mm. 32 en cada booklet. 60 unidades por Display.",
+        "nl": "Met een dikte van 18 g/m² zorgt het voor een stevige grip zonder kreukels en een gelijkmatige verbranding, 110 × 44 mm. 32 in elk booklet. 60 stuks per Display."
+      },
+      "Description": {
+        "el": "Τα Πράσινα King Size χαρτάκια Πυθία είναι σχεδιασμένα για όσους αναζητούν τον απόλυτο έλεγχο συνδυάζοντας το μεγέθος του King Size. Χάρη στη σταθερή τους δομή, διατηρούν άψογα τη φόρμα τους σε όλο το μήκος των 110 mm, αποτρέποντας τις ζάρες και τα ανεπιθύμητα διπλώματα. Η σταθερή καύση προσφέρει ένα απόλυτα ομοιόμορφο και προβλέψιμο αποτέλεσμα, εγγυώντας κορυφαία ποιότητα. Μια αξιόπιστη και κλασική επιλογή, ιδανική για όποιον αναζητά εγγυημένη απόλαυση.",
+        "en": "PITHIA Green King Size rolling papers are designed for those who want absolute control combined with the King Size format. Thanks to their stable structure, they hold their form perfectly along the full 110 mm length, preventing wrinkles and unwanted folds. The steady burn delivers a perfectly even, predictable result, guaranteeing top quality. A reliable, classic choice, ideal for anyone looking for guaranteed enjoyment.",
+        "es": "El papel de liar PITHIA Verde King Size está diseñado para quienes buscan un control absoluto con el formato King Size. Gracias a su estructura estable, mantiene su forma a la perfección a lo largo de los 110 mm, evitando arrugas y dobleces indeseados. Su combustión constante ofrece un resultado totalmente uniforme y previsible, con una calidad de primer nivel garantizada. Una opción fiable y clásica, ideal para quien busca un disfrute garantizado.",
+        "nl": "De vloeitjes PITHIA Groen King Size zijn ontworpen voor wie absolute controle zoekt in combinatie met het formaat King Size. Dankzij hun stabiele structuur behouden ze perfect hun vorm over de volle lengte van 110 mm, zonder kreukels of ongewenste vouwen. De gestage verbranding geeft een volkomen gelijkmatig en voorspelbaar resultaat en staat garant voor topkwaliteit. Een betrouwbare, klassieke keuze, ideaal voor wie op zoek is naar gegarandeerd genot."
+      },
+      "Alt Text": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      }
+    },
+    {
+      "SKU": "P00066",
+      "Name": {
+        "el": "Πυθία Χαρτάκια Ασημί K.S",
+        "en": "PITHIA Rolling Papers Silver K.S",
+        "es": "PITHIA Papel de Liar Plata K.S",
+        "nl": "PITHIA Vloeitjes Zilver K.S"
+      },
+      "Category": {
+        "el": "Χαρτάκια > Πυθία Χαρτάκια King Size",
+        "en": "Rolling Papers > PITHIA Rolling Papers King Size",
+        "es": "Papel de Liar > PITHIA Papel de Liar King Size",
+        "nl": "Vloeitjes > PITHIA Vloeitjes King Size"
+      },
+      "Attributes": {
+        "el": "King Size",
+        "en": "King Size",
+        "es": "King Size",
+        "nl": "King Size"
+      },
+      "Per Pack Quantity & Display Quantity": {
+        "el": "Συσκευασία: 60 τεμάχια (32 φύλλα/τεμάχιο)",
+        "en": "Packaging: 60 units (32 leaves/unit)",
+        "es": "Presentación: 60 unidades (32 hojas/unidad)",
+        "nl": "Verpakking: 60 stuks (32 vellen/stuk)"
+      },
+      "Dimentions": "110 x 44mm",
+      "Thickness": {
+        "el": "ΠΟΛΥ ΛΕΠΤΟ",
+        "en": "EXTRA THIN",
+        "es": "MUY FINO",
+        "nl": "EXTRA DUN"
+      },
+      "Grams/Weight": "14 g/m²",
+      "Burn Rate": {
+        "el": "Βραδείας",
+        "en": "Slow burning",
+        "es": "Combustión lenta",
+        "nl": "Langzaam brandend"
+      },
+      "Active": true,
+      "Image": "/assets/catalogue/xartakia/P00066-1.jpg",
+      "Short Description": {
+        "el": "Το ασημί σε μεγάλο μέγεθος, με αργή καύση ως το τέλος, 14 g/m², King Size 110 × 44 mm. Τριάντα δύο σε κάθε booklet. 60 τεμάχια ανά Display.",
+        "en": "The silver in a large size, with a slow burn to the end, 14 g/m², King Size 110 × 44 mm. Thirty-two in every booklet. 60 units per Display.",
+        "es": "El plata en tamaño grande, con combustión lenta hasta el final, 14 g/m², King Size 110 × 44 mm. Treinta y dos en cada booklet. 60 unidades por Display.",
+        "nl": "Het zilver in groot formaat, met een langzame verbranding tot het einde, 14 g/m², King Size 110 × 44 mm. Tweeëndertig in elk booklet. 60 stuks per Display."
+      },
+      "Description": {
+        "el": "Τα Ασημί King Size χαρτάκια Πυθία μεταφέρουν τη διακριτική ποιότητα της σειράς στο μεγάλο μέγεθος, πετυχαίνοντας την ιδανική ισορροπία. Με βάρος 14 g/m², τα χαρτάκια είναι αρκετά λεπτά ώστε να μην αλλοιώνουν τη γεύση του καπνού, αλλά διατηρούν την απαραίτητη σταθερότητα για σίγουρο αποτέλεσμα σε όλο τους το μήκος. Εξασφαλίζουν βραδεία, ομαλή καύση που παραμένει σταθερή μέχρι το τέλος, ολοκληρώνοντας μια εξαιρετικά ποιοτική εμπειρία.",
+        "en": "PITHIA Silver King Size rolling papers bring the line's understated quality to the large size, striking the ideal balance. At 14 g/m², the rolling papers are thin enough not to alter the taste of the tobacco, yet keep the stability needed for a sure result along their entire length. They ensure a slow, smooth burn that stays steady to the end, completing an exceptionally high-quality experience.",
+        "es": "El papel de liar PITHIA Plata King Size traslada la calidad discreta de la línea al tamaño grande y logra el equilibrio ideal. Con un peso de 14 g/m², es lo bastante fino para no alterar el sabor del tabaco, pero conserva la estabilidad necesaria para un resultado seguro en toda su longitud. Asegura una combustión lenta y suave que se mantiene constante hasta el final, completando una experiencia de calidad excepcional.",
+        "nl": "De vloeitjes PITHIA Zilver King Size brengen de ingetogen kwaliteit van de lijn naar het grote formaat en vinden daarbij de ideale balans. Met een gewicht van 14 g/m² zijn de vloeitjes dun genoeg om de smaak van de tabak niet te veranderen, maar behouden ze de stabiliteit die nodig is voor een zeker resultaat over de hele lengte. Ze zorgen voor een langzame, soepele verbranding die tot het einde gelijkmatig blijft, als bekroning van een ervaring van uitzonderlijke kwaliteit."
+      },
+      "Alt Text": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      }
+    },
+    {
+      "SKU": "P00073",
+      "Name": {
+        "el": "Πυθία Χαρτάκια Aκατ/στο + Tips K.S",
+        "en": "PITHIA Rolling Papers Unbleached + Tips K.S",
+        "es": "PITHIA Papel de Liar Sin Blanquear + Tips K.S",
+        "nl": "PITHIA Vloeitjes Ongebleekt + Tips K.S"
+      },
+      "Category": {
+        "el": "Χαρτάκια > Πυθία Χαρτάκια King Size + Tips",
+        "en": "Rolling Papers > PITHIA Rolling Papers King Size + Tips",
+        "es": "Papel de Liar > PITHIA Papel de Liar King Size + Tips",
+        "nl": "Vloeitjes > PITHIA Vloeitjes King Size + Tips"
+      },
+      "Attributes": {
+        "el": "King Size + Tips",
+        "en": "King Size + Tips",
+        "es": "King Size + Tips",
+        "nl": "King Size + Tips"
+      },
+      "Per Pack Quantity & Display Quantity": {
+        "el": "Συσκευασία: 24 τεμάχια (32 φύλλα & 32 tips/τεμάχιο)",
+        "en": "Packaging: 24 units (32 leaves & 32 tips/unit)",
+        "es": "Presentación: 24 unidades (32 hojas & 32 tips/unidad)",
+        "nl": "Verpakking: 24 stuks (32 vellen & 32 tips/stuk)"
+      },
+      "Dimentions": "110 x 44mm",
+      "Thickness": {
+        "el": "ΠΟΛΥ ΛΕΠΤΟ",
+        "en": "EXTRA THIN",
+        "es": "MUY FINO",
+        "nl": "EXTRA DUN"
+      },
+      "Grams/Weight": "13 g/m²",
+      "Burn Rate": {
+        "el": "Βραδείας",
+        "en": "Slow burning",
+        "es": "Combustión lenta",
+        "nl": "Langzaam brandend"
+      },
+      "Active": true,
+      "Image": "/assets/catalogue/xartakia/P00073-1.jpg",
+      "Short Description": {
+        "el": "Το ακατέργαστο της σειράς σε King Size + Tips, 14 g/m², 110 × 44 mm. Πολύ λεπτά χαρτάκια βραδείας καύσης, 32 χαρτάκια + 32 tips σε κάθε booklet. 24 τεμάχια ανά Display.",
+        "en": "The line's unbleached rolling paper in King Size + Tips, 14 g/m², 110 × 44 mm. Extra thin, slow burning rolling papers, 32 rolling papers + 32 tips in every booklet. 24 units per Display.",
+        "es": "El papel de liar sin blanquear de la línea en King Size + Tips, 14 g/m², 110 × 44 mm. Papel de liar muy fino de combustión lenta, 32 papeles de liar + 32 tips en cada booklet. 24 unidades por Display.",
+        "nl": "Het ongebleekte vloeitje van de lijn in King Size + Tips, 14 g/m², 110 × 44 mm. Extra dunne, langzaam brandende vloeitjes, 32 vloeitjes + 32 tips in elk booklet. 24 stuks per Display."
+      },
+      "Description": {
+        "el": "**Η King Size εμπειρία συνδυασμένη με 32 Πυθία Tips στο ίδιο πακέτο.**\n\nΤα Ακατέργαστα King Size χαρτάκια Πυθία αποτελούν την πιο φυσική και λιτή επιλογή της σειράς. Αποτελούνται από πολύ λεπτά χαρτάκια, 13 g/m², που διατηρούν το φυσικό χρώμα του χαρτιού, καθώς δεν έχουν υποστεί καμία απολύτως λεύκανση. Αυτή η απουσία επεξεργασίας εγγυάται ότι το χαρτάκι δεν αλλοιώνει τα αρώματα του καπνού, προσφέροντας μια 100% αυθεντική εμπειρία. Διαθέτουν φυσική κόλλα ακακίας για σταθερό κλείσιμο και εξασφαλίζουν εξαιρετικά αργή και ομαλή καύση σε όλο τους το μήκος.",
+        "en": "**The King Size experience, combined with 32 PITHIA Tips in the same pack.**\n\nPITHIA Unbleached King Size rolling papers are the most natural, most pared-back choice in the line. They are extra thin rolling papers, 13 g/m², that keep the natural color of the paper, as they have undergone no bleaching whatsoever. This absence of processing ensures the rolling paper does not alter the aromas of the tobacco, offering a 100% authentic experience. They have natural acacia gum for a secure seal and ensure an exceptionally slow, smooth burn along their entire length.",
+        "es": "**La experiencia King Size, combinada con 32 PITHIA Tips en el mismo paquete.**\n\nEl papel de liar PITHIA Sin Blanquear King Size es la opción más natural y sobria de la línea. Se trata de un papel de liar muy fino, 13 g/m², que conserva el color natural del papel, ya que no ha pasado por ningún tipo de blanqueo. Esta ausencia de procesado garantiza que el papel de liar no altere los aromas del tabaco, para una experiencia 100% auténtica. Cuenta con goma de acacia natural para un cierre firme y asegura una combustión excepcionalmente lenta y suave en toda su longitud.",
+        "nl": "**De King Size-ervaring, gecombineerd met 32 PITHIA Tips in dezelfde verpakking.**\n\nDe vloeitjes PITHIA Ongebleekt King Size zijn de meest natuurlijke en sobere keuze uit de lijn. Het zijn extra dunne vloeitjes, 13 g/m², die de natuurlijke kleur van het papier behouden, omdat ze geen enkele vorm van bleking hebben ondergaan. Het ontbreken van elke bewerking garandeert dat het vloeitje de aroma's van de tabak niet aantast, voor een 100% authentieke ervaring. Ze hebben natuurlijke acaciagom voor een stevige sluiting en zorgen voor een uitzonderlijk langzame, soepele verbranding over de hele lengte."
+      },
+      "Alt Text": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      }
+    },
+    {
+      "SKU": "P00049",
+      "Name": {
+        "el": "Πυθία Χαρτάκια Γαλάζιο + Tips K. S",
+        "en": "PITHIA Rolling Papers Light Blue + Tips K.S",
+        "es": "PITHIA Papel de Liar Celeste + Tips K.S",
+        "nl": "PITHIA Vloeitjes Lichtblauw + Tips K.S"
+      },
+      "Category": {
+        "el": "Χαρτάκια > Πυθία Χαρτάκια King Size + Tips",
+        "en": "Rolling Papers > PITHIA Rolling Papers King Size + Tips",
+        "es": "Papel de Liar > PITHIA Papel de Liar King Size + Tips",
+        "nl": "Vloeitjes > PITHIA Vloeitjes King Size + Tips"
+      },
+      "Attributes": {
+        "el": "King Size + Tips",
+        "en": "King Size + Tips",
+        "es": "King Size + Tips",
+        "nl": "King Size + Tips"
+      },
+      "Per Pack Quantity & Display Quantity": {
+        "el": "Συσκευασία: 24 τεμάχια (32 φύλλα & 32 tips/τεμάχιο)",
+        "en": "Packaging: 24 units (32 leaves & 32 tips/unit)",
+        "es": "Presentación: 24 unidades (32 hojas & 32 tips/unidad)",
+        "nl": "Verpakking: 24 stuks (32 vellen & 32 tips/stuk)"
+      },
+      "Dimentions": "110 x 44mm",
+      "Thickness": {
+        "el": "ΠΟΛΥ ΛΕΠΤΟ",
+        "en": "EXTRA THIN",
+        "es": "MUY FINO",
+        "nl": "EXTRA DUN"
+      },
+      "Grams/Weight": "14 g/m²",
+      "Burn Rate": {
+        "el": "Βραδείας",
+        "en": "Slow burning",
+        "es": "Combustión lenta",
+        "nl": "Langzaam brandend"
+      },
+      "Active": true,
+      "Image": "/assets/catalogue/xartakia/P00049-1.jpg",
+      "Short Description": {
+        "el": "Το γαλάζιο της σειράς σε King Size + Tips, 14 g/m², 110 × 44 mm. Πολύ λεπτά χαρτάκια βραδείας καύσης, 32 χαρτάκια + 32 tips σε κάθε booklet. 24 τεμάχια ανά Display.",
+        "en": "The line's light blue in King Size + Tips, 14 g/m², 110 × 44 mm. Extra thin, slow burning rolling papers, 32 rolling papers + 32 tips in every booklet. 24 units per Display.",
+        "es": "El celeste de la línea en King Size + Tips, 14 g/m², 110 × 44 mm. Papel de liar muy fino de combustión lenta, 32 papeles de liar + 32 tips en cada booklet. 24 unidades por Display.",
+        "nl": "Het lichtblauw van de lijn in King Size + Tips, 14 g/m², 110 × 44 mm. Extra dunne, langzaam brandende vloeitjes, 32 vloeitjes + 32 tips in elk booklet. 24 stuks per Display."
+      },
+      "Description": {
+        "el": "**Η King Size εμπειρία συνδυασμένη με 32 Πυθία Tips στο ίδιο πακέτο.**\n\nΤα χαρτάκια Πυθία Γαλάζιο King Size συνδυάζουν το μεγάλο μέγεθος με την εξαιρετικά λεπτή υφή της σειράς. Σχεδιασμένα για όσους απολαμβάνουν το στρίψιμο σε μεγαλύτερη διάσταση, εξασφαλίζουν αργή και ισορροπημένη καύση σε όλο το μήκος τους, αναδεικνύοντας στο έπακρο τη γεύση του καπνού. Η βραδεία καύση που προσφέρουν, κρατά τον ρυθμό σταθερό από την πρώτη ως την τελευταία στιγμή. Κατασκευάζονται χωρίς λεύκανση χλωρίου, προσφέροντας εύκολο ρολάρισμα και ένα απόλυτα καθαρό αποτέλεσμα.",
+        "en": "**The King Size experience, combined with 32 PITHIA Tips in the same pack.**\n\nPITHIA Light Blue King Size rolling papers combine the large format with the line's exceptionally fine texture. Designed for those who enjoy rolling on a larger scale, they ensure a slow, balanced burn along their entire length, bringing out the taste of the tobacco to the fullest. The slow burn they offer keeps the pace steady from the first moment to the last. Made without chlorine bleaching, they roll easily and give a perfectly clean result.",
+        "es": "**La experiencia King Size, combinada con 32 PITHIA Tips en el mismo paquete.**\n\nEl papel de liar PITHIA Celeste King Size combina el gran formato con la textura excepcionalmente fina de la línea. Diseñado para quienes disfrutan liando en un tamaño mayor, asegura una combustión lenta y equilibrada en toda su longitud y realza al máximo el sabor del tabaco. Su combustión lenta mantiene el ritmo constante del primer al último momento. Se fabrica sin blanqueo con cloro, para un liado fácil y un resultado totalmente limpio.",
+        "nl": "**De King Size-ervaring, gecombineerd met 32 PITHIA Tips in dezelfde verpakking.**\n\nDe vloeitjes PITHIA Lichtblauw King Size combineren het grote formaat met de uitzonderlijk fijne textuur van de lijn. Ontworpen voor wie graag in een groter formaat draait, zorgen ze voor een langzame, evenwichtige verbranding over de hele lengte, waardoor de smaak van de tabak optimaal tot zijn recht komt. De langzame verbranding houdt het ritme gelijk van het eerste tot het laatste moment. Ze worden gemaakt zonder chloorbleking en rollen makkelijk, voor een volkomen zuiver resultaat."
+      },
+      "Alt Text": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      }
+    },
+    {
+      "SKU": "P00072",
+      "Name": {
+        "el": "Πυθία Χαρτάκια Μαύρο + Tips K.S",
+        "en": "PITHIA Rolling Papers Black + Tips K.S",
+        "es": "PITHIA Papel de Liar Negro + Tips K.S",
+        "nl": "PITHIA Vloeitjes Zwart + Tips K.S"
+      },
+      "Category": {
+        "el": "Χαρτάκια > Πυθία Χαρτάκια King Size + Tips",
+        "en": "Rolling Papers > PITHIA Rolling Papers King Size + Tips",
+        "es": "Papel de Liar > PITHIA Papel de Liar King Size + Tips",
+        "nl": "Vloeitjes > PITHIA Vloeitjes King Size + Tips"
+      },
+      "Attributes": {
+        "el": "King Size + Tips",
+        "en": "King Size + Tips",
+        "es": "King Size + Tips",
+        "nl": "King Size + Tips"
+      },
+      "Per Pack Quantity & Display Quantity": {
+        "el": "Συσκευασία: 24 τεμάχια (32 φύλλα & 32 tips/τεμάχιο)",
+        "en": "Packaging: 24 units (32 leaves & 32 tips/unit)",
+        "es": "Presentación: 24 unidades (32 hojas & 32 tips/unidad)",
+        "nl": "Verpakking: 24 stuks (32 vellen & 32 tips/stuk)"
+      },
+      "Dimentions": "110 x 44mm",
+      "Thickness": {
+        "el": "ΠΟΛΥ ΛΕΠΤΟ",
+        "en": "EXTRA THIN",
+        "es": "MUY FINO",
+        "nl": "EXTRA DUN"
+      },
+      "Grams/Weight": "13 g/m²",
+      "Burn Rate": {
+        "el": "Βραδείας",
+        "en": "Slow burning",
+        "es": "Combustión lenta",
+        "nl": "Langzaam brandend"
+      },
+      "Active": true,
+      "Image": "/assets/catalogue/xartakia/P00072-1.jpg",
+      "Short Description": {
+        "el": "Το μαύρο χαρτάκι της σειράς σε King Size + Tips, 14 g/m², 110 × 44 mm. Πολύ λεπτά χαρτάκια, στο πιο απαιτητικό μέγεθος, 13 g/m², 110 × 44 mm. 32 χαρτάκια + 32 tips σε κάθε booklet. 24 τεμάχια ανά Display.",
+        "en": "The line's black rolling paper in King Size + Tips, 14 g/m², 110 × 44 mm. Extra thin rolling papers in the most demanding size, 13 g/m², 110 × 44 mm. 32 rolling papers + 32 tips in every booklet. 24 units per Display.",
+        "es": "El papel de liar negro de la línea en King Size + Tips, 14 g/m², 110 × 44 mm. Papel de liar muy fino, en el tamaño más exigente, 13 g/m², 110 × 44 mm. 32 papeles de liar + 32 tips en cada booklet. 24 unidades por Display.",
+        "nl": "Het zwarte vloeitje van de lijn in King Size + Tips, 14 g/m², 110 × 44 mm. Extra dunne vloeitjes, in het meest veeleisende formaat, 13 g/m², 110 × 44 mm. 32 vloeitjes + 32 tips in elk booklet. 24 stuks per Display."
+      },
+      "Description": {
+        "el": "**Η King Size εμπειρία συνδυασμένη με 32 Πυθία Tips στο ίδιο πακέτο.**\n\nΈνα από τα πιο λεπτά χαρτάκια μας, στο πιο απαιτητικό μέγεθος. Σε αυτό το μήκος κάθε γραμμάριο μετράει: το χαρτάκι σχεδόν εξαφανίζεται και αφήνει μόνο αυτό που έβαλες μέσα, ενώ η αργή καύση δεν επιτρέπει στη φλόγα να προηγηθεί. Σχεδιασμένα για όσους αναζητούν την απόλυτη ποιότητα, χωρίς να αφήνει ανεπιθύμητα υπολείμματα. Τριάντα δύο σε κάθε booklet, χωρίς χλώριο.",
+        "en": "**The King Size experience, combined with 32 PITHIA Tips in the same pack.**\n\nOne of our thinnest rolling papers, in the most demanding size. At this length every gram counts: the rolling paper all but disappears and leaves only what you put inside, while the slow burn doesn't let the flame get ahead. Designed for those who seek absolute quality, without leaving unwanted residue. Thirty-two in every booklet, chlorine-free.",
+        "es": "**La experiencia King Size, combinada con 32 PITHIA Tips en el mismo paquete.**\n\nUno de nuestros papeles de liar más finos, en el tamaño más exigente. En esta longitud cada gramo cuenta: el papel de liar casi desaparece y deja solo lo que pusiste dentro, mientras que la combustión lenta no deja que la llama se adelante. Diseñado para quienes buscan la calidad absoluta, sin dejar residuos indeseados. Treinta y dos en cada booklet, sin cloro.",
+        "nl": "**De King Size-ervaring, gecombineerd met 32 PITHIA Tips in dezelfde verpakking.**\n\nEen van onze dunste vloeitjes, in het meest veeleisende formaat. Op deze lengte telt elke gram: het vloeitje verdwijnt bijna en laat alleen over wat je erin hebt gedaan, terwijl de langzame verbranding de vlam niet laat voorlopen. Ontworpen voor wie de absolute kwaliteit zoekt, zonder ongewenste resten achter te laten. Tweeëndertig in elk booklet, chloorvrij."
+      },
+      "Alt Text": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      }
+    },
+    {
+      "SKU": "P00062",
+      "Name": {
+        "el": "Πυθία Χαρτάκια Πράσινο Tips K.S",
+        "en": "PITHIA Rolling Papers Green Tips K.S",
+        "es": "PITHIA Papel de Liar Verde Tips K.S",
+        "nl": "PITHIA Vloeitjes Groen Tips K.S"
+      },
+      "Category": {
+        "el": "Χαρτάκια > Πυθία Χαρτάκια King Size + Tips",
+        "en": "Rolling Papers > PITHIA Rolling Papers King Size + Tips",
+        "es": "Papel de Liar > PITHIA Papel de Liar King Size + Tips",
+        "nl": "Vloeitjes > PITHIA Vloeitjes King Size + Tips"
+      },
+      "Attributes": {
+        "el": "King Size + Tips",
+        "en": "King Size + Tips",
+        "es": "King Size + Tips",
+        "nl": "King Size + Tips"
+      },
+      "Per Pack Quantity & Display Quantity": {
+        "el": "Συσκευασία: 24 τεμάχια (32 φύλλα & 32 tips/τεμάχιο)",
+        "en": "Packaging: 24 units (32 leaves & 32 tips/unit)",
+        "es": "Presentación: 24 unidades (32 hojas & 32 tips/unidad)",
+        "nl": "Verpakking: 24 stuks (32 vellen & 32 tips/stuk)"
+      },
+      "Dimentions": "110 x 44mm",
+      "Thickness": {
+        "el": "ΜΕΣΑΙΟ",
+        "en": "MEDIUM",
+        "es": "MEDIO",
+        "nl": "MEDIUM"
+      },
+      "Grams/Weight": "18 g/m²",
+      "Burn Rate": {
+        "el": "Κανονική",
+        "en": "Regular burning",
+        "es": "Combustión normal",
+        "nl": "Normaal brandend"
+      },
+      "Active": true,
+      "Image": "/assets/catalogue/xartakia/P00062-1.jpg",
+      "Short Description": {
+        "el": "Το πράσινο της σειράς σε King Size + Tips, 14 g/m², 110 × 44 mm. Κανονικά χαρτάκια μεσαίου πάχους και κανονικής καύσης, 32 χαρτάκια + 32 tips σε κάθε booklet. 24 τεμάχια ανά Display.",
+        "en": "The line's green in King Size + Tips, 14 g/m², 110 × 44 mm. Standard rolling papers of medium thickness and regular burning, 32 rolling papers + 32 tips in every booklet. 24 units per Display.",
+        "es": "El verde de la línea en King Size + Tips, 14 g/m², 110 × 44 mm. Papel de liar estándar de grosor medio y combustión normal, 32 papeles de liar + 32 tips en cada booklet. 24 unidades por Display.",
+        "nl": "Het groen van de lijn in King Size + Tips, 14 g/m², 110 × 44 mm. Standaard vloeitjes van medium dikte, normaal brandend, 32 vloeitjes + 32 tips in elk booklet. 24 stuks per Display."
+      },
+      "Description": {
+        "el": "**Η King Size εμπειρία συνδυασμένη με 32 Πυθία Tips στο ίδιο πακέτο.**\n\nΤα Πράσινα King Size χαρτάκια Πυθία είναι σχεδιασμένα για όσους αναζητούν τον απόλυτο έλεγχο συνδυάζοντας το μεγέθος του King Size. Χάρη στη σταθερή τους δομή, διατηρούν άψογα τη φόρμα τους σε όλο το μήκος των 110 mm, αποτρέποντας τις ζάρες και τα ανεπιθύμητα διπλώματα. Η σταθερή καύση προσφέρει ένα απόλυτα ομοιόμορφο και προβλέψιμο αποτέλεσμα, εγγυώντας κορυφαία ποιότητα. Μια αξιόπιστη και κλασική επιλογή, ιδανική για όποιον αναζητά εγγυημένη απόλαυση.",
+        "en": "**The King Size experience, combined with 32 PITHIA Tips in the same pack.**\n\nPITHIA Green King Size rolling papers are designed for those who want absolute control combined with the King Size format. Thanks to their stable structure, they hold their form perfectly along the full 110 mm length, preventing wrinkles and unwanted folds. The steady burn delivers a perfectly even, predictable result, guaranteeing top quality. A reliable, classic choice, ideal for anyone looking for guaranteed enjoyment.",
+        "es": "**La experiencia King Size, combinada con 32 PITHIA Tips en el mismo paquete.**\n\nEl papel de liar PITHIA Verde King Size está diseñado para quienes buscan un control absoluto con el formato King Size. Gracias a su estructura estable, mantiene su forma a la perfección a lo largo de los 110 mm, evitando arrugas y dobleces indeseados. Su combustión constante ofrece un resultado totalmente uniforme y previsible, con una calidad de primer nivel garantizada. Una opción fiable y clásica, ideal para quien busca un disfrute garantizado.",
+        "nl": "**De King Size-ervaring, gecombineerd met 32 PITHIA Tips in dezelfde verpakking.**\n\nDe vloeitjes PITHIA Groen King Size zijn ontworpen voor wie absolute controle zoekt in combinatie met het formaat King Size. Dankzij hun stabiele structuur behouden ze perfect hun vorm over de volle lengte van 110 mm, zonder kreukels of ongewenste vouwen. De gestage verbranding geeft een volkomen gelijkmatig en voorspelbaar resultaat en staat garant voor topkwaliteit. Een betrouwbare, klassieke keuze, ideaal voor wie op zoek is naar gegarandeerd genot."
+      },
+      "Alt Text": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      }
+    },
+    {
+      "SKU": "P00063",
+      "Name": {
+        "el": "Πυθία Χαρτάκια Ασημί + Tips K.S",
+        "en": "PITHIA Rolling Papers Silver + Tips K.S",
+        "es": "PITHIA Papel de Liar Plata + Tips K.S",
+        "nl": "PITHIA Vloeitjes Zilver + Tips K.S"
+      },
+      "Category": {
+        "el": "Χαρτάκια > Πυθία Χαρτάκια King Size + Tips",
+        "en": "Rolling Papers > PITHIA Rolling Papers King Size + Tips",
+        "es": "Papel de Liar > PITHIA Papel de Liar King Size + Tips",
+        "nl": "Vloeitjes > PITHIA Vloeitjes King Size + Tips"
+      },
+      "Attributes": {
+        "el": "King Size + Tips",
+        "en": "King Size + Tips",
+        "es": "King Size + Tips",
+        "nl": "King Size + Tips"
+      },
+      "Per Pack Quantity & Display Quantity": {
+        "el": "Συσκευασία: 24 τεμάχια (32 φύλλα & 32 tips/τεμάχιο)",
+        "en": "Packaging: 24 units (32 leaves & 32 tips/unit)",
+        "es": "Presentación: 24 unidades (32 hojas & 32 tips/unidad)",
+        "nl": "Verpakking: 24 stuks (32 vellen & 32 tips/stuk)"
+      },
+      "Dimentions": "110 x 44mm",
+      "Thickness": {
+        "el": "ΠΟΛΥ ΛΕΠΤΟ",
+        "en": "EXTRA THIN",
+        "es": "MUY FINO",
+        "nl": "EXTRA DUN"
+      },
+      "Grams/Weight": "14 g/m²",
+      "Burn Rate": {
+        "el": "Βραδείας",
+        "en": "Slow burning",
+        "es": "Combustión lenta",
+        "nl": "Langzaam brandend"
+      },
+      "Active": true,
+      "Image": "/assets/catalogue/xartakia/P00063-1.jpg",
+      "Short Description": {
+        "el": "Το ασημί της σειράς σε King Size + Tips, 14 g/m², 110 × 44 mm. Πολύ λεπτά χαρτάκια βραδείας καύσης, 32 χαρτάκια + 32 tips σε κάθε booklet. 24 τεμάχια ανά Display.",
+        "en": "The line's silver in King Size + Tips, 14 g/m², 110 × 44 mm. Extra thin, slow burning rolling papers, 32 rolling papers + 32 tips in every booklet. 24 units per Display.",
+        "es": "El plata de la línea en King Size + Tips, 14 g/m², 110 × 44 mm. Papel de liar muy fino de combustión lenta, 32 papeles de liar + 32 tips en cada booklet. 24 unidades por Display.",
+        "nl": "Het zilver van de lijn in King Size + Tips, 14 g/m², 110 × 44 mm. Extra dunne, langzaam brandende vloeitjes, 32 vloeitjes + 32 tips in elk booklet. 24 stuks per Display."
+      },
+      "Description": {
+        "el": "**Η King Size εμπειρία συνδυασμένη με 32 Πυθία Tips στο ίδιο πακέτο.**\n\nΤα Ασημί King Size χαρτάκια Πυθία μεταφέρουν τη διακριτική ποιότητα της σειράς στο μεγάλο μέγεθος, πετυχαίνοντας την ιδανική ισορροπία. Με βάρος 14 g/m², τα χαρτάκια είναι αρκετά λεπτά ώστε να μην αλλοιώνουν τη γεύση του καπνού, αλλά διατηρούν την απαραίτητη σταθερότητα για σίγουρο αποτέλεσμα σε όλο τους το μήκος. Εξασφαλίζουν βραδεία, ομαλή καύση που παραμένει σταθερή μέχρι το τέλος, ολοκληρώνοντας μια εξαιρετικά ποιοτική εμπειρία.",
+        "en": "**The King Size experience, combined with 32 PITHIA Tips in the same pack.**\n\nPITHIA Silver King Size rolling papers bring the line's understated quality to the large size, striking the ideal balance. At 14 g/m², the rolling papers are thin enough not to alter the taste of the tobacco, yet keep the stability needed for a sure result along their entire length. They ensure a slow, smooth burn that stays steady to the end, completing an exceptionally high-quality experience.",
+        "es": "**La experiencia King Size, combinada con 32 PITHIA Tips en el mismo paquete.**\n\nEl papel de liar PITHIA Plata King Size traslada la calidad discreta de la línea al tamaño grande y logra el equilibrio ideal. Con un peso de 14 g/m², es lo bastante fino para no alterar el sabor del tabaco, pero conserva la estabilidad necesaria para un resultado seguro en toda su longitud. Asegura una combustión lenta y suave que se mantiene constante hasta el final, completando una experiencia de calidad excepcional.",
+        "nl": "**De King Size-ervaring, gecombineerd met 32 PITHIA Tips in dezelfde verpakking.**\n\nDe vloeitjes PITHIA Zilver King Size brengen de ingetogen kwaliteit van de lijn naar het grote formaat en vinden daarbij de ideale balans. Met een gewicht van 14 g/m² zijn de vloeitjes dun genoeg om de smaak van de tabak niet te veranderen, maar behouden ze de stabiliteit die nodig is voor een zeker resultaat over de hele lengte. Ze zorgen voor een langzame, soepele verbranding die tot het einde gelijkmatig blijft, als bekroning van een ervaring van uitzonderlijke kwaliteit."
+      },
+      "Alt Text": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      }
+    }
+  ]
+}

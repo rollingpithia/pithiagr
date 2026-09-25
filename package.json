@@ -1,0 +1,29 @@
+{
+  "name": "pithia-site",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "products:build": "node scripts/products-to-json.mjs",
+    "suppliers:build": "node scripts/suppliers-to-json.mjs",
+    "suppliers:geocode": "node scripts/suppliers-to-json.mjs --geocode",
+    "products:migrate": "node scripts/migrate-products-csv.mjs",
+    "dev": "npm run products:build && npm run suppliers:build && vite dev",
+    "build": "npm run products:build && npm run suppliers:build && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/adapter-static": "^3.0.10",
+    "@sveltejs/kit": "^2.65.1",
+    "@sveltejs/vite-plugin-svelte": "^7.1.2",
+    "svelte": "^5.46.4",
+    "vite": "^8.0.16"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.4",
+    "three": "^0.160.0"
+  },
+  "overrides": {
+    "cookie": "^0.7.2"
+  }
+}

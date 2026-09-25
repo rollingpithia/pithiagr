@@ -1,0 +1,403 @@
+{
+  "type": 2,
+  "image": "/assets/catalogue/kapnothikes-cat-5.jpg",
+  "sourceLanguage": "el",
+  "languages": [
+    "el",
+    "en",
+    "es",
+    "nl"
+  ],
+  "translationNotes": {
+    "sourceLanguage": "el",
+    "languages": [
+      {
+        "id": "el",
+        "name": "Greek",
+        "role": "source"
+      },
+      {
+        "id": "en",
+        "name": "English",
+        "role": "translation"
+      },
+      {
+        "id": "es",
+        "name": "Spanish",
+        "role": "translation"
+      },
+      {
+        "id": "nl",
+        "name": "Dutch",
+        "role": "translation"
+      }
+    ],
+    "howToTranslate": [
+      "Greek (el) is entered manually and is the only source. Do not edit el. Write en, es, and nl from el.",
+      "If el is null, leave en, es, and nl null.",
+      "Translate the product, not isolated words. A name, category, attributes, and description for the same product must use the same terms.",
+      "Keep paragraph breaks. Do not add claims, slogans, or details that are not in the Greek.",
+      "Do not translate the top-level note, SKU, Active, Image, Diameter, Filter Type, Dimentions, or Grams/Weight. Those stay as they are."
+    ],
+    "brandAndLineNames": [
+      "Πυθία, Πυθια, and ΠΥΘΙΑ are the brand. In en, es, and nl write PITHIA. Do not translate the meaning.",
+      "ΦΥΣΙΣ is the line name. In English, Spanish, and Dutch write Fysis. Do not translate it as nature, natural, or físico.",
+      "Greek uses ΦΥΣΙΣ. In en, es, and nl write Fysis."
+    ],
+    "keepAsWritten": [
+      "Slim",
+      "Ultra Slim",
+      "Super Slim",
+      "Long Ultra Slim",
+      "Long",
+      "King Size",
+      "K.S",
+      "Classic",
+      "Special Edition",
+      "SE",
+      "Pocket",
+      "Tips",
+      "1&1/4",
+      "Natura",
+      "Activated carbon",
+      "Display",
+      "booklet"
+    ],
+    "productTerms": {
+      "rule": "Use the word smokers in that country use for the product. Do not translate χαρτάκια or φιλτράκια literally. Use the same local term every time that product type appears in a name, category, or description.",
+      "χαρτάκια": {
+        "en": "rolling papers",
+        "es": "papel de liar",
+        "nl": "vloeitjes"
+      },
+      "φιλτράκια / φίλτρα": {
+        "en": "filter tips",
+        "es": "filtros",
+        "nl": "filtertips",
+        "note": "These are the acetate filter tips. Do not call them papers."
+      },
+      "τζιβάνες": {
+        "en": "tips",
+        "es": "tips",
+        "nl": "tips",
+        "note": "Paper tips. Keep them distinct from φιλτράκια. Do not call them filter tips."
+      },
+      "καπνοθήκες": {
+        "en": "tobacco cases",
+        "es": "tabaqueras",
+        "nl": "tabaksdozen"
+      },
+      "πορτοφόλια": {
+        "en": "wallets",
+        "es": "carteras",
+        "nl": "portemonnees"
+      }
+    },
+    "specs": [
+      "Translate only the words. Leave numbers, SKUs, mm, g/m², and size punctuation unchanged.",
+      "ΠΟΛΥ ΛΕΠΤΟ: en extra thin, es muy fino, nl extra dun.",
+      "ΜΕΣΑΙΟ: en medium, es medio, nl medium.",
+      "Βραδείας: en slow burning, es combustión lenta, nl langzaam brandend.",
+      "Κανονική: en regular burning, es combustión normal, nl normaal brandend.",
+      "Color words in names are translated (Γαλάζιο, Ασημί, Πράσινο, Μαύρο, Μπλε, Ακατέργαστο). English color words already in the Greek name stay in English for en and are translated for es and nl.",
+      "Category paths keep the ' > ' separator and the same order. Translate each segment.",
+      "Attributes stay a comma-separated list in the same order. Translate a word only when it is not in keepAsWritten or brandAndLineNames."
+    ],
+    "style": [
+      "Match the Greek tone: concrete, product-first, calm. No extra marketing.",
+      "Where the Greek speaks to the reader, keep that address in the translation.",
+      "Keep a repeated regulatory sentence about European standards, tar, and carbon monoxide when it is present. Do not drop it and do not strengthen it."
+    ]
+  },
+  "description": {
+    "el": "Καπνοθήκες σχεδιασμένες για καθημερινή προστασία και άνετη μεταφορά. Διατίθενται σε κλασικές εκδοχές και σε εκδόσεις με σχέδιο, συνδυάζοντας λειτουργικότητα με διακριτικό χαρακτήρα. Για όσους θέλουν τα χαρτάκια και τον καπνό τους σε ένα μέρος πρακτικό, ανθεκτικό και με στυλ.",
+    "en": "Tobacco cases designed for everyday protection and easy carrying. Available in classic versions and patterned editions, they pair function with understated character. For those who want their rolling papers and tobacco in one place that is practical, durable, and stylish.",
+    "es": "Tabaqueras diseñadas para la protección diaria y un transporte cómodo. Disponibles en versiones clásicas y en ediciones estampadas, combinan funcionalidad y un carácter discreto. Para quienes quieren su papel de liar y su tabaco en un solo lugar práctico, resistente y con estilo.",
+    "nl": "Tabaksdozen ontworpen voor dagelijkse bescherming en gemakkelijk meenemen. Verkrijgbaar in klassieke uitvoeringen en in edities met print, waarin functionaliteit samengaat met een ingetogen karakter. Voor wie vloeitjes en tabak samen wil bewaren op één plek die praktisch, stevig en stijlvol is."
+  },
+  "note": "Note: Main columns are SKU (but optional), Name, Category, Atrributes, Active, Image, Short Description, Description, Alt Text (for Type 2). The other columns are to be read and added as information icons and for each category or type product they differ Active is to display or not, ignoring the product.",
+  "products": [
+    {
+      "SKU": "CD-20",
+      "Name": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Category": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Attributes": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Material": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Active": null,
+      "Image": "/assets/catalogue/kapnothikes/CD-20-1.webp",
+      "Short Description": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Description": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Alt Text": {
+        "el": "Η κλασική καπνοθήκη της Πυθίας είναι φτιαγμένη για καθημερινή χρήση. Προστατεύει αποτελεσματικά από την υγρασία και τις φθορές, ενώ η καθαρή της γραμμή την κάνει εύκολη στη μεταφορά και στην τοποθέτηση. Είναι το είδος του αντικειμένου που δεν τραβάει άσκοπα την προσοχή – απλά δουλεύει σωστά κάθε μέρα.",
+        "en": "The classic PITHIA tobacco case is made for everyday use. It protects effectively against moisture and wear, while its clean lines make it easy to carry and to put away. It is the kind of object that doesn't draw attention needlessly – it simply works as it should, every day.",
+        "es": "La tabaquera clásica de PITHIA está hecha para el uso diario. Protege eficazmente de la humedad y del desgaste, y su línea limpia la hace fácil de llevar y de guardar. Es ese tipo de objeto que no llama la atención sin necesidad – simplemente funciona bien, cada día.",
+        "nl": "De klassieke tabaksdoos van PITHIA is gemaakt voor dagelijks gebruik. Ze beschermt doeltreffend tegen vocht en slijtage, en door de strakke lijn is ze eenvoudig mee te nemen en op te bergen. Het is het soort voorwerp dat niet onnodig de aandacht trekt – het werkt gewoon, elke dag, zoals het hoort."
+      }
+    },
+    {
+      "SKU": "CS-63",
+      "Name": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Category": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Attributes": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Material": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Active": null,
+      "Image": "/assets/catalogue/kapnothikes/CS-63-1.webp",
+      "Short Description": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Description": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Alt Text": {
+        "el": "Οι εκδόσεις με σχέδιο προσθέτουν χαρακτήρα χωρίς να χάνουν τη λειτουργικότητα. Ίδια προστασία και αντοχή, αλλά με οπτικό ενδιαφέρον που δίνει προσωπικότητα. Ιδανικές για όσους θέλουν κάτι πιο εκφραστικό, χωρίς να θυσιάζουν την πρακτικότητα της καθημερινότητας.",
+        "en": "The patterned editions add character without losing functionality. The same protection and durability, but with a visual interest that brings personality. Ideal for those who want something more expressive without sacrificing everyday practicality.",
+        "es": "Las ediciones estampadas añaden carácter sin perder funcionalidad. La misma protección y resistencia, pero con un interés visual que aporta personalidad. Ideales para quienes quieren algo más expresivo sin renunciar a la practicidad del día a día.",
+        "nl": "De edities met print voegen karakter toe zonder aan functionaliteit in te boeten. Dezelfde bescherming en stevigheid, maar met een visueel accent dat persoonlijkheid geeft. Ideaal voor wie iets expressievers wil, zonder de praktische kant van het dagelijks leven op te offeren."
+      }
+    },
+    {
+      "SKU": "CD-70",
+      "Name": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Category": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Attributes": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Material": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Active": null,
+      "Image": "/assets/catalogue/kapnothikes/CD-70-1.webp",
+      "Short Description": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Description": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Alt Text": {
+        "el": "Όλες οι καπνοθήκες της Πυθίας μοιράζονται την ίδια λογική: προστασία, αντοχή και αισθητική που αντέχει στον χρόνο. Είτε επιλέξεις την απλή εκδοχή είτε αυτή με σχέδιο, κρατάς ένα αντικείμενο σχεδιασμένο να συνοδεύει την τελετουργία του καπνίσματος με αξιοπρέπεια και στυλ. Γιατί ακόμη και τα μικρά πράγματα αξίζουν να είναι καλά φτιαγμένα.",
+        "en": "All PITHIA tobacco cases share the same thinking: protection, durability, and an aesthetic that holds up over time. Whether you choose the plain version or the patterned one, you hold an object designed to accompany the ritual of smoking with dignity and style. Because even small things deserve to be well made.",
+        "es": "Todas las tabaqueras de PITHIA comparten la misma lógica: protección, resistencia y una estética que perdura en el tiempo. Tanto si eliges la versión sencilla como la estampada, tienes en tus manos un objeto diseñado para acompañar el ritual de fumar con dignidad y estilo. Porque incluso las cosas pequeñas merecen estar bien hechas.",
+        "nl": "Alle tabaksdozen van PITHIA volgen dezelfde gedachte: bescherming, stevigheid en een esthetiek die de tijd doorstaat. Of je nu kiest voor de eenvoudige uitvoering of voor die met print, je houdt een voorwerp in handen dat is ontworpen om het ritueel van het roken te begeleiden, met waardigheid en stijl. Want ook kleine dingen verdienen het om goed gemaakt te zijn."
+      }
+    },
+    {
+      "SKU": "CD-65",
+      "Name": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Category": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Attributes": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Material": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Active": null,
+      "Image": "/assets/catalogue/kapnothikes/CD-65-1.webp",
+      "Short Description": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Description": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Alt Text": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      }
+    },
+    {
+      "SKU": "CL-19",
+      "Name": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Category": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Attributes": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Material": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Active": null,
+      "Image": "/assets/catalogue/kapnothikes/CL-19-1.webp",
+      "Short Description": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Description": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Alt Text": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      }
+    },
+    {
+      "SKU": "CL-26",
+      "Name": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Category": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Attributes": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Material": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Active": null,
+      "Image": "/assets/catalogue/kapnothikes/CL-26-1.webp",
+      "Short Description": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Description": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Alt Text": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      }
+    }
+  ]
+}

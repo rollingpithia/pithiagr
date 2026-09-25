@@ -1,0 +1,262 @@
+{
+  "type": 2,
+  "image": "/assets/catalogue/portofolia-cat-2.jpg",
+  "sourceLanguage": "el",
+  "languages": [
+    "el",
+    "en",
+    "es",
+    "nl"
+  ],
+  "translationNotes": {
+    "sourceLanguage": "el",
+    "languages": [
+      {
+        "id": "el",
+        "name": "Greek",
+        "role": "source"
+      },
+      {
+        "id": "en",
+        "name": "English",
+        "role": "translation"
+      },
+      {
+        "id": "es",
+        "name": "Spanish",
+        "role": "translation"
+      },
+      {
+        "id": "nl",
+        "name": "Dutch",
+        "role": "translation"
+      }
+    ],
+    "howToTranslate": [
+      "Greek (el) is entered manually and is the only source. Do not edit el. Write en, es, and nl from el.",
+      "If el is null, leave en, es, and nl null.",
+      "Translate the product, not isolated words. A name, category, attributes, and description for the same product must use the same terms.",
+      "Keep paragraph breaks. Do not add claims, slogans, or details that are not in the Greek.",
+      "Do not translate the top-level note, SKU, Active, Image, Diameter, Filter Type, Dimentions, or Grams/Weight. Those stay as they are."
+    ],
+    "brandAndLineNames": [
+      "Πυθία, Πυθια, and ΠΥΘΙΑ are the brand. In en, es, and nl write PITHIA. Do not translate the meaning.",
+      "ΦΥΣΙΣ is the line name. In English, Spanish, and Dutch write Fysis. Do not translate it as nature, natural, or físico.",
+      "Greek uses ΦΥΣΙΣ. In en, es, and nl write Fysis."
+    ],
+    "keepAsWritten": [
+      "Slim",
+      "Ultra Slim",
+      "Super Slim",
+      "Long Ultra Slim",
+      "Long",
+      "King Size",
+      "K.S",
+      "Classic",
+      "Special Edition",
+      "SE",
+      "Pocket",
+      "Tips",
+      "1&1/4",
+      "Natura",
+      "Activated carbon",
+      "Display",
+      "booklet"
+    ],
+    "productTerms": {
+      "rule": "Use the word smokers in that country use for the product. Do not translate χαρτάκια or φιλτράκια literally. Use the same local term every time that product type appears in a name, category, or description.",
+      "χαρτάκια": {
+        "en": "rolling papers",
+        "es": "papel de liar",
+        "nl": "vloeitjes"
+      },
+      "φιλτράκια / φίλτρα": {
+        "en": "filter tips",
+        "es": "filtros",
+        "nl": "filtertips",
+        "note": "These are the acetate filter tips. Do not call them papers."
+      },
+      "τζιβάνες": {
+        "en": "tips",
+        "es": "tips",
+        "nl": "tips",
+        "note": "Paper tips. Keep them distinct from φιλτράκια. Do not call them filter tips."
+      },
+      "καπνοθήκες": {
+        "en": "tobacco cases",
+        "es": "tabaqueras",
+        "nl": "tabaksdozen"
+      },
+      "πορτοφόλια": {
+        "en": "wallets",
+        "es": "carteras",
+        "nl": "portemonnees"
+      }
+    },
+    "specs": [
+      "Translate only the words. Leave numbers, SKUs, mm, g/m², and size punctuation unchanged.",
+      "ΠΟΛΥ ΛΕΠΤΟ: en extra thin, es muy fino, nl extra dun.",
+      "ΜΕΣΑΙΟ: en medium, es medio, nl medium.",
+      "Βραδείας: en slow burning, es combustión lenta, nl langzaam brandend.",
+      "Κανονική: en regular burning, es combustión normal, nl normaal brandend.",
+      "Color words in names are translated (Γαλάζιο, Ασημί, Πράσινο, Μαύρο, Μπλε, Ακατέργαστο). English color words already in the Greek name stay in English for en and are translated for es and nl.",
+      "Category paths keep the ' > ' separator and the same order. Translate each segment.",
+      "Attributes stay a comma-separated list in the same order. Translate a word only when it is not in keepAsWritten or brandAndLineNames."
+    ],
+    "style": [
+      "Match the Greek tone: concrete, product-first, calm. No extra marketing.",
+      "Where the Greek speaks to the reader, keep that address in the translation.",
+      "Keep a repeated regulatory sentence about European standards, tar, and carbon monoxide when it is present. Do not drop it and do not strengthen it."
+    ]
+  },
+  "description": {
+    "el": "Πορτοφόλια σχεδιασμένα για καθημερινή χρήση με χαρακτήρα. Ανθεκτικά, διαχρονικά και με προσεγμένες λεπτομέρειες που ξεχωρίζουν χωρίς να φωνάζουν. Για όσους θέλουν ένα αξεσουάρ που συνοδεύει την καθημερινότητά τους με στυλ και αξιοπιστία.",
+    "en": "Wallets with character, designed for everyday use. Durable, timeless, with considered details that stand out without shouting. For those who want an accessory that accompanies their everyday life with style and reliability.",
+    "es": "Carteras con carácter, diseñadas para el uso diario. Resistentes, atemporales y con detalles cuidados que destacan sin estridencias. Para quienes buscan un accesorio que acompañe su día a día con estilo y fiabilidad.",
+    "nl": "Portemonnees met karakter, ontworpen voor dagelijks gebruik. Stevig, tijdloos en met verzorgde details die opvallen zonder te schreeuwen. Voor wie een accessoire wil dat het dagelijks leven met stijl en betrouwbaarheid begeleidt."
+  },
+  "note": "Note: Main columns are SKU (but optional), Name, Category, Atrributes, Active, Image, Short Description, Description, Alt Text (for Type 2). The other columns are to be read and added as information icons and for each category or type product they differ Active is to display or not, ignoring the product.",
+  "products": [
+    {
+      "SKU": "P02714",
+      "Name": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Category": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Attributes": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Material": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Active": null,
+      "Image": "/assets/catalogue/portofolia/P02714-1.webp",
+      "Short Description": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Description": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Alt Text": {
+        "el": "Κάθε πορτοφόλι της Πυθίας είναι φτιαγμένο για να αντέχει στη χρήση χωρίς να χάνει την εμφάνισή του. Ο σχεδιασμός είναι καθαρός και λειτουργικός, με χώρους που οργανώνουν κάρτες, χαρτονομίσματα και μικρά αντικείμενα χωρίς να φουσκώνει την τσέπη. Είναι το είδος του αξεσουάρ που νιώθεις ότι σου ταιριάζει από την πρώτη μέρα.",
+        "en": "Every PITHIA wallet is made to stand up to use without losing its looks. The design is clean and functional, with spaces that organize cards, banknotes, and small items without making the pocket bulge. It is the kind of accessory you feel suits you from the very first day.",
+        "es": "Cada cartera de PITHIA está hecha para resistir el uso sin perder su aspecto. El diseño es limpio y funcional, con espacios que organizan tarjetas, billetes y pequeños objetos sin abultar el bolsillo. Es el tipo de accesorio que, desde el primer día, sientes que va contigo.",
+        "nl": "Elke portemonnee van PITHIA is gemaakt om tegen gebruik te kunnen zonder aan uitstraling in te boeten. Het ontwerp is strak en functioneel, met vakken die pasjes, bankbiljetten en kleine spullen ordenen zonder dat je zak opbolt. Het is het soort accessoire waarvan je vanaf de eerste dag voelt dat het bij je past."
+      }
+    },
+    {
+      "SKU": "P02735",
+      "Name": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Category": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Attributes": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Material": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Active": null,
+      "Image": "/assets/catalogue/portofolia/P02735-1.webp",
+      "Short Description": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Description": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Alt Text": {
+        "el": "Η προσοχή στη λεπτομέρεια φαίνεται στα κουμπώματα, στις ραφές και στον τρόπο που κλείνει και ανοίγει. Τίποτα δεν είναι τυχαίο. Το αποτέλεσμα είναι ένα αντικείμενο που συνδυάζει πρακτικότητα με διακριτική πολυτέλεια – ιδανικό για όσους προτιμούν το ουσιαστικό από το επιφανειακό.",
+        "en": "The attention to detail shows in the clasps, the stitching, and the way it opens and closes. Nothing is left to chance. The result is an object that combines practicality with discreet luxury – ideal for those who prefer substance over surface.",
+        "es": "La atención al detalle se aprecia en los broches, en las costuras y en la forma en que abre y cierra. Nada es casual. El resultado es un objeto que combina practicidad y lujo discreto – ideal para quienes prefieren lo esencial a lo superficial.",
+        "nl": "De aandacht voor detail blijkt uit de sluitingen, de stiksels en de manier waarop hij opent en sluit. Niets is toevallig. Het resultaat is een voorwerp dat praktisch gemak combineert met ingetogen luxe – ideaal voor wie het wezenlijke verkiest boven het oppervlakkige."
+      }
+    },
+    {
+      "SKU": "P03112",
+      "Name": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Category": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Attributes": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Material": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Active": null,
+      "Image": "/assets/catalogue/portofolia/P03112-1.webp",
+      "Short Description": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Description": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      },
+      "Alt Text": {
+        "el": "Δεν πρόκειται για άλλο ένα πορτοφόλι. Είναι ένα καθημερινό αξεσουάρ που κουβαλά την υπογραφή της Πυθίας: καθαρή γραμμή, προσεγμένη κατασκευή και σεβασμό στη λεπτομέρεια. Για όσους θέλουν κάτι που να τους αντιπροσωπεύει σε κάθε κίνηση, χωρίς υπερβολές.",
+        "en": "This is not just another wallet. It is an everyday accessory that carries the PITHIA signature: clean lines, careful construction, and respect for detail. For those who want something that represents them at every turn, without excess.",
+        "es": "No se trata de una cartera más. Es un accesorio cotidiano que lleva la firma de PITHIA: línea limpia, construcción cuidada y respeto por el detalle. Para quienes quieren algo que los represente en cada gesto, sin excesos.",
+        "nl": "Dit is niet zomaar een portemonnee. Het is een accessoire voor elke dag dat de handtekening van PITHIA draagt: een strakke lijn, een zorgvuldige constructie en respect voor detail. Voor mensen die iets willen dat hen bij elke beweging weerspiegelt, zonder overdaad."
+      }
+    }
+  ]
+}

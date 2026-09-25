@@ -1,0 +1,5133 @@
+[
+  {
+    "id": "p001",
+    "catalogueSlug": "rolling-papers",
+    "line": "physis",
+    "subcategorySlug": "",
+    "nameEl": "Φύσις Πράσινο +Tips",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "assets/img/products/fysis-green-short-1.webp",
+      "assets/img/products/fysis-green-short-2.webp"
+    ],
+    "specs": [
+      {
+        "key": "package",
+        "value": "24 Τεμάχια"
+      },
+      {
+        "key": "count_per_unit",
+        "value": "50 ανά Τεμάχιο"
+      },
+      {
+        "key": "size",
+        "value": "7 cm"
+      },
+      {
+        "key": "thickness",
+        "value": "Λεπτό"
+      },
+      {
+        "key": "weight_gsm",
+        "value": "14 g/m²"
+      },
+      {
+        "key": "burn",
+        "value": "βραδείας"
+      },
+      {
+        "key": "watermark",
+        "value": "Πυθία"
+      }
+    ],
+    "sortOrder": 10
+  },
+  {
+    "id": "p002",
+    "catalogueSlug": "rolling-papers",
+    "line": "physis",
+    "subcategorySlug": "",
+    "nameEl": "Φύσις Πράσινο +Tips",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "assets/img/products/fysis-green-tips-1.webp",
+      "assets/img/products/fysis-green-tips-2.webp"
+    ],
+    "specs": [
+      {
+        "key": "package",
+        "value": "24 Τεμάχια"
+      },
+      {
+        "key": "count_per_unit",
+        "value": "50 ανά Τεμάχιο"
+      },
+      {
+        "key": "size",
+        "value": "8 cm"
+      },
+      {
+        "key": "thickness",
+        "value": "Λεπτό"
+      },
+      {
+        "key": "weight_gsm",
+        "value": "14 g/m²"
+      },
+      {
+        "key": "burn",
+        "value": "βραδείας"
+      },
+      {
+        "key": "watermark",
+        "value": "Πυθία"
+      }
+    ],
+    "sortOrder": 20
+  },
+  {
+    "id": "p003",
+    "catalogueSlug": "rolling-papers",
+    "line": "physis",
+    "subcategorySlug": "",
+    "nameEl": "Φύσις Μπλέ +Tips",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "assets/img/products/fysis-blue-short-1.webp",
+      "assets/img/products/fysis-blue-short-2.webp"
+    ],
+    "specs": [
+      {
+        "key": "package",
+        "value": "24 Τεμάχια"
+      },
+      {
+        "key": "count_per_unit",
+        "value": "50 ανά Τεμάχιο"
+      },
+      {
+        "key": "size",
+        "value": "7 cm"
+      },
+      {
+        "key": "thickness",
+        "value": "Λεπτό"
+      },
+      {
+        "key": "weight_gsm",
+        "value": "14 g/m²"
+      },
+      {
+        "key": "burn",
+        "value": "Βραδείας"
+      },
+      {
+        "key": "watermark",
+        "value": "Πυθία"
+      }
+    ],
+    "sortOrder": 30
+  },
+  {
+    "id": "p004",
+    "catalogueSlug": "rolling-papers",
+    "line": "physis",
+    "subcategorySlug": "",
+    "nameEl": "Φύσις Μπλέ +Tips",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "assets/img/products/fysis-blue-tips-1.webp",
+      "assets/img/products/fysis-blue-tips-2.webp"
+    ],
+    "specs": [
+      {
+        "key": "package",
+        "value": "24 Τεμάχια"
+      },
+      {
+        "key": "count_per_unit",
+        "value": "50 ανά Τεμάχιο"
+      },
+      {
+        "key": "size",
+        "value": "8 cm"
+      },
+      {
+        "key": "thickness",
+        "value": "Λεπτό"
+      },
+      {
+        "key": "weight_gsm",
+        "value": "14 g/m²"
+      },
+      {
+        "key": "burn",
+        "value": "Βραδείας"
+      },
+      {
+        "key": "watermark",
+        "value": "Πυθία"
+      }
+    ],
+    "sortOrder": 40
+  },
+  {
+    "id": "p005",
+    "catalogueSlug": "rolling-papers",
+    "line": "physis",
+    "subcategorySlug": "",
+    "nameEl": "Φύσις Ροζ +Tips",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "assets/img/products/fysis-pink-short-1.webp",
+      "assets/img/products/fysis-pink-short-2.webp"
+    ],
+    "specs": [
+      {
+        "key": "package",
+        "value": "24 Τεμάχια"
+      },
+      {
+        "key": "count_per_unit",
+        "value": "50 ανά Τεμάχιο"
+      },
+      {
+        "key": "size",
+        "value": "7 cm"
+      },
+      {
+        "key": "thickness",
+        "value": "Λεπτό"
+      },
+      {
+        "key": "weight_gsm",
+        "value": "14 g/m²"
+      },
+      {
+        "key": "burn",
+        "value": "Βραδείας"
+      },
+      {
+        "key": "watermark",
+        "value": "Πυθία"
+      }
+    ],
+    "sortOrder": 50
+  },
+  {
+    "id": "p006",
+    "catalogueSlug": "rolling-papers",
+    "line": "physis",
+    "subcategorySlug": "",
+    "nameEl": "Φύσις Ροζ +Tips",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "assets/img/products/fysis-pink-tips-1.webp",
+      "assets/img/products/fysis-pink-tips-2.webp"
+    ],
+    "specs": [
+      {
+        "key": "package",
+        "value": "24 Τεμάχια"
+      },
+      {
+        "key": "count_per_unit",
+        "value": "50 ανά Τεμάχιο"
+      },
+      {
+        "key": "size",
+        "value": "8 cm"
+      },
+      {
+        "key": "thickness",
+        "value": "Λεπτό"
+      },
+      {
+        "key": "weight_gsm",
+        "value": "14 g/m²"
+      },
+      {
+        "key": "burn",
+        "value": "Βραδείας"
+      },
+      {
+        "key": "watermark",
+        "value": "Πυθία"
+      }
+    ],
+    "sortOrder": 60
+  },
+  {
+    "id": "p007",
+    "catalogueSlug": "rolling-papers",
+    "line": "physis",
+    "subcategorySlug": "",
+    "nameEl": "Πυθία Ακατέργαστο King Size + Tips",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "assets/img/products/fysis-brown-unbleached-1.webp",
+      "assets/img/products/fysis-brown-unbleached-2.webp"
+    ],
+    "specs": [
+      {
+        "key": "package",
+        "value": "24 Τεμάχια"
+      },
+      {
+        "key": "count_per_unit",
+        "value": "32 ανά Τεμάχιο"
+      },
+      {
+        "key": "size",
+        "value": "7 cm"
+      },
+      {
+        "key": "thickness",
+        "value": "Λεπτό"
+      },
+      {
+        "key": "weight_gsm",
+        "value": "12.5 g/m²"
+      },
+      {
+        "key": "burn",
+        "value": "Βραδείας"
+      },
+      {
+        "key": "watermark",
+        "value": "Πυθία"
+      }
+    ],
+    "sortOrder": 70
+  },
+  {
+    "id": "p008",
+    "catalogueSlug": "rolling-papers",
+    "line": "physis",
+    "subcategorySlug": "",
+    "nameEl": "Πυθία Ακατέργαστο King Size + Tips",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "assets/img/products/pithia-roll-unbleached-ks-1.webp",
+      "assets/img/products/pithia-roll-unbleached-ks-2.webp"
+    ],
+    "specs": [
+      {
+        "key": "package",
+        "value": "24 Τεμάχια"
+      },
+      {
+        "key": "count_per_unit",
+        "value": "32 ανά Τεμάχιο"
+      },
+      {
+        "key": "size",
+        "value": "11 cm"
+      },
+      {
+        "key": "thickness",
+        "value": "Πολύ Λεπτό"
+      },
+      {
+        "key": "weight_gsm",
+        "value": "12.5 g/m²"
+      },
+      {
+        "key": "burn",
+        "value": "Βραδείας"
+      },
+      {
+        "key": "watermark",
+        "value": "Πυθία"
+      }
+    ],
+    "sortOrder": 80
+  },
+  {
+    "id": "p009",
+    "catalogueSlug": "rolling-papers",
+    "line": "physis",
+    "subcategorySlug": "",
+    "nameEl": "Πυθία Ακατέργαστο King Size + Tips",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "assets/img/products/pithia-roll-unbleached-ks-tips-1.webp",
+      "assets/img/products/pithia-roll-unbleached-ks-tips-2.webp"
+    ],
+    "specs": [
+      {
+        "key": "package",
+        "value": "24 Τεμάχια"
+      },
+      {
+        "key": "count_per_unit",
+        "value": "32 ανά Τεμάχιο"
+      },
+      {
+        "key": "size",
+        "value": "11 cm"
+      },
+      {
+        "key": "thickness",
+        "value": "Πολύ Λεπτό"
+      },
+      {
+        "key": "weight_gsm",
+        "value": "12.5 g/m²"
+      },
+      {
+        "key": "burn",
+        "value": "Βραδείας"
+      },
+      {
+        "key": "watermark",
+        "value": "Πυθία"
+      }
+    ],
+    "sortOrder": 90
+  },
+  {
+    "id": "p010",
+    "catalogueSlug": "rolling-papers",
+    "line": "classic",
+    "subcategorySlug": "",
+    "nameEl": "Πυθία Πράσινο King Size + Tips",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "assets/img/products/pithia-roll-green-1.webp",
+      "assets/img/products/pithia-roll-green-2.webp"
+    ],
+    "specs": [
+      {
+        "key": "package",
+        "value": "60 Τεμάχια"
+      },
+      {
+        "key": "count_per_unit",
+        "value": "32 ανά Τεμάχιο"
+      },
+      {
+        "key": "size",
+        "value": "7 cm"
+      },
+      {
+        "key": "thickness",
+        "value": "Κανονικό"
+      },
+      {
+        "key": "weight_gsm",
+        "value": "14 g/m²"
+      },
+      {
+        "key": "burn",
+        "value": "βραδείας"
+      },
+      {
+        "key": "watermark",
+        "value": "Πυθία"
+      }
+    ],
+    "sortOrder": 100
+  },
+  {
+    "id": "p011",
+    "catalogueSlug": "rolling-papers",
+    "line": "classic",
+    "subcategorySlug": "",
+    "nameEl": "Πυθία Πράσινο King Size + Tips",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "assets/img/products/pithia-roll-green-kingsize-1.webp",
+      "assets/img/products/pithia-roll-green-kingsize-2.webp"
+    ],
+    "specs": [
+      {
+        "key": "package",
+        "value": "24 Τεμάχια"
+      },
+      {
+        "key": "count_per_unit",
+        "value": "32 ανά Τεμάχιο"
+      },
+      {
+        "key": "size",
+        "value": "11 cm"
+      },
+      {
+        "key": "thickness",
+        "value": "Κανονικό"
+      },
+      {
+        "key": "weight_gsm",
+        "value": "18 g/m²"
+      },
+      {
+        "key": "burn",
+        "value": "Ομοιόμορφη"
+      },
+      {
+        "key": "watermark",
+        "value": "Πυθία"
+      }
+    ],
+    "sortOrder": 110
+  },
+  {
+    "id": "p012",
+    "catalogueSlug": "rolling-papers",
+    "line": "classic",
+    "subcategorySlug": "",
+    "nameEl": "Πυθία Πράσινο King Size + Tips",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "assets/img/products/pithia-roll-green-tzivana-1.webp",
+      "assets/img/products/pithia-roll-green-tzivana-2.webp"
+    ],
+    "specs": [
+      {
+        "key": "package",
+        "value": "50 Τεμάχια"
+      },
+      {
+        "key": "count_per_unit",
+        "value": "32 ανά Τεμάχιο"
+      },
+      {
+        "key": "size",
+        "value": "11 cm"
+      },
+      {
+        "key": "thickness",
+        "value": "Κανονικό"
+      },
+      {
+        "key": "weight_gsm",
+        "value": "18 g/m²"
+      },
+      {
+        "key": "burn",
+        "value": "Ομοιόμορφη"
+      },
+      {
+        "key": "watermark",
+        "value": "Πυθία"
+      }
+    ],
+    "sortOrder": 120
+  },
+  {
+    "id": "p013",
+    "catalogueSlug": "rolling-papers",
+    "line": "classic",
+    "subcategorySlug": "",
+    "nameEl": "Πυθία Μπλέ",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "assets/img/products/pithia-roll-blue-1.webp",
+      "assets/img/products/pithia-roll-blue-2.webp"
+    ],
+    "specs": [
+      {
+        "key": "package",
+        "value": "24 Τεμάχια"
+      },
+      {
+        "key": "count_per_unit",
+        "value": "50 ανά Τεμάχιο"
+      },
+      {
+        "key": "size",
+        "value": "7 cm"
+      },
+      {
+        "key": "thickness",
+        "value": "Λεπτό"
+      },
+      {
+        "key": "weight_gsm",
+        "value": "14 g/m²"
+      },
+      {
+        "key": "burn",
+        "value": "Βραδείας"
+      },
+      {
+        "key": "watermark",
+        "value": "Πυθία"
+      }
+    ],
+    "sortOrder": 130
+  },
+  {
+    "id": "p014",
+    "catalogueSlug": "rolling-papers",
+    "line": "classic",
+    "subcategorySlug": "",
+    "nameEl": "Πυθία Μπλέ",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "assets/img/products/fysis-blue-tips-1.webp",
+      "assets/img/products/fysis-blue-tips-2.webp"
+    ],
+    "specs": [
+      {
+        "key": "package",
+        "value": "24 Τεμάχια"
+      },
+      {
+        "key": "count_per_unit",
+        "value": "50 ανά Τεμάχιο"
+      },
+      {
+        "key": "size",
+        "value": "8 cm"
+      },
+      {
+        "key": "thickness",
+        "value": "Λεπτό"
+      },
+      {
+        "key": "weight_gsm",
+        "value": "14 g/m²"
+      },
+      {
+        "key": "burn",
+        "value": "Βραδείας"
+      },
+      {
+        "key": "watermark",
+        "value": "Πυθία"
+      }
+    ],
+    "sortOrder": 140
+  },
+  {
+    "id": "p015",
+    "catalogueSlug": "rolling-papers",
+    "line": "classic",
+    "subcategorySlug": "",
+    "nameEl": "Πυθία Ασημί King Size + Tips",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "assets/img/products/pithia-roll-silver-1.webp",
+      "assets/img/products/pithia-roll-silver-2.webp"
+    ],
+    "specs": [
+      {
+        "key": "package",
+        "value": "60 Τεμάχια"
+      },
+      {
+        "key": "count_per_unit",
+        "value": "32 ανά Τεμάχιο"
+      },
+      {
+        "key": "size",
+        "value": "7 cm"
+      },
+      {
+        "key": "thickness",
+        "value": "Λεπτό"
+      },
+      {
+        "key": "weight_gsm",
+        "value": "13 g/m²"
+      },
+      {
+        "key": "burn",
+        "value": "Βραδείας"
+      },
+      {
+        "key": "watermark",
+        "value": "Πυθία"
+      }
+    ],
+    "sortOrder": 150
+  },
+  {
+    "id": "p016",
+    "catalogueSlug": "rolling-papers",
+    "line": "classic",
+    "subcategorySlug": "",
+    "nameEl": "Πυθία Ασημί King Size + Tips",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "assets/img/products/pithia-roll-silver-kingsize-1.webp",
+      "assets/img/products/pithia-roll-silver-kingsize-2.webp"
+    ],
+    "specs": [
+      {
+        "key": "package",
+        "value": "60 Τεμάχια"
+      },
+      {
+        "key": "count_per_unit",
+        "value": "32 ανά Τεμάχιο"
+      },
+      {
+        "key": "size",
+        "value": "11 cm"
+      },
+      {
+        "key": "thickness",
+        "value": "Λιναρόχαρτο"
+      },
+      {
+        "key": "weight_gsm",
+        "value": "13 g/m²"
+      },
+      {
+        "key": "burn",
+        "value": "Βραδείας"
+      },
+      {
+        "key": "watermark",
+        "value": "Πυθία"
+      }
+    ],
+    "sortOrder": 160
+  },
+  {
+    "id": "p017",
+    "catalogueSlug": "rolling-papers",
+    "line": "classic",
+    "subcategorySlug": "",
+    "nameEl": "Πυθία Ασημί King Size + Tips",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "assets/img/products/pithia-roll-silver-kingsize-1.webp",
+      "assets/img/products/pithia-roll-silver-kingsize-2.webp"
+    ],
+    "specs": [
+      {
+        "key": "package",
+        "value": "60 Τεμάχια"
+      },
+      {
+        "key": "count_per_unit",
+        "value": "32 ανά Τεμάχιο"
+      },
+      {
+        "key": "size",
+        "value": "11 cm"
+      },
+      {
+        "key": "thickness",
+        "value": "Λιναρόχαρτο"
+      },
+      {
+        "key": "weight_gsm",
+        "value": "13 g/m²"
+      },
+      {
+        "key": "burn",
+        "value": "Βραδείας"
+      },
+      {
+        "key": "watermark",
+        "value": "Πυθία"
+      }
+    ],
+    "sortOrder": 170
+  },
+  {
+    "id": "p018",
+    "catalogueSlug": "rolling-papers",
+    "line": "classic",
+    "subcategorySlug": "",
+    "nameEl": "Πυθία Μαύρο King Size + Tips",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "assets/img/products/pithia-roll-black-1.webp",
+      "assets/img/products/pithia-roll-black-2.webp"
+    ],
+    "specs": [
+      {
+        "key": "package",
+        "value": "60 Τεμάχια"
+      },
+      {
+        "key": "count_per_unit",
+        "value": "32 ανά Τεμάχιο"
+      },
+      {
+        "key": "size",
+        "value": "7 cm"
+      },
+      {
+        "key": "thickness",
+        "value": "Λεπτό"
+      },
+      {
+        "key": "weight_gsm",
+        "value": "13 g/m²"
+      },
+      {
+        "key": "burn",
+        "value": "Βραδείας"
+      },
+      {
+        "key": "watermark",
+        "value": "Πυθία"
+      }
+    ],
+    "sortOrder": 180
+  },
+  {
+    "id": "p019",
+    "catalogueSlug": "rolling-papers",
+    "line": "classic",
+    "subcategorySlug": "",
+    "nameEl": "Πυθία Μαύρο King Size + Tips",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "assets/img/products/pithia-roll-black-kingsize-1.webp",
+      "assets/img/products/pithia-roll-black-kingsize-2.webp"
+    ],
+    "specs": [
+      {
+        "key": "package",
+        "value": "24 Τεμάχια"
+      },
+      {
+        "key": "count_per_unit",
+        "value": "32 ανά Τεμάχιο"
+      },
+      {
+        "key": "size",
+        "value": "11 cm"
+      },
+      {
+        "key": "thickness",
+        "value": "Πολύ Λεπτό"
+      },
+      {
+        "key": "weight_gsm",
+        "value": "13 g/m²"
+      },
+      {
+        "key": "burn",
+        "value": "Βραδείας"
+      },
+      {
+        "key": "watermark",
+        "value": "Πυθία"
+      }
+    ],
+    "sortOrder": 190
+  },
+  {
+    "id": "p020",
+    "catalogueSlug": "rolling-papers",
+    "line": "classic",
+    "subcategorySlug": "",
+    "nameEl": "Πυθία Μαύρο King Size + Tips",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "assets/img/products/pithia-roll-black-kingsize-tips-1.webp",
+      "assets/img/products/pithia-roll-black-kingsize-tips-2.webp"
+    ],
+    "specs": [
+      {
+        "key": "package",
+        "value": "60 Τεμάχια"
+      },
+      {
+        "key": "count_per_unit",
+        "value": "32 ανά Τεμάχιο"
+      },
+      {
+        "key": "size",
+        "value": "11 cm"
+      },
+      {
+        "key": "thickness",
+        "value": "Πολύ Λεπτό"
+      },
+      {
+        "key": "weight_gsm",
+        "value": "13 g/m²"
+      },
+      {
+        "key": "burn",
+        "value": "Βραδείας"
+      },
+      {
+        "key": "watermark",
+        "value": "Πυθία"
+      }
+    ],
+    "sortOrder": 200
+  },
+  {
+    "id": "p021",
+    "catalogueSlug": "rolling-papers",
+    "line": "classic",
+    "subcategorySlug": "",
+    "nameEl": "Πυθία Γαλάζιο King Size Slim",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "assets/img/products/pithia-roll-blue-ks-slim-1.webp",
+      "assets/img/products/pithia-roll-blue-ks-slim-2.webp"
+    ],
+    "specs": [
+      {
+        "key": "package",
+        "value": "60 Τεμάχια"
+      },
+      {
+        "key": "count_per_unit",
+        "value": "32 ανά Τεμάχιο"
+      },
+      {
+        "key": "size",
+        "value": "11 cm"
+      },
+      {
+        "key": "thickness",
+        "value": "Πολύ Λεπτό"
+      },
+      {
+        "key": "weight_gsm",
+        "value": "14 g/m²"
+      },
+      {
+        "key": "burn",
+        "value": "Βραδείας"
+      },
+      {
+        "key": "watermark",
+        "value": "Πυθία"
+      }
+    ],
+    "sortOrder": 210
+  },
+  {
+    "id": "p022",
+    "catalogueSlug": "filters",
+    "line": "physis",
+    "subcategorySlug": "",
+    "nameEl": "Φιλτράκια Φύσις 120 Long",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "assets/img/products/fysis-filters-120.webp",
+      "assets/img/products/fysis-filters-180.webp"
+    ],
+    "specs": [
+      {
+        "key": "package",
+        "value": "16 Τεμάχια"
+      },
+      {
+        "key": "count_per_unit",
+        "value": "180 ανά Τεμάχιο Πάχος"
+      }
+    ],
+    "sortOrder": 220
+  },
+  {
+    "id": "p023",
+    "catalogueSlug": "filters",
+    "line": "physis",
+    "subcategorySlug": "",
+    "nameEl": "Φιλτράκια Φύσις 180",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "assets/img/products/fysis-filters-180.webp"
+    ],
+    "specs": [
+      {
+        "key": "package",
+        "value": "16 Τεμάχια"
+      },
+      {
+        "key": "count_per_unit",
+        "value": "180 ανά Τεμάχιο Πάχος"
+      }
+    ],
+    "sortOrder": 230
+  },
+  {
+    "id": "p024",
+    "catalogueSlug": "filters",
+    "line": "classic",
+    "subcategorySlug": "",
+    "nameEl": "Φιλτράκια Πυθία 60+18",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "assets/img/products/pithia-filter-120-30.webp",
+      "assets/img/products/pithia-filter-180.webp"
+    ],
+    "specs": [
+      {
+        "key": "package",
+        "value": "16 Τεμάχια"
+      },
+      {
+        "key": "count_per_unit",
+        "value": "180 ανά Τεμάχιο Πάχος"
+      }
+    ],
+    "sortOrder": 240
+  },
+  {
+    "id": "p025",
+    "catalogueSlug": "filters",
+    "line": "classic",
+    "subcategorySlug": "",
+    "nameEl": "Φιλτράκια Πυθία 120+30",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "assets/img/products/pithia-filter-180.webp",
+      "assets/img/products/pithia-filter-270.webp"
+    ],
+    "specs": [
+      {
+        "key": "package",
+        "value": "10 Τεμάχια"
+      },
+      {
+        "key": "count_per_unit",
+        "value": "270 ανά Τεμάχιο Πάχος"
+      }
+    ],
+    "sortOrder": 250
+  },
+  {
+    "id": "p026",
+    "catalogueSlug": "filters",
+    "line": "classic",
+    "subcategorySlug": "",
+    "nameEl": "Φιλτράκια Πυθία 180",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "assets/img/products/pithia-filter-270.webp",
+      "assets/img/products/pithia-filter-108.webp"
+    ],
+    "specs": [
+      {
+        "key": "package",
+        "value": "24 Τεμάχια"
+      },
+      {
+        "key": "count_per_unit",
+        "value": "108 ανά Τεμάχιο Πάχος"
+      }
+    ],
+    "sortOrder": 260
+  },
+  {
+    "id": "p027",
+    "catalogueSlug": "filters",
+    "line": "classic",
+    "subcategorySlug": "",
+    "nameEl": "Φιλτράκια Πυθία 270",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "assets/img/products/pithia-filter-108.webp",
+      "assets/img/products/pithia-filter-120.webp"
+    ],
+    "specs": [
+      {
+        "key": "package",
+        "value": "6 Τεμάχια"
+      },
+      {
+        "key": "count_per_unit",
+        "value": "120 ανά Τεμάχιο Πάχος"
+      }
+    ],
+    "sortOrder": 270
+  },
+  {
+    "id": "p028",
+    "catalogueSlug": "filters",
+    "line": "classic",
+    "subcategorySlug": "",
+    "nameEl": "Φιλτράκια Πυθία 108",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "assets/img/products/pithia-filter-120.webp",
+      "assets/img/products/pithia-roll-tzivana-unbleached-3.webp"
+    ],
+    "specs": [
+      {
+        "key": "package",
+        "value": "6 Τεμάχια"
+      },
+      {
+        "key": "count_per_unit",
+        "value": "50 ανά Τεμάχιο"
+      },
+      {
+        "key": "activated_carbon",
+        "value": "Activated Carbon Πυθία Τζιβάνα Ακατέργαστη Χαρακτηριστικά Συσκευασία"
+      }
+    ],
+    "sortOrder": 280
+  },
+  {
+    "id": "p029",
+    "catalogueSlug": "filters",
+    "line": "classic",
+    "subcategorySlug": "",
+    "nameEl": "Φιλτράκια Πυθία 120",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "assets/img/products/pithia-roll-tzivana-unbleached-3.webp",
+      "assets/img/products/pithia-roll-tzivana-natura-3.webp"
+    ],
+    "specs": [
+      {
+        "key": "package",
+        "value": "25 Τεμάχια"
+      },
+      {
+        "key": "count_per_unit",
+        "value": "50 ανά Τεμάχιο"
+      },
+      {
+        "key": "activated_carbon",
+        "value": "Activated Carbon Πυθία Τζιβάνα Ακατέργαστη Χαρακτηριστικά Συσκευασία"
+      }
+    ],
+    "sortOrder": 290
+  },
+  {
+    "id": "p030",
+    "catalogueSlug": "filters",
+    "line": "classic",
+    "subcategorySlug": "",
+    "nameEl": "Πυθία Τζιβάνα Ακατέργαστη",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "assets/img/products/pithia-roll-tzivana-unbleached-3.webp",
+      "assets/img/products/pithia-roll-tzivana-natura-3.webp"
+    ],
+    "specs": [
+      {
+        "key": "package",
+        "value": "25 Τεμάχια"
+      },
+      {
+        "key": "count_per_unit",
+        "value": "50 ανά Τεμάχιο"
+      }
+    ],
+    "sortOrder": 300
+  },
+  {
+    "id": "p031",
+    "catalogueSlug": "filters",
+    "line": "classic",
+    "subcategorySlug": "",
+    "nameEl": "Πυθία Τζιβάνα Natura",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "assets/img/products/pithia-roll-tzivana-natura-3.webp"
+    ],
+    "specs": [
+      {
+        "key": "package",
+        "value": "25 Τεμάχια"
+      },
+      {
+        "key": "count_per_unit",
+        "value": "50 ανά Τεμάχιο"
+      }
+    ],
+    "sortOrder": 310
+  },
+  {
+    "id": "p032",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "patterned",
+    "nameEl": "Καπνοθήκες με Σχέδιο — CS-16",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/09/CS-16.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 320
+  },
+  {
+    "id": "p033",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "patterned",
+    "nameEl": "Καπνοθήκες με Σχέδιο — CS-17",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CS-17.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 330
+  },
+  {
+    "id": "p034",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "patterned",
+    "nameEl": "Καπνοθήκες με Σχέδιο — CS-29",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CS-29.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 340
+  },
+  {
+    "id": "p035",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "patterned",
+    "nameEl": "Καπνοθήκες με Σχέδιο — CS-39",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CS-39.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 350
+  },
+  {
+    "id": "p036",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "patterned",
+    "nameEl": "Καπνοθήκες με Σχέδιο — C00559-122",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/C00559-122.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 360
+  },
+  {
+    "id": "p037",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "patterned",
+    "nameEl": "Καπνοθήκες με Σχέδιο — CS-83",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CS-83.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 370
+  },
+  {
+    "id": "p038",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "patterned",
+    "nameEl": "Καπνοθήκες με Σχέδιο — CS-22",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CS-22.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 380
+  },
+  {
+    "id": "p039",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "patterned",
+    "nameEl": "Καπνοθήκες με Σχέδιο — CS-20",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CS-20.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 390
+  },
+  {
+    "id": "p040",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "patterned",
+    "nameEl": "Καπνοθήκες με Σχέδιο — CS-21",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/09/CS-21.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 400
+  },
+  {
+    "id": "p041",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "patterned",
+    "nameEl": "Καπνοθήκες με Σχέδιο — CS-84",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CS-84.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 410
+  },
+  {
+    "id": "p042",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "patterned",
+    "nameEl": "Καπνοθήκες με Σχέδιο — C00559-125",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/C00559-125.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 420
+  },
+  {
+    "id": "p043",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "patterned",
+    "nameEl": "Καπνοθήκες με Σχέδιο — CS-86",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CS-86.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 430
+  },
+  {
+    "id": "p044",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "patterned",
+    "nameEl": "Καπνοθήκες με Σχέδιο — CS-03",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CS-03.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 440
+  },
+  {
+    "id": "p045",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "patterned",
+    "nameEl": "Καπνοθήκες με Σχέδιο — CS-11",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CS-11.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 450
+  },
+  {
+    "id": "p046",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "patterned",
+    "nameEl": "Καπνοθήκες με Σχέδιο — CS-24",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CS-24.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 460
+  },
+  {
+    "id": "p047",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "patterned",
+    "nameEl": "Καπνοθήκες με Σχέδιο — CS-13",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CS-13.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 470
+  },
+  {
+    "id": "p048",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "patterned",
+    "nameEl": "Καπνοθήκες με Σχέδιο — CS-15",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CS-15.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 480
+  },
+  {
+    "id": "p049",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "patterned",
+    "nameEl": "Καπνοθήκες με Σχέδιο — C00559-128",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/C00559-128.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 490
+  },
+  {
+    "id": "p050",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "patterned",
+    "nameEl": "Καπνοθήκες με Σχέδιο — CS-40",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CS-40.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 500
+  },
+  {
+    "id": "p051",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "patterned",
+    "nameEl": "Καπνοθήκες με Σχέδιο — CS-41",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CS-41.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 510
+  },
+  {
+    "id": "p052",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "patterned",
+    "nameEl": "Καπνοθήκες με Σχέδιο — CS-19",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CS-19.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 520
+  },
+  {
+    "id": "p053",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "patterned",
+    "nameEl": "Καπνοθήκες με Σχέδιο — CS-51",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CS-51.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 530
+  },
+  {
+    "id": "p054",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "patterned",
+    "nameEl": "Καπνοθήκες με Σχέδιο — CS-59",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CS-59.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 540
+  },
+  {
+    "id": "p055",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "patterned",
+    "nameEl": "Καπνοθήκες με Σχέδιο — CS-55",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CS-55.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 550
+  },
+  {
+    "id": "p056",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "patterned",
+    "nameEl": "Καπνοθήκες με Σχέδιο — CS-60",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CS-60.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 560
+  },
+  {
+    "id": "p057",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "patterned",
+    "nameEl": "Καπνοθήκες με Σχέδιο — CS-42",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CS-42.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 570
+  },
+  {
+    "id": "p058",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "patterned",
+    "nameEl": "Καπνοθήκες με Σχέδιο — CS-63",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CS-63.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 580
+  },
+  {
+    "id": "p059",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "patterned",
+    "nameEl": "Καπνοθήκες με Σχέδιο — CS-89",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CS-89.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 590
+  },
+  {
+    "id": "p060",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "patterned",
+    "nameEl": "Καπνοθήκες με Σχέδιο — CS-34",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CS-34.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 600
+  },
+  {
+    "id": "p061",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "patterned",
+    "nameEl": "Καπνοθήκες με Σχέδιο — CS-35",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CS-35.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 610
+  },
+  {
+    "id": "p062",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "patterned",
+    "nameEl": "Καπνοθήκες με Σχέδιο — CS-45",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CS-45.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 620
+  },
+  {
+    "id": "p063",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "patterned",
+    "nameEl": "Καπνοθήκες με Σχέδιο — C00559-52",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/C00559-52.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 630
+  },
+  {
+    "id": "p064",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "patterned",
+    "nameEl": "Καπνοθήκες με Σχέδιο — CS-90",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CS-90.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 640
+  },
+  {
+    "id": "p065",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "patterned",
+    "nameEl": "Καπνοθήκες με Σχέδιο — CS-48",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CS-48.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 650
+  },
+  {
+    "id": "p066",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "patterned",
+    "nameEl": "Καπνοθήκες με Σχέδιο — CS-47",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CS-47.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 660
+  },
+  {
+    "id": "p067",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "patterned",
+    "nameEl": "Καπνοθήκες με Σχέδιο — CS-53",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CS-53.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 670
+  },
+  {
+    "id": "p068",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "patterned",
+    "nameEl": "Καπνοθήκες με Σχέδιο — CS-05",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CS-05.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 680
+  },
+  {
+    "id": "p069",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "patterned",
+    "nameEl": "Καπνοθήκες με Σχέδιο — CS-06",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CS-06.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 690
+  },
+  {
+    "id": "p070",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "patterned",
+    "nameEl": "Καπνοθήκες με Σχέδιο — C00559-131",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/C00559-131.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 700
+  },
+  {
+    "id": "p071",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "patterned",
+    "nameEl": "Καπνοθήκες με Σχέδιο — CS-37",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CS-37.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 710
+  },
+  {
+    "id": "p072",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "patterned",
+    "nameEl": "Καπνοθήκες με Σχέδιο — CS-56",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CS-56.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 720
+  },
+  {
+    "id": "p073",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "patterned",
+    "nameEl": "Καπνοθήκες με Σχέδιο — CS-14",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CS-14.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 730
+  },
+  {
+    "id": "p074",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "patterned",
+    "nameEl": "Καπνοθήκες με Σχέδιο — CS-26",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CS-26.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 740
+  },
+  {
+    "id": "p075",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "patterned",
+    "nameEl": "Καπνοθήκες με Σχέδιο — CS-23",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CS-23.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 750
+  },
+  {
+    "id": "p076",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "patterned",
+    "nameEl": "Καπνοθήκες με Σχέδιο — C00559-28",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/C00559-28.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 760
+  },
+  {
+    "id": "p077",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "patterned",
+    "nameEl": "Καπνοθήκες με Σχέδιο — CS-30",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CS-30.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 770
+  },
+  {
+    "id": "p078",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "patterned",
+    "nameEl": "Καπνοθήκες με Σχέδιο — CS-92",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CS-92.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 780
+  },
+  {
+    "id": "p079",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "patterned",
+    "nameEl": "Καπνοθήκες με Σχέδιο — print-tobacco-cases-inside",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/print-tobacco-cases-inside.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 790
+  },
+  {
+    "id": "p080",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-01",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-01.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 800
+  },
+  {
+    "id": "p081",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-01-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-01-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 810
+  },
+  {
+    "id": "p082",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-05",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-05.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 820
+  },
+  {
+    "id": "p083",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-05-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-05-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 830
+  },
+  {
+    "id": "p084",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-07",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-07.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 840
+  },
+  {
+    "id": "p085",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-07-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-07-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 850
+  },
+  {
+    "id": "p086",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-08",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-08.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 860
+  },
+  {
+    "id": "p087",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-08-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-08-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 870
+  },
+  {
+    "id": "p088",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-09",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-09.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 880
+  },
+  {
+    "id": "p089",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-09-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-09-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 890
+  },
+  {
+    "id": "p090",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-11",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-11.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 900
+  },
+  {
+    "id": "p091",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-11-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-11-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 910
+  },
+  {
+    "id": "p092",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-14",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-14.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 920
+  },
+  {
+    "id": "p093",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-14-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-14-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 930
+  },
+  {
+    "id": "p094",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-20",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-20.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 940
+  },
+  {
+    "id": "p095",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-20-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-20-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 950
+  },
+  {
+    "id": "p096",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-73",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-73.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 960
+  },
+  {
+    "id": "p097",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-73-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-73-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 970
+  },
+  {
+    "id": "p098",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-28",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-28.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 980
+  },
+  {
+    "id": "p099",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-28-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-28-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 990
+  },
+  {
+    "id": "p100",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-33",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-33.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1000
+  },
+  {
+    "id": "p101",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-33-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-33-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1010
+  },
+  {
+    "id": "p102",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-39",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-39.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1020
+  },
+  {
+    "id": "p103",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-39-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-39-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1030
+  },
+  {
+    "id": "p104",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-37",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-37.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1040
+  },
+  {
+    "id": "p105",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-37-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-37-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1050
+  },
+  {
+    "id": "p106",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-35",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-35.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1060
+  },
+  {
+    "id": "p107",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-35-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-35-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1070
+  },
+  {
+    "id": "p108",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-41",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-41.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1080
+  },
+  {
+    "id": "p109",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-41-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-41-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1090
+  },
+  {
+    "id": "p110",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-42",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-42.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1100
+  },
+  {
+    "id": "p111",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-42-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-42-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1110
+  },
+  {
+    "id": "p112",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-43",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-43.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1120
+  },
+  {
+    "id": "p113",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-43-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-43-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1130
+  },
+  {
+    "id": "p114",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-44",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-44.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1140
+  },
+  {
+    "id": "p115",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-44-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-44-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1150
+  },
+  {
+    "id": "p116",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-45",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-45.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1160
+  },
+  {
+    "id": "p117",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-45-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-45-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1170
+  },
+  {
+    "id": "p118",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-46",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-46.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1180
+  },
+  {
+    "id": "p119",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-46-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-46-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1190
+  },
+  {
+    "id": "p120",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-47",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-47.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1200
+  },
+  {
+    "id": "p121",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-47-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-47-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1210
+  },
+  {
+    "id": "p122",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-48",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-48.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1220
+  },
+  {
+    "id": "p123",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-48-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-48-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1230
+  },
+  {
+    "id": "p124",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-49",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-49.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1240
+  },
+  {
+    "id": "p125",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-49-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-49-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1250
+  },
+  {
+    "id": "p126",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-50",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-50.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1260
+  },
+  {
+    "id": "p127",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-50-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-50-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1270
+  },
+  {
+    "id": "p128",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-51",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-51.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1280
+  },
+  {
+    "id": "p129",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-51-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-51-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1290
+  },
+  {
+    "id": "p130",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-52",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-52.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1300
+  },
+  {
+    "id": "p131",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-52-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-52-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1310
+  },
+  {
+    "id": "p132",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-53",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-53.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1320
+  },
+  {
+    "id": "p133",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-53-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-53-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1330
+  },
+  {
+    "id": "p134",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-54",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-54.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1340
+  },
+  {
+    "id": "p135",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-54-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-54-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1350
+  },
+  {
+    "id": "p136",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-55",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-55.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1360
+  },
+  {
+    "id": "p137",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-55-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-55-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1370
+  },
+  {
+    "id": "p138",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-56",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-56.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1380
+  },
+  {
+    "id": "p139",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-56-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-56-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1390
+  },
+  {
+    "id": "p140",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-57",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-57.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1400
+  },
+  {
+    "id": "p141",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-57-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-57-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1410
+  },
+  {
+    "id": "p142",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-58",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-58.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1420
+  },
+  {
+    "id": "p143",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-58-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-58-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1430
+  },
+  {
+    "id": "p144",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-59",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-59.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1440
+  },
+  {
+    "id": "p145",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-59-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-59-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1450
+  },
+  {
+    "id": "p146",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-60",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-60.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1460
+  },
+  {
+    "id": "p147",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-60-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-60-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1470
+  },
+  {
+    "id": "p148",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-61",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-61.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1480
+  },
+  {
+    "id": "p149",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-61-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-61-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1490
+  },
+  {
+    "id": "p150",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-62",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-62.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1500
+  },
+  {
+    "id": "p151",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-62-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-62-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1510
+  },
+  {
+    "id": "p152",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-63",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-63.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1520
+  },
+  {
+    "id": "p153",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-63-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-63-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1530
+  },
+  {
+    "id": "p154",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-64",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-64.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1540
+  },
+  {
+    "id": "p155",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-64-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-64-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1550
+  },
+  {
+    "id": "p156",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-65",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-65.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1560
+  },
+  {
+    "id": "p157",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-65-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-65-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1570
+  },
+  {
+    "id": "p158",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-68",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-68.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1580
+  },
+  {
+    "id": "p159",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-68-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-68-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1590
+  },
+  {
+    "id": "p160",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-71",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-71.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1600
+  },
+  {
+    "id": "p161",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-71-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-71-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1610
+  },
+  {
+    "id": "p162",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-72",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-72.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1620
+  },
+  {
+    "id": "p163",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-72-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-72-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1630
+  },
+  {
+    "id": "p164",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-73",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-73.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1640
+  },
+  {
+    "id": "p165",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-73-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-73-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1650
+  },
+  {
+    "id": "p166",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-74",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-74.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1660
+  },
+  {
+    "id": "p167",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-74-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-74-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1670
+  },
+  {
+    "id": "p168",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-67",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-67.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1680
+  },
+  {
+    "id": "p169",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-67-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-67-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1690
+  },
+  {
+    "id": "p170",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-69",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-69.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1700
+  },
+  {
+    "id": "p171",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-69-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-69-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1710
+  },
+  {
+    "id": "p172",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-70",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-70.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1720
+  },
+  {
+    "id": "p173",
+    "catalogueSlug": "tobacco-pouches",
+    "line": "",
+    "subcategorySlug": "coloured",
+    "nameEl": "Χρωματιστές Καπνοθήκες — CD-70-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/CD-70-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1730
+  },
+  {
+    "id": "p174",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — Ε00033-1",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/Ε00033-1.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1740
+  },
+  {
+    "id": "p175",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — E02707-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2024/07/E02707-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1750
+  },
+  {
+    "id": "p176",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — Ε00189-1",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/Ε00189-1.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1760
+  },
+  {
+    "id": "p177",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — E02708-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2024/07/E02708-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1770
+  },
+  {
+    "id": "p178",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — Ε00273-1",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/Ε00273-1.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1780
+  },
+  {
+    "id": "p179",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — E02709-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2024/07/E02709-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1790
+  },
+  {
+    "id": "p180",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — Ε00364-1",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/Ε00364-1.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1800
+  },
+  {
+    "id": "p181",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — E02710-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2024/07/E02710-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1810
+  },
+  {
+    "id": "p182",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — Ε00401-1",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/Ε00401-1.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1820
+  },
+  {
+    "id": "p183",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — E02711-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2024/07/E02711-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1830
+  },
+  {
+    "id": "p184",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — Ε00402-1",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/Ε00402-1.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1840
+  },
+  {
+    "id": "p185",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — E02712-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2024/07/E02712-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1850
+  },
+  {
+    "id": "p186",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — Ε00403-1",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/Ε00403-1.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1860
+  },
+  {
+    "id": "p187",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — E02713-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2024/07/E02713-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1870
+  },
+  {
+    "id": "p188",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — E00889-1",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/E00889-1.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1880
+  },
+  {
+    "id": "p189",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — E02714-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2024/07/E02714-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1890
+  },
+  {
+    "id": "p190",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — E01044-1",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/E01044-1.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1900
+  },
+  {
+    "id": "p191",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — E02715-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2024/07/E02715-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1910
+  },
+  {
+    "id": "p192",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — E01045-1",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/E01045-1.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1920
+  },
+  {
+    "id": "p193",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — E02716-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2024/07/E02716-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1930
+  },
+  {
+    "id": "p194",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — E01046-1",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/E01046-1.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1940
+  },
+  {
+    "id": "p195",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — E02717-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2024/07/E02717-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1950
+  },
+  {
+    "id": "p196",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — E01047-1",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/E01047-1.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1960
+  },
+  {
+    "id": "p197",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — E02718-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2024/07/E02718-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1970
+  },
+  {
+    "id": "p198",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — E01048-1",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/E01048-1.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1980
+  },
+  {
+    "id": "p199",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — E02719-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2024/07/E02719-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 1990
+  },
+  {
+    "id": "p200",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — E01049-1",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/E01049-1.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2000
+  },
+  {
+    "id": "p201",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — E02720-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2024/07/E02720-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2010
+  },
+  {
+    "id": "p202",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — E01050-1",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/E01050-1.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2020
+  },
+  {
+    "id": "p203",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — E02721-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2024/07/E02721-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2030
+  },
+  {
+    "id": "p204",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — E01051-1",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/E01051-1.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2040
+  },
+  {
+    "id": "p205",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — E02722-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2024/07/E02722-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2050
+  },
+  {
+    "id": "p206",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — E01052-1",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/E01052-1.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2060
+  },
+  {
+    "id": "p207",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — E02723-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2024/07/E02723-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2070
+  },
+  {
+    "id": "p208",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — E01053-1",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/E01053-1.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2080
+  },
+  {
+    "id": "p209",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — E02724-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2024/07/E02724-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2090
+  },
+  {
+    "id": "p210",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — E01054-1",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/E01054-1.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2100
+  },
+  {
+    "id": "p211",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — E01054-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2024/07/E01054-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2110
+  },
+  {
+    "id": "p212",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — E01055-1",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/E01055-1.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2120
+  },
+  {
+    "id": "p213",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — E02726-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2024/07/E02726-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2130
+  },
+  {
+    "id": "p214",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — E01056-1",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/E01056-1.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2140
+  },
+  {
+    "id": "p215",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — E02727-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2024/07/E02727-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2150
+  },
+  {
+    "id": "p216",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — Ε00135-1",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/Ε00135-1.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2160
+  },
+  {
+    "id": "p217",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — E02728-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2024/07/E02728-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2170
+  },
+  {
+    "id": "p218",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — Ε00288-1",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/Ε00288-1.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2180
+  },
+  {
+    "id": "p219",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — E02729-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2024/07/E02729-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2190
+  },
+  {
+    "id": "p220",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — E00742-1",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/E00742-1.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2200
+  },
+  {
+    "id": "p221",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — E02730-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2024/07/E02730-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2210
+  },
+  {
+    "id": "p222",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — E00862-1",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/E00862-1.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2220
+  },
+  {
+    "id": "p223",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — E02731-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2024/07/E02731-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2230
+  },
+  {
+    "id": "p224",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — E00890-1",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/E00890-1.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2240
+  },
+  {
+    "id": "p225",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — E02732-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2024/07/E02732-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2250
+  },
+  {
+    "id": "p226",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — E01043-1",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/E01043-1.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2260
+  },
+  {
+    "id": "p227",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — E02733-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2024/07/E02733-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2270
+  },
+  {
+    "id": "p228",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — E01280-1",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/E01280-1.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2280
+  },
+  {
+    "id": "p229",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — E02734-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2024/07/E02734-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2290
+  },
+  {
+    "id": "p230",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — E01281-1",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/E01281-1.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2300
+  },
+  {
+    "id": "p231",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — E02735-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2024/07/E02735-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2310
+  },
+  {
+    "id": "p232",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — P03104",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/P03104.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2320
+  },
+  {
+    "id": "p233",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — P03104-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/P03104-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2330
+  },
+  {
+    "id": "p234",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — P03105",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/P03105.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2340
+  },
+  {
+    "id": "p235",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — P03105-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/P03105-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2350
+  },
+  {
+    "id": "p236",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — P03106",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/P03106.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2360
+  },
+  {
+    "id": "p237",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — P03106-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/P03106-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2370
+  },
+  {
+    "id": "p238",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — P03107",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/P03107.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2380
+  },
+  {
+    "id": "p239",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — P03107-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/P03107-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2390
+  },
+  {
+    "id": "p240",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — P03108",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/P03108.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2400
+  },
+  {
+    "id": "p241",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — P03108-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/P03108-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2410
+  },
+  {
+    "id": "p242",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — P03109",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/P03109.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2420
+  },
+  {
+    "id": "p243",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — P03110",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/P03110.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2430
+  },
+  {
+    "id": "p244",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — P03110-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/P03110-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2440
+  },
+  {
+    "id": "p245",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — P03111",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/P03111.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2450
+  },
+  {
+    "id": "p246",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — P03112",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/P03112.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2460
+  },
+  {
+    "id": "p247",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — P03112-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/P03112-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2470
+  },
+  {
+    "id": "p248",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — P03113",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/P03113.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2480
+  },
+  {
+    "id": "p249",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — P03113-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/P03113-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2490
+  },
+  {
+    "id": "p250",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — P03114",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/P03114.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2500
+  },
+  {
+    "id": "p251",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — P03114-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/P03114-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2510
+  },
+  {
+    "id": "p252",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — P03115",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/P03115.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2520
+  },
+  {
+    "id": "p253",
+    "catalogueSlug": "wallets",
+    "line": "",
+    "subcategorySlug": "wallets",
+    "nameEl": "Πορτοφόλια — P03115-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/P03115-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2530
+  },
+  {
+    "id": "p254",
+    "catalogueSlug": "grinders",
+    "line": "",
+    "subcategorySlug": "grinders",
+    "nameEl": "Grinders — P01796",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/P01796.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2540
+  },
+  {
+    "id": "p255",
+    "catalogueSlug": "grinders",
+    "line": "",
+    "subcategorySlug": "grinders",
+    "nameEl": "Grinders — P01796-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/P01796-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2550
+  },
+  {
+    "id": "p256",
+    "catalogueSlug": "grinders",
+    "line": "",
+    "subcategorySlug": "grinders",
+    "nameEl": "Grinders — P01795",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/P01795.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2560
+  },
+  {
+    "id": "p257",
+    "catalogueSlug": "grinders",
+    "line": "",
+    "subcategorySlug": "grinders",
+    "nameEl": "Grinders — P01795-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/P01795-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2570
+  },
+  {
+    "id": "p258",
+    "catalogueSlug": "grinders",
+    "line": "",
+    "subcategorySlug": "grinders",
+    "nameEl": "Grinders — E01348-1",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/E01348-1.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2580
+  },
+  {
+    "id": "p259",
+    "catalogueSlug": "grinders",
+    "line": "",
+    "subcategorySlug": "grinders",
+    "nameEl": "Grinders — P01794-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/P01794-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2590
+  },
+  {
+    "id": "p260",
+    "catalogueSlug": "grinders",
+    "line": "",
+    "subcategorySlug": "grinders",
+    "nameEl": "Grinders — E01353-1",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/E01353-1.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2600
+  },
+  {
+    "id": "p261",
+    "catalogueSlug": "grinders",
+    "line": "",
+    "subcategorySlug": "grinders",
+    "nameEl": "Grinders — P01793-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/P01793-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2610
+  },
+  {
+    "id": "p262",
+    "catalogueSlug": "grinders",
+    "line": "",
+    "subcategorySlug": "grinders",
+    "nameEl": "Grinders — E01352-1",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/E01352-1.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2620
+  },
+  {
+    "id": "p263",
+    "catalogueSlug": "grinders",
+    "line": "",
+    "subcategorySlug": "grinders",
+    "nameEl": "Grinders — P01792-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/P01792-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2630
+  },
+  {
+    "id": "p264",
+    "catalogueSlug": "grinders",
+    "line": "",
+    "subcategorySlug": "grinders",
+    "nameEl": "Grinders — E01355-1",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/E01355-1.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2640
+  },
+  {
+    "id": "p265",
+    "catalogueSlug": "grinders",
+    "line": "",
+    "subcategorySlug": "grinders",
+    "nameEl": "Grinders — P01791-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/P01791-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2650
+  },
+  {
+    "id": "p266",
+    "catalogueSlug": "grinders",
+    "line": "",
+    "subcategorySlug": "grinders",
+    "nameEl": "Grinders — E01354-1",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/E01354-1.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2660
+  },
+  {
+    "id": "p267",
+    "catalogueSlug": "grinders",
+    "line": "",
+    "subcategorySlug": "grinders",
+    "nameEl": "Grinders — P01790-2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/12/P01790-2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2670
+  },
+  {
+    "id": "p268",
+    "catalogueSlug": "pipes",
+    "line": "",
+    "subcategorySlug": "bongs",
+    "nameEl": "Bongs — HB1",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/HB1.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2680
+  },
+  {
+    "id": "p269",
+    "catalogueSlug": "pipes",
+    "line": "",
+    "subcategorySlug": "bongs",
+    "nameEl": "Bongs — HB2",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/HB2.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2690
+  },
+  {
+    "id": "p270",
+    "catalogueSlug": "pipes",
+    "line": "",
+    "subcategorySlug": "bongs",
+    "nameEl": "Bongs — HB3",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/HB3.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2700
+  },
+  {
+    "id": "p271",
+    "catalogueSlug": "pipes",
+    "line": "",
+    "subcategorySlug": "bongs",
+    "nameEl": "Bongs — HB4",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/HB4.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2710
+  },
+  {
+    "id": "p272",
+    "catalogueSlug": "pipes",
+    "line": "",
+    "subcategorySlug": "bongs",
+    "nameEl": "Bongs — HB5",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/HB5.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2720
+  },
+  {
+    "id": "p273",
+    "catalogueSlug": "pipes",
+    "line": "",
+    "subcategorySlug": "bongs",
+    "nameEl": "Bongs — HB6",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/HB6.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2730
+  },
+  {
+    "id": "p274",
+    "catalogueSlug": "pipes",
+    "line": "",
+    "subcategorySlug": "bongs",
+    "nameEl": "Bongs — HB7",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/HB7.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2740
+  },
+  {
+    "id": "p275",
+    "catalogueSlug": "pipes",
+    "line": "",
+    "subcategorySlug": "bongs",
+    "nameEl": "Bongs — HB8",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/HB8.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2750
+  },
+  {
+    "id": "p276",
+    "catalogueSlug": "pipes",
+    "line": "",
+    "subcategorySlug": "bongs",
+    "nameEl": "Bongs — HB9",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/HB9.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2760
+  },
+  {
+    "id": "p277",
+    "catalogueSlug": "pipes",
+    "line": "",
+    "subcategorySlug": "bongs",
+    "nameEl": "Bongs — HB10",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/HB10.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2770
+  },
+  {
+    "id": "p278",
+    "catalogueSlug": "pipes",
+    "line": "",
+    "subcategorySlug": "bongs",
+    "nameEl": "Bongs — HB11",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/HB11.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2780
+  },
+  {
+    "id": "p279",
+    "catalogueSlug": "pipes",
+    "line": "",
+    "subcategorySlug": "bongs",
+    "nameEl": "Bongs — HB12",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/HB12.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2790
+  },
+  {
+    "id": "p280",
+    "catalogueSlug": "pipes",
+    "line": "",
+    "subcategorySlug": "bongs",
+    "nameEl": "Bongs — HB13",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/HB13.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2800
+  },
+  {
+    "id": "p281",
+    "catalogueSlug": "pipes",
+    "line": "",
+    "subcategorySlug": "bongs",
+    "nameEl": "Bongs — HB14",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/HB14.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2810
+  },
+  {
+    "id": "p282",
+    "catalogueSlug": "pipes",
+    "line": "",
+    "subcategorySlug": "bongs",
+    "nameEl": "Bongs — HB15",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/HB15.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2820
+  },
+  {
+    "id": "p283",
+    "catalogueSlug": "pipes",
+    "line": "",
+    "subcategorySlug": "bongs",
+    "nameEl": "Bongs — HB16",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/HB16.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2830
+  },
+  {
+    "id": "p284",
+    "catalogueSlug": "pipes",
+    "line": "",
+    "subcategorySlug": "bongs",
+    "nameEl": "Bongs — HB17",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/HB17.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2840
+  },
+  {
+    "id": "p285",
+    "catalogueSlug": "pipes",
+    "line": "",
+    "subcategorySlug": "bongs",
+    "nameEl": "Bongs — HB18",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/HB18.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2850
+  },
+  {
+    "id": "p286",
+    "catalogueSlug": "pipes",
+    "line": "",
+    "subcategorySlug": "bongs",
+    "nameEl": "Bongs — HB19",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/HB19.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2860
+  },
+  {
+    "id": "p287",
+    "catalogueSlug": "pipes",
+    "line": "",
+    "subcategorySlug": "bongs",
+    "nameEl": "Bongs — HB20",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/HB20.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2870
+  },
+  {
+    "id": "p288",
+    "catalogueSlug": "pipes",
+    "line": "",
+    "subcategorySlug": "bongs",
+    "nameEl": "Bongs — HB21",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/HB21.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2880
+  },
+  {
+    "id": "p289",
+    "catalogueSlug": "pipes",
+    "line": "",
+    "subcategorySlug": "bongs",
+    "nameEl": "Bongs — HB22",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/HB22.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2890
+  },
+  {
+    "id": "p290",
+    "catalogueSlug": "pipes",
+    "line": "",
+    "subcategorySlug": "bongs",
+    "nameEl": "Bongs — HB26",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/HB26.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2900
+  },
+  {
+    "id": "p291",
+    "catalogueSlug": "pipes",
+    "line": "",
+    "subcategorySlug": "bongs",
+    "nameEl": "Bongs — HB23",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/HB23.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2910
+  },
+  {
+    "id": "p292",
+    "catalogueSlug": "pipes",
+    "line": "",
+    "subcategorySlug": "bongs",
+    "nameEl": "Bongs — HB24",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/HB24.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2920
+  },
+  {
+    "id": "p293",
+    "catalogueSlug": "pipes",
+    "line": "",
+    "subcategorySlug": "bongs",
+    "nameEl": "Bongs — HB25",
+    "nameEn": "",
+    "descriptionEl": "",
+    "descriptionEn": "",
+    "images": [
+      "https://pithia.gr/wp-content/uploads/2025/10/HB25.jpg"
+    ],
+    "specs": [],
+    "sortOrder": 2930
+  }
+]

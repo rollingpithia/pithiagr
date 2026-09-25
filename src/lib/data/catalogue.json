@@ -1,0 +1,73 @@
+{
+  "categories": [
+    {
+      "slug": "rolling-papers",
+      "featured": true,
+      "lines": [
+        "classic",
+        "physis"
+      ],
+      "sortOrder": 1
+    },
+    {
+      "slug": "filters",
+      "featured": true,
+      "lines": [
+        "classic",
+        "physis"
+      ],
+      "sortOrder": 2
+    },
+    {
+      "slug": "tobacco-pouches",
+      "featured": false,
+      "lines": [],
+      "sortOrder": 3
+    },
+    {
+      "slug": "wallets",
+      "featured": false,
+      "lines": [],
+      "sortOrder": 4
+    },
+    {
+      "slug": "grinders",
+      "featured": false,
+      "lines": [],
+      "sortOrder": 5
+    },
+    {
+      "slug": "pipes",
+      "featured": false,
+      "lines": [],
+      "sortOrder": 6
+    }
+  ],
+  "subcategories": [
+    {
+      "slug": "patterned",
+      "catalogueSlug": "tobacco-pouches",
+      "sortOrder": 1
+    },
+    {
+      "slug": "coloured",
+      "catalogueSlug": "tobacco-pouches",
+      "sortOrder": 2
+    },
+    {
+      "slug": "wallets",
+      "catalogueSlug": "wallets",
+      "sortOrder": 1
+    },
+    {
+      "slug": "grinders",
+      "catalogueSlug": "grinders",
+      "sortOrder": 1
+    },
+    {
+      "slug": "bongs",
+      "catalogueSlug": "pipes",
+      "sortOrder": 1
+    }
+  ]
+}

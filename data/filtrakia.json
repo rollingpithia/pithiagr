@@ -1,0 +1,677 @@
+{
+  "type": 1,
+  "image": "/assets/catalogue/filtrakia-cat-35.jpg",
+  "icons": {
+    "Per Pack Quantity & Display Quantity": "/assets/icons/pack.svg",
+    "Diameter": "/assets/icons/diameter.svg",
+    "Filter Type": "/assets/icons/filter-type.svg"
+  },
+  "sourceLanguage": "el",
+  "languages": [
+    "el",
+    "en",
+    "es",
+    "nl"
+  ],
+  "translationNotes": {
+    "sourceLanguage": "el",
+    "languages": [
+      {
+        "id": "el",
+        "name": "Greek",
+        "role": "source"
+      },
+      {
+        "id": "en",
+        "name": "English",
+        "role": "translation"
+      },
+      {
+        "id": "es",
+        "name": "Spanish",
+        "role": "translation"
+      },
+      {
+        "id": "nl",
+        "name": "Dutch",
+        "role": "translation"
+      }
+    ],
+    "howToTranslate": [
+      "Greek (el) is entered manually and is the only source. Do not edit el. Write en, es, and nl from el.",
+      "If el is null, leave en, es, and nl null.",
+      "Translate the product, not isolated words. A name, category, attributes, and description for the same product must use the same terms.",
+      "Keep paragraph breaks. Do not add claims, slogans, or details that are not in the Greek.",
+      "Do not translate the top-level note, SKU, Active, Image, Diameter, Filter Type, Dimentions, or Grams/Weight. Those stay as they are."
+    ],
+    "brandAndLineNames": [
+      "Πυθία, Πυθια, and ΠΥΘΙΑ are the brand. In en, es, and nl write PITHIA. Do not translate the meaning.",
+      "ΦΥΣΙΣ is the line name. In English, Spanish, and Dutch write Fysis. Do not translate it as nature, natural, or físico.",
+      "Greek uses ΦΥΣΙΣ. In en, es, and nl write Fysis."
+    ],
+    "keepAsWritten": [
+      "Slim",
+      "Ultra Slim",
+      "Super Slim",
+      "Long Ultra Slim",
+      "Long",
+      "King Size",
+      "K.S",
+      "Classic",
+      "Special Edition",
+      "SE",
+      "Pocket",
+      "Tips",
+      "1&1/4",
+      "Natura",
+      "Activated carbon",
+      "Display",
+      "booklet"
+    ],
+    "productTerms": {
+      "rule": "Use the word smokers in that country use for the product. Do not translate χαρτάκια or φιλτράκια literally. Use the same local term every time that product type appears in a name, category, or description.",
+      "χαρτάκια": {
+        "en": "rolling papers",
+        "es": "papel de liar",
+        "nl": "vloeitjes"
+      },
+      "φιλτράκια / φίλτρα": {
+        "en": "filter tips",
+        "es": "filtros",
+        "nl": "filtertips",
+        "note": "These are the acetate filter tips. Do not call them papers."
+      },
+      "τζιβάνες": {
+        "en": "tips",
+        "es": "tips",
+        "nl": "tips",
+        "note": "Paper tips. Keep them distinct from φιλτράκια. Do not call them filter tips."
+      },
+      "καπνοθήκες": {
+        "en": "tobacco cases",
+        "es": "tabaqueras",
+        "nl": "tabaksdozen"
+      },
+      "πορτοφόλια": {
+        "en": "wallets",
+        "es": "carteras",
+        "nl": "portemonnees"
+      }
+    },
+    "specs": [
+      "Translate only the words. Leave numbers, SKUs, mm, g/m², and size punctuation unchanged.",
+      "ΠΟΛΥ ΛΕΠΤΟ: en extra thin, es muy fino, nl extra dun.",
+      "ΜΕΣΑΙΟ: en medium, es medio, nl medium.",
+      "Βραδείας: en slow burning, es combustión lenta, nl langzaam brandend.",
+      "Κανονική: en regular burning, es combustión normal, nl normaal brandend.",
+      "Color words in names are translated (Γαλάζιο, Ασημί, Πράσινο, Μαύρο, Μπλε, Ακατέργαστο). English color words already in the Greek name stay in English for en and are translated for es and nl.",
+      "Category paths keep the ' > ' separator and the same order. Translate each segment.",
+      "Attributes stay a comma-separated list in the same order. Translate a word only when it is not in keepAsWritten or brandAndLineNames."
+    ],
+    "style": [
+      "Match the Greek tone: concrete, product-first, calm. No extra marketing.",
+      "Where the Greek speaks to the reader, keep that address in the translation.",
+      "Keep a repeated regulatory sentence about European standards, tar, and carbon monoxide when it is present. Do not drop it and do not strengthen it."
+    ]
+  },
+  "description": {
+    "el": [
+      "Η σειρά από φιλτράκια Πυθία έχει σχεδιαστεί για να προσφέρει σταθερότητα και καθαρή απόδοση γεύσης σε κάθε στιγμή. Καλύπτοντας κάθε σύγχρονη ανάγκη, η συλλογή περιλαμβάνει τις κλασικές επιλογές Ultra Slim, πρακτικές εκδόσεις αυξημένης αυτονομίας (SE), καθώς και την απόλυτα οικολογική, 100% χωρίς πλαστικό σειρά ΦΥΣΙΣ. Χάρη στη συμπαγή κατασκευή τους, τα φιλτράκια διατηρούν τη σταθερή δομή τους και δεν παραμορφώνονται, εξασφαλίζοντας άνετη εισπνοή και απόλυτα ισορροπημένη ροή. Η σειρά εγγυάται μια ποιοτική και ισορροπημένη εμπειρία.",
+      "Τα φιλτράκια Πυθία κατασκευάζονται και παρασκευάζονται στην Ελλάδα."
+    ],
+    "en": [
+      "The PITHIA filter tips line is designed to offer consistency and clean flavor at every moment. Covering every modern need, the collection includes the classic Ultra Slim options, practical, longer-lasting editions (SE), and the fully eco-friendly, 100% plastic-free Fysis line. Thanks to their compact construction, the filter tips keep their firm structure and do not deform, ensuring a comfortable draw and a perfectly balanced flow. The line guarantees a quality, balanced experience.",
+      "PITHIA filter tips are made and produced in Greece."
+    ],
+    "es": [
+      "La línea de filtros PITHIA está diseñada para ofrecer estabilidad y un sabor limpio en todo momento. Para responder a cualquier necesidad actual, la colección incluye las opciones clásicas Ultra Slim, prácticas ediciones de mayor duración (SE) y la línea Fysis, totalmente ecológica y 100% sin plástico. Gracias a su construcción compacta, los filtros mantienen su estructura firme y no se deforman, lo que asegura una calada cómoda y un flujo perfectamente equilibrado. La línea garantiza una experiencia equilibrada y de calidad.",
+      "Los filtros PITHIA se fabrican y se elaboran en Grecia."
+    ],
+    "nl": [
+      "De filtertipslijn van PITHIA is ontworpen om op elk moment stabiliteit en een zuivere smaak te bieden. Voor elke hedendaagse behoefte omvat de collectie de klassieke Ultra Slim-varianten, praktische edities die langer meegaan (SE) en de volledig ecologische, 100% plasticvrije Fysis-lijn. Dankzij hun compacte constructie behouden de filtertips hun stevige structuur en vervormen ze niet, wat zorgt voor een comfortabele trek en een perfect uitgebalanceerde doorstroming. De lijn staat garant voor een kwalitatieve, evenwichtige ervaring.",
+      "De filtertips van PITHIA worden in Griekenland gemaakt en geproduceerd."
+    ]
+  },
+  "note": "Note: Main columns are SKU (but optional), Name, Category, Atrributes, Active, Image, Short Description, Description, Alt Text (for Type 2). The other columns are to be read and added as information icons and for each category or type product they differ Active is to display or not, ignoring the product.",
+  "products": [
+    {
+      "SKU": "P02279",
+      "Name": {
+        "el": "Πυθια ΦΥΣΙΣ 120 Long Ultra Slim",
+        "en": "PITHIA Fysis 120 Long Ultra Slim",
+        "es": "PITHIA Fysis 120 Long Ultra Slim",
+        "nl": "PITHIA Fysis 120 Long Ultra Slim"
+      },
+      "Category": {
+        "el": "Φιλτράκια > Πυθία Φιλτράκια ΦΥΣΙΣ",
+        "en": "Filter Tips > PITHIA Filter Tips Fysis",
+        "es": "Filtros > PITHIA Filtros Fysis",
+        "nl": "Filtertips > PITHIA Filtertips Fysis"
+      },
+      "Attributes": {
+        "el": "ΦΥΣΙΣ, Ultra Slim, Long",
+        "en": "Fysis, Ultra Slim, Long",
+        "es": "Fysis, Ultra Slim, Long",
+        "nl": "Fysis, Ultra Slim, Long"
+      },
+      "Per Pack Quantity & Display Quantity": {
+        "el": "120 Φιλτράκια ανά Τεμάχιο / 16 Τεμάχια",
+        "en": "120 Filter Tips per Unit / 16 Units",
+        "es": "120 Filtros por Unidad / 16 Unidades",
+        "nl": "120 Filtertips per Stuk / 16 Stuks"
+      },
+      "Diameter": "5.7mm",
+      "Filter Type": "Long Ultra Slim",
+      "Active": true,
+      "Image": "/assets/catalogue/filtrakia/P02279-1.webp",
+      "Short Description": {
+        "el": "Φιλτράκια Πυθία ΦΥΣΙΣ Long Ultra Slim (5.7 mm) σε συσκευασία 120 τεμαχίων. Φυσική επιλογή χωρίς πλαστικό, με μεγαλύτερο μήκος για πιο σταθερό κράτημα, δροσερή αίσθηση και καθαρή γεύση. 16 συσκευασίες ανά Display.\n\nΚατασκευάζονται και συσκευάζονται στην Ελλάδα.",
+        "en": "PITHIA Fysis Long Ultra Slim filter tips (5.7 mm) in a pack of 120. A natural, plastic-free choice, with extra length for a steadier hold, a cool feel, and a clean taste. 16 packs per Display.\n\nMade and packed in Greece.",
+        "es": "Filtros PITHIA Fysis Long Ultra Slim (5.7 mm) en paquete de 120 unidades. Una opción natural sin plástico, con mayor longitud para un agarre más firme, una sensación fresca y un sabor limpio. 16 paquetes por Display.\n\nSe fabrican y se envasan en Grecia.",
+        "nl": "PITHIA Fysis Long Ultra Slim filtertips (5.7 mm) in een verpakking van 120 stuks. Een natuurlijke, plasticvrije keuze, met extra lengte voor een stevigere grip, een koel gevoel en een zuivere smaak. 16 verpakkingen per Display.\n\nGemaakt en verpakt in Griekenland."
+      },
+      "Description": {
+        "el": "Τα φιλτράκια Πυθία ΦΥΣΙΣ 120 Long Ultra Slim συνδυάζουν τη φυσική φιλοσοφία της σειράς με την άνεση που προσφέρει το αυξημένο μήκος. Κατασκευασμένα 100% χωρίς πλαστικό ή συνθετικές ύλες, επιτρέπουν την απόλυτα καθαρή απόδοση της γεύσης του καπνού. Το μεγαλύτερο μήκος εξασφαλίζει μια πιο δροσερή και ισορροπημένη αίσθηση κατά την εισπνοή, ενώ η συμπαγής κατασκευή τους εγγυάται ότι το φίλτρο παραμένει σταθερό και δεν παραμορφώνεται στα δάχτυλα κατά τη χρήση. Κατασκευάζονται και συσκευάζονται στην Ελλάδα.",
+        "en": "PITHIA Fysis 120 Long Ultra Slim filter tips combine the natural philosophy of the line with the comfort of added length. 100% free of plastic and synthetic materials, they let the flavor of the tobacco come through perfectly clean. The greater length gives a cooler, more balanced feel on the draw, while their compact construction ensures the filter tip stays firm and does not deform between the fingers during use. Made and packed in Greece.",
+        "es": "Los filtros PITHIA Fysis 120 Long Ultra Slim combinan la filosofía natural de la línea con la comodidad que aporta una mayor longitud. 100% libres de plástico y de materiales sintéticos, permiten que el sabor del tabaco se exprese con total limpieza. La mayor longitud ofrece una sensación más fresca y equilibrada en la calada, mientras que su construcción compacta garantiza que el filtro se mantenga firme y no se deforme entre los dedos durante el uso. Se fabrican y se envasan en Grecia.",
+        "nl": "De PITHIA Fysis 120 Long Ultra Slim filtertips combineren de natuurlijke filosofie van de lijn met het comfort van extra lengte. Ze zijn 100% vrij van plastic en synthetische materialen en laten de smaak van de tabak volkomen zuiver tot zijn recht komen. De grotere lengte zorgt voor een koeler en evenwichtiger gevoel bij het inhaleren, terwijl de compacte constructie ervoor zorgt dat de filtertip stevig blijft en tijdens het gebruik niet vervormt tussen de vingers. Gemaakt en verpakt in Griekenland."
+      },
+      "Alt Text": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      }
+    },
+    {
+      "SKU": "P02266",
+      "Name": {
+        "el": "Πυθία ΦΥΣΙΣ 180 Ultra Slim",
+        "en": "PITHIA Fysis 180 Ultra Slim",
+        "es": "PITHIA Fysis 180 Ultra Slim",
+        "nl": "PITHIA Fysis 180 Ultra Slim"
+      },
+      "Category": {
+        "el": "Φιλτράκια > Πυθία Φιλτράκια ΦΥΣΙΣ",
+        "en": "Filter Tips > PITHIA Filter Tips Fysis",
+        "es": "Filtros > PITHIA Filtros Fysis",
+        "nl": "Filtertips > PITHIA Filtertips Fysis"
+      },
+      "Attributes": {
+        "el": "ΦΥΣΙΣ, Ultra Slim",
+        "en": "Fysis, Ultra Slim",
+        "es": "Fysis, Ultra Slim",
+        "nl": "Fysis, Ultra Slim"
+      },
+      "Per Pack Quantity & Display Quantity": {
+        "el": "180 Φιλτράκια / 16 Τεμάχια",
+        "en": "180 Filter Tips / 16 Units",
+        "es": "180 Filtros / 16 Unidades",
+        "nl": "180 Filtertips / 16 Stuks"
+      },
+      "Diameter": "5.7mm",
+      "Filter Type": "Ultra Slim",
+      "Active": true,
+      "Image": "/assets/catalogue/filtrakia/P02266-1.webp",
+      "Short Description": {
+        "el": "Φιλτράκια Πυθία ΦΥΣΙΣ Ultra Slim σε συσκευασία 180 τεμαχίων. Επιλογή με ενσυνείδηση χωρίς καθόλου πλαστικό, ελληνικής κατασκευής, για φυσική αίσθηση και καθαρή γεύση στο στρίψιμο. 16 συσκευασίες ανά Display.\n\nΚατασκευάζονται και συσκευάζονται στην Ελλάδα.",
+        "en": "PITHIA Fysis Ultra Slim filter tips in a pack of 180. A conscious choice with no plastic at all, made in Greece, for a natural feel and a clean taste when rolling. 16 packs per Display.\n\nMade and packed in Greece.",
+        "es": "Filtros PITHIA Fysis Ultra Slim en paquete de 180 unidades. Una elección consciente, sin nada de plástico y de fabricación griega, para una sensación natural y un sabor limpio al liar. 16 paquetes por Display.\n\nSe fabrican y se envasan en Grecia.",
+        "nl": "PITHIA Fysis Ultra Slim filtertips in een verpakking van 180 stuks. Een bewuste keuze zonder enig plastic, van Griekse makelij, voor een natuurlijk gevoel en een zuivere smaak bij het draaien. 16 verpakkingen per Display.\n\nGemaakt en verpakt in Griekenland."
+      },
+      "Description": {
+        "el": "Τα φιλτράκια Πυθία ΦΥΣΙΣ 180 Ultra Slim αποτελούν την απόλυτη οικολογική πρόταση για λεπτό στρίψιμο, σχεδιασμένα να συνδυάζονται άψογα με τα χαρτάκια της σειράς ΦΥΣΙΣ. Κατασκευάζονται στην Ελλάδα χωρίς τη χρήση πλαστικού, προσφέροντας μια αγνή εμπειρία χωρίς χημικές επιβαρύνσεις. Χάρη στη συμπαγή κατασκευή και τη σταθερή τους διάμετρο, διατηρούν τη φόρμα τους ανέπαφη κατά τη χρήση, εξασφαλίζοντας εύκολη τοποθέτηση, ομαλή ροή αέρα και αυθεντική απόδοση της γεύσης του καπνού.",
+        "en": "PITHIA Fysis 180 Ultra Slim filter tips are the definitive eco-friendly choice for slim rolling, designed to pair flawlessly with the rolling papers of the Fysis line. Made in Greece without the use of plastic, they offer a pure experience, unburdened by chemicals. Thanks to their compact construction and consistent diameter, they keep their form intact during use, ensuring easy placement, smooth airflow, and an authentic expression of the tobacco's flavor.",
+        "es": "Los filtros PITHIA Fysis 180 Ultra Slim son la propuesta ecológica definitiva para liar fino, diseñados para combinar a la perfección con el papel de liar de la línea Fysis. Se fabrican en Grecia sin utilizar plástico y ofrecen una experiencia pura, sin cargas químicas. Gracias a su construcción compacta y a su diámetro constante, mantienen su forma intacta durante el uso, lo que asegura una colocación fácil, un flujo de aire suave y una expresión auténtica del sabor del tabaco.",
+        "nl": "De PITHIA Fysis 180 Ultra Slim filtertips zijn dé ecologische keuze voor slank draaien, ontworpen om naadloos samen te gaan met de vloeitjes van de Fysis-lijn. Ze worden in Griekenland gemaakt zonder plastic en bieden een pure ervaring zonder chemische belasting. Dankzij hun compacte constructie en constante diameter blijven ze tijdens het gebruik perfect in vorm, wat zorgt voor eenvoudig plaatsen, een soepele luchtdoorstroming en een authentieke weergave van de smaak van de tabak."
+      },
+      "Alt Text": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      }
+    },
+    {
+      "SKU": "P02982",
+      "Name": {
+        "el": "Πυθία SE 60+18 Ultra Slim",
+        "en": "PITHIA SE 60+18 Ultra Slim",
+        "es": "PITHIA SE 60+18 Ultra Slim",
+        "nl": "PITHIA SE 60+18 Ultra Slim"
+      },
+      "Category": {
+        "el": "Φιλτράκια > Πυθία Φιλτράκια Classic",
+        "en": "Filter Tips > PITHIA Filter Tips Classic",
+        "es": "Filtros > PITHIA Filtros Classic",
+        "nl": "Filtertips > PITHIA Filtertips Classic"
+      },
+      "Attributes": {
+        "el": "Classic, Ultra Slim, Special Edition",
+        "en": "Classic, Ultra Slim, Special Edition",
+        "es": "Classic, Ultra Slim, Special Edition",
+        "nl": "Classic, Ultra Slim, Special Edition"
+      },
+      "Per Pack Quantity & Display Quantity": {
+        "el": "78 Φιλτράκια / 30 Τεμάχια",
+        "en": "78 Filter Tips / 30 Units",
+        "es": "78 Filtros / 30 Unidades",
+        "nl": "78 Filtertips / 30 Stuks"
+      },
+      "Diameter": "5.7mm",
+      "Filter Type": "Ultra Slim",
+      "Active": true,
+      "Image": "/assets/catalogue/filtrakia/P02982-1.webp",
+      "Short Description": {
+        "el": "Φιλτράκια Πυθία SE Ultra Slim (5.7 mm) σε συσκευασία 60+18 τεμαχίων. Σχεδιασμένα σε εύχρηστο μέγεθος τσέπης για εύκολη μεταφορά, προσφέροντας κορυφαία ποιότητα. 30 συσκευασίες ανά Display.\n\nΚατασκευάζονται και συσκευάζονται στην Ελλάδα.",
+        "en": "PITHIA SE Ultra Slim filter tips (5.7 mm) in a pack of 60+18. Designed in a handy pocket size that is easy to carry, offering top quality. 30 packs per Display.\n\nMade and packed in Greece.",
+        "es": "Filtros PITHIA SE Ultra Slim (5.7 mm) en paquete de 60+18 unidades. Diseñados en un práctico tamaño de bolsillo, fáciles de llevar, con una calidad de primer nivel. 30 paquetes por Display.\n\nSe fabrican y se envasan en Grecia.",
+        "nl": "PITHIA SE Ultra Slim filtertips (5.7 mm) in een verpakking van 60+18 stuks. Ontworpen in een handig zakformaat, eenvoudig mee te nemen, met topkwaliteit. 30 verpakkingen per Display.\n\nGemaakt en verpakt in Griekenland."
+      },
+      "Description": {
+        "el": "Τα φιλτράκια Πυθία SE 60+18 Ultra Slim προσφέρουν την τέλεια ισορροπία ανάμεσα στην κομψότητα και την πρακτικότητα. Σχεδιασμένα ειδικά με λεπτή διάμετρο 5.7 mm, διαθέτουν εξαιρετικά συμπαγή δομή που εγγυάται ότι το φίλτρο διατηρεί σταθερό το σχήμα του χωρίς να συμπιέζεται. Η προσεγμένη συσκευασία τσέπης μεταφέρεται παντού με ευκολία, προσφέροντας καθαρή γεύση και ισορροπημένη ροή αέρα. Κατασκευάζονται και συσκευάζονται στην Ελλάδα.",
+        "en": "PITHIA SE 60+18 Ultra Slim filter tips strike the perfect balance between elegance and practicality. Designed specifically with a slim 5.7 mm diameter, they have an exceptionally compact structure that ensures the filter tip keeps a steady shape without being compressed. The carefully made pocket pack goes anywhere with ease, offering a clean taste and balanced airflow. Made and packed in Greece.",
+        "es": "Los filtros PITHIA SE 60+18 Ultra Slim ofrecen el equilibrio perfecto entre elegancia y practicidad. Diseñados específicamente con un diámetro fino de 5.7 mm, tienen una estructura excepcionalmente compacta que garantiza que el filtro mantenga su forma estable sin comprimirse. El cuidado paquete de bolsillo se lleva a todas partes con facilidad y ofrece un sabor limpio y un flujo de aire equilibrado. Se fabrican y se envasan en Grecia.",
+        "nl": "De PITHIA SE 60+18 Ultra Slim filtertips bieden de perfecte balans tussen elegantie en praktisch gemak. Speciaal ontworpen met een slanke diameter van 5.7 mm hebben ze een uitzonderlijk compacte structuur, die ervoor zorgt dat de filtertip zijn vorm stabiel houdt zonder samengedrukt te worden. De zorgvuldig ontworpen zakverpakking gaat moeiteloos overal mee, voor een zuivere smaak en een evenwichtige luchtdoorstroming. Gemaakt en verpakt in Griekenland."
+      },
+      "Alt Text": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      }
+    },
+    {
+      "SKU": "P02984",
+      "Name": {
+        "el": "Πυθία SE 120+30 Ultra Slim",
+        "en": "PITHIA SE 120+30 Ultra Slim",
+        "es": "PITHIA SE 120+30 Ultra Slim",
+        "nl": "PITHIA SE 120+30 Ultra Slim"
+      },
+      "Category": {
+        "el": "Φιλτράκια > Πυθία Φιλτράκια Classic",
+        "en": "Filter Tips > PITHIA Filter Tips Classic",
+        "es": "Filtros > PITHIA Filtros Classic",
+        "nl": "Filtertips > PITHIA Filtertips Classic"
+      },
+      "Attributes": {
+        "el": "Classic, Ultra Slim, Special Edition",
+        "en": "Classic, Ultra Slim, Special Edition",
+        "es": "Classic, Ultra Slim, Special Edition",
+        "nl": "Classic, Ultra Slim, Special Edition"
+      },
+      "Per Pack Quantity & Display Quantity": {
+        "el": "150 Φιλτράκια / 18 Τεμάχια",
+        "en": "150 Filter Tips / 18 Units",
+        "es": "150 Filtros / 18 Unidades",
+        "nl": "150 Filtertips / 18 Stuks"
+      },
+      "Diameter": "5.7mm",
+      "Filter Type": "Ultra Slim",
+      "Active": true,
+      "Image": "/assets/catalogue/filtrakia/P02983-1.jpg",
+      "Short Description": {
+        "el": "Φιλτράκια Πυθία SE Ultra Slim σε συσκευασία προσφοράς 120+30 τεμαχίων. Η ιδανική επιλογή για στρίψιμο, με μεγάλη αυτονομία που σας καλύπτει κάθε στιγμή. 18 συσκευασίες ανά Display.\n\nΚατασκευάζονται και συσκευάζονται στην Ελλάδα.",
+        "en": "PITHIA SE Ultra Slim filter tips in a 120+30 bonus pack. The ideal choice for rolling, with a long-lasting supply that keeps you covered at every moment. 18 packs per Display.\n\nMade and packed in Greece.",
+        "es": "Filtros PITHIA SE Ultra Slim en paquete promocional de 120+30 unidades. La opción ideal para liar, con una gran autonomía que le cubre en todo momento. 18 paquetes por Display.\n\nSe fabrican y se envasan en Grecia.",
+        "nl": "PITHIA SE Ultra Slim filtertips in een voordeelverpakking van 120+30 stuks. De ideale keuze om te draaien, met een ruime voorraad waarmee u op elk moment voorzien bent. 18 verpakkingen per Display.\n\nGemaakt en verpakt in Griekenland."
+      },
+      "Description": {
+        "el": "Τα φιλτράκια Πυθία SE 120+30 Ultra Slim προσφέρουν την απόλυτη αίσθηση ακρίβειας στο λεπτό στρίψιμο. Χάρη στη συμπαγή κατασκευή και τη σταθερή τους διάμετρο, διατηρούν το σχήμα τους χωρίς να παραμορφώνονται, εξασφαλίζοντας ομαλή ροή αέρα και καθαρή απόδοση της γεύσης του καπνού. Η ενισχυμένη συσκευασία 120+30 τεμαχίων προσφέρει την άνεση του να έχετε πάντα διαθέσιμα τα αγαπημένα σας φιλτράκια, χωρίς να χρειάζεται να ανησυχείτε για τη συχνή ανανέωσή τους. Κατασκευάζονται και συσκευάζονται στην Ελλάδα.",
+        "en": "PITHIA SE 120+30 Ultra Slim filter tips offer an absolute sense of precision in slim rolling. Thanks to their compact construction and consistent diameter, they keep their shape without deforming, ensuring smooth airflow and a clean expression of the tobacco's flavor. The extended 120+30 pack gives you the ease of always having your favorite filter tips at hand, without having to worry about restocking them often. Made and packed in Greece.",
+        "es": "Los filtros PITHIA SE 120+30 Ultra Slim ofrecen una sensación absoluta de precisión al liar fino. Gracias a su construcción compacta y a su diámetro constante, mantienen su forma sin deformarse, lo que asegura un flujo de aire suave y una expresión limpia del sabor del tabaco. El paquete ampliado de 120+30 unidades le ofrece la comodidad de tener siempre a mano sus filtros favoritos, sin tener que preocuparse por reponerlos a menudo. Se fabrican y se envasan en Grecia.",
+        "nl": "De PITHIA SE 120+30 Ultra Slim filtertips geven een absoluut gevoel van precisie bij slank draaien. Dankzij hun compacte constructie en constante diameter behouden ze hun vorm zonder te vervormen, wat zorgt voor een soepele luchtdoorstroming en een zuivere weergave van de smaak van de tabak. De extra grote verpakking van 120+30 stuks biedt u het gemak dat u uw favoriete filtertips altijd bij de hand hebt, zonder dat u zich zorgen hoeft te maken over regelmatig bijkopen. Gemaakt en verpakt in Griekenland."
+      },
+      "Alt Text": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      }
+    },
+    {
+      "SKU": "P02983",
+      "Name": {
+        "el": "Πυθία SE 180 Ultra Slim",
+        "en": "PITHIA SE 180 Ultra Slim",
+        "es": "PITHIA SE 180 Ultra Slim",
+        "nl": "PITHIA SE 180 Ultra Slim"
+      },
+      "Category": {
+        "el": "Φιλτράκια > Πυθία Φιλτράκια Classic",
+        "en": "Filter Tips > PITHIA Filter Tips Classic",
+        "es": "Filtros > PITHIA Filtros Classic",
+        "nl": "Filtertips > PITHIA Filtertips Classic"
+      },
+      "Attributes": {
+        "el": "Classic, Ultra Slim, Special Edition",
+        "en": "Classic, Ultra Slim, Special Edition",
+        "es": "Classic, Ultra Slim, Special Edition",
+        "nl": "Classic, Ultra Slim, Special Edition"
+      },
+      "Per Pack Quantity & Display Quantity": {
+        "el": "180 Φιλτράκια / 16 Τεμάχια",
+        "en": "180 Filter Tips / 16 Units",
+        "es": "180 Filtros / 16 Unidades",
+        "nl": "180 Filtertips / 16 Stuks"
+      },
+      "Diameter": "5.7mm",
+      "Filter Type": "Ultra Slim",
+      "Active": true,
+      "Image": "/assets/catalogue/filtrakia/P02984-1.webp",
+      "Short Description": {
+        "el": "Φιλτράκια Πυθία SE Ultra Slim 5.7 mm σε πρακτική συσκευασία 180 τεμαχίων. Η ιδανική επιλογή για τακτική χρήση, με σταθερό σχήμα και καθαρό αποτέλεσμα σε κάθε στρίψιμο. 16 συσκευασίες ανά Display.\n\nΚατασκευάζονται και συσκευάζονται στην Ελλάδα.",
+        "en": "PITHIA SE Ultra Slim 5.7 mm filter tips in a practical pack of 180. The ideal choice for regular use, with a stable shape and a clean result in every roll. 16 packs per Display.\n\nMade and packed in Greece.",
+        "es": "Filtros PITHIA SE Ultra Slim 5.7 mm en un práctico paquete de 180 unidades. La opción ideal para un uso habitual, con forma estable y un resultado limpio en cada liado. 16 paquetes por Display.\n\nSe fabrican y se envasan en Grecia.",
+        "nl": "PITHIA SE Ultra Slim 5.7 mm filtertips in een praktische verpakking van 180 stuks. De ideale keuze voor regelmatig gebruik, met een stabiele vorm en een zuiver resultaat bij elke gedraaide sigaret. 16 verpakkingen per Display.\n\nGemaakt en verpakt in Griekenland."
+      },
+      "Description": {
+        "el": "Τα φιλτράκια Πυθία SE 180 Ultra Slim έχουν σχεδιαστεί για να καλύπτουν τις καθημερινές ανάγκες του τακτικού χρήστη με απόλυτη αξιοπιστία. Διαθέτουν συμπαγή κατασκευή και ακριβές κόψιμο στα άκρα, εξασφαλίζοντας εύκολη τοποθέτηση και σταθερή διάμετρο που διατηρεί τη δομή της καθ' όλη τη διάρκεια της χρήσης. Προσφέρουν ομοιόμορφη ροή αέρα και καθαρή γεύση, κάνοντας το καθημερινό στρίψιμο απλό και αποτελεσματικό. Κατασκευάζονται και συσκευάζονται στην Ελλάδα.",
+        "en": "PITHIA SE 180 Ultra Slim filter tips are designed to meet the everyday needs of the regular user with complete reliability. They have a compact construction and precisely cut ends, ensuring easy placement and a consistent diameter that keeps its structure throughout use. They offer even airflow and a clean taste, making everyday rolling simple and effective. Made and packed in Greece.",
+        "es": "Los filtros PITHIA SE 180 Ultra Slim están diseñados para cubrir las necesidades diarias del usuario habitual con total fiabilidad. Tienen una construcción compacta y un corte preciso en los extremos, lo que asegura una colocación fácil y un diámetro constante que conserva su estructura durante todo el uso. Ofrecen un flujo de aire uniforme y un sabor limpio, y hacen que liar a diario sea sencillo y eficaz. Se fabrican y se envasan en Grecia.",
+        "nl": "De PITHIA SE 180 Ultra Slim filtertips zijn ontworpen om met volledige betrouwbaarheid te voldoen aan de dagelijkse behoeften van de vaste gebruiker. Ze hebben een compacte constructie en nauwkeurig gesneden uiteinden, wat zorgt voor eenvoudig plaatsen en een constante diameter die zijn structuur tijdens het hele gebruik behoudt. Ze bieden een gelijkmatige luchtdoorstroming en een zuivere smaak, waardoor dagelijks draaien eenvoudig en effectief wordt. Gemaakt en verpakt in Griekenland."
+      },
+      "Alt Text": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      }
+    },
+    {
+      "SKU": "P02988",
+      "Name": {
+        "el": "Πυθία SE 270 Ultra Slim",
+        "en": "PITHIA SE 270 Ultra Slim",
+        "es": "PITHIA SE 270 Ultra Slim",
+        "nl": "PITHIA SE 270 Ultra Slim"
+      },
+      "Category": {
+        "el": "Φιλτράκια > Πυθία Φιλτράκια Classic",
+        "en": "Filter Tips > PITHIA Filter Tips Classic",
+        "es": "Filtros > PITHIA Filtros Classic",
+        "nl": "Filtertips > PITHIA Filtertips Classic"
+      },
+      "Attributes": {
+        "el": "Classic, Ultra Slim, Special Edition",
+        "en": "Classic, Ultra Slim, Special Edition",
+        "es": "Classic, Ultra Slim, Special Edition",
+        "nl": "Classic, Ultra Slim, Special Edition"
+      },
+      "Per Pack Quantity & Display Quantity": {
+        "el": "270 Φιλτράκια / 10 Τεμάχια",
+        "en": "270 Filter Tips / 10 Units",
+        "es": "270 Filtros / 10 Unidades",
+        "nl": "270 Filtertips / 10 Stuks"
+      },
+      "Diameter": "5.7mm",
+      "Filter Type": "Ultra Slim",
+      "Active": true,
+      "Image": "/assets/catalogue/filtrakia/P02988-1.webp",
+      "Short Description": {
+        "el": "Φιλτράκια Πυθία SE Ultra Slim 5.7 mm σε οικονομική συσκευασία 270 τεμαχίων. Υψηλή ποιότητα κατασκευής για λεπτό, κομψό στρίψιμο και σταθερή απόδοση σε κάθε χρήση. 10 συσκευασίες ανά Display.\n\nΚατασκευάζονται και συσκευάζονται στην Ελλάδα.",
+        "en": "PITHIA SE Ultra Slim 5.7 mm filter tips in an economy pack of 270. High build quality for a slim, elegant roll and consistent performance with every use. 10 packs per Display.\n\nMade and packed in Greece.",
+        "es": "Filtros PITHIA SE Ultra Slim 5.7 mm en paquete económico de 270 unidades. Alta calidad de fabricación para un liado fino y elegante y un rendimiento constante en cada uso. 10 paquetes por Display.\n\nSe fabrican y se envasan en Grecia.",
+        "nl": "PITHIA SE Ultra Slim 5.7 mm filtertips in een voordelige verpakking van 270 stuks. Hoogwaardig vervaardigd, voor een slanke, elegante sigaret en constante prestaties bij elk gebruik. 10 verpakkingen per Display.\n\nGemaakt en verpakt in Griekenland."
+      },
+      "Description": {
+        "el": "Τα φιλτράκια Πυθία SE 270 Ultra Slim αποτελούν την ιδανική επιλογή για όσους προτιμούν το λεπτό στρίψιμο και αναζητούν μέγιστη οικονομία. Με σταθερή διάμετρο, διατηρούν το σχήμα τους χωρίς να συμπιέζονται, εξασφαλίζοντας ομοιόμορφο τράβηγμα και καθαρή απόδοση της γεύσης του καπνού. Η μεγάλη συσκευασία των 270 τεμαχίων προσφέρει μεγάλη διάρκεια και εγγυημένη ποιότητα μέχρι το τελευταίο φιλτράκι. Η συσκευασία που αγοράζεις μία φορά και την ξεχνάς. Κατασκευάζονται και συσκευάζονται στην Ελλάδα.",
+        "en": "PITHIA SE 270 Ultra Slim filter tips are the ideal choice for those who prefer slim rolling and look for maximum value. With a consistent diameter, they keep their shape without being compressed, ensuring an even draw and a clean expression of the tobacco's flavor. The large pack of 270 lasts a long time, with guaranteed quality down to the last filter tip. The pack you buy once and forget about. Made and packed in Greece.",
+        "es": "Los filtros PITHIA SE 270 Ultra Slim son la opción ideal para quienes prefieren liar fino y buscan el máximo ahorro. Con un diámetro constante, mantienen su forma sin comprimirse, lo que asegura un tiro uniforme y una expresión limpia del sabor del tabaco. El paquete grande de 270 unidades ofrece una larga duración y una calidad garantizada hasta el último filtro. El paquete que compras una vez y del que te olvidas. Se fabrican y se envasan en Grecia.",
+        "nl": "De PITHIA SE 270 Ultra Slim filtertips zijn de ideale keuze voor wie liever slank draait en maximaal voordeel zoekt. Met een constante diameter behouden ze hun vorm zonder samengedrukt te worden, wat zorgt voor een gelijkmatige trek en een zuivere weergave van de smaak van de tabak. De grote verpakking van 270 stuks gaat lang mee, met gegarandeerde kwaliteit tot de laatste filtertip. De verpakking die je één keer koopt en dan vergeet. Gemaakt en verpakt in Griekenland."
+      },
+      "Alt Text": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      }
+    },
+    {
+      "SKU": "P02985",
+      "Name": {
+        "el": "Φιλτράκια Πυθία 108",
+        "en": "PITHIA Filter Tips 108",
+        "es": "Filtros PITHIA 108",
+        "nl": "PITHIA Filtertips 108"
+      },
+      "Category": {
+        "el": "Φιλτράκια > Πυθία Φιλτράκια Classic",
+        "en": "Filter Tips > PITHIA Filter Tips Classic",
+        "es": "Filtros > PITHIA Filtros Classic",
+        "nl": "Filtertips > PITHIA Filtertips Classic"
+      },
+      "Attributes": {
+        "el": "Classic",
+        "en": "Classic",
+        "es": "Classic",
+        "nl": "Classic"
+      },
+      "Per Pack Quantity & Display Quantity": {
+        "el": "108 Φιλτράκια / 24 Τεμάχια",
+        "en": "108 Filter Tips / 24 Units",
+        "es": "108 Filtros / 24 Unidades",
+        "nl": "108 Filtertips / 24 Stuks"
+      },
+      "Diameter": "6.0mm",
+      "Filter Type": "Slim",
+      "Active": true,
+      "Image": "/assets/catalogue/filtrakia/P02985-1.webp",
+      "Short Description": {
+        "el": "Κλασικά φιλτράκια Πυθία Slim (6.0 mm) σε συσκευασία 108 τεμαχίων. Εγγυημένη ποιότητα για σταθερό στρίψιμο, καθαρή γεύση και άνετο κράτημα.\n\nΚατασκευάζονται και συσκευάζονται στην Ελλάδα.",
+        "en": "Classic PITHIA Slim filter tips (6.0 mm) in a pack of 108. Guaranteed quality for a steady roll, a clean taste, and a comfortable hold.\n\nMade and packed in Greece.",
+        "es": "Filtros clásicos PITHIA Slim (6.0 mm) en paquete de 108 unidades. Calidad garantizada para un liado firme, un sabor limpio y un agarre cómodo.\n\nSe fabrican y se envasan en Grecia.",
+        "nl": "Klassieke PITHIA Slim filtertips (6.0 mm) in een verpakking van 108 stuks. Gegarandeerde kwaliteit voor stevig draaien, een zuivere smaak en een comfortabele grip.\n\nGemaakt en verpakt in Griekenland."
+      },
+      "Description": {
+        "el": "Τα φιλτράκια Πυθία 108 Slim προσφέρουν την αγαπημένη, διαχρονική αίσθηση στο στρίψιμο που εμπιστεύεστε καθημερινά. Με τη δημοφιλή διάμετρο των 6.0 mm, συνδυάζουν τη συμπαγή περιέλιξη με τα ακριβώς κομμένα άκρα, εξασφαλίζοντας ότι το φίλτρο διατηρεί το σχήμα του χωρίς να συμπιέζεται. Προσφέρουν ομοιόμορφη ροή αέρα, σωστό φιλτράρισμα και καθαρή απόδοση της γεύσης του καπνού. Κατασκευάζονται και συσκευάζονται στην Ελλάδα.",
+        "en": "PITHIA 108 Slim filter tips offer the much-loved, timeless rolling feel you trust every day. With the popular 6.0 mm diameter, they combine a compact wrap with precisely cut ends, ensuring the filter tip keeps its shape without being compressed. They offer even airflow, proper filtration, and a clean expression of the tobacco's flavor. Made and packed in Greece.",
+        "es": "Los filtros PITHIA 108 Slim ofrecen esa sensación querida y atemporal al liar en la que confía cada día. Con el popular diámetro de 6.0 mm, combinan un enrollado compacto con extremos cortados con precisión, lo que asegura que el filtro mantenga su forma sin comprimirse. Ofrecen un flujo de aire uniforme, un filtrado correcto y una expresión limpia del sabor del tabaco. Se fabrican y se envasan en Grecia.",
+        "nl": "De PITHIA 108 Slim filtertips bieden het geliefde, tijdloze draaigevoel waarop u elke dag vertrouwt. Met de populaire diameter van 6.0 mm combineren ze een compacte wikkeling met nauwkeurig gesneden uiteinden, zodat de filtertip zijn vorm behoudt zonder samengedrukt te worden. Ze bieden een gelijkmatige luchtdoorstroming, een goede filtering en een zuivere weergave van de smaak van de tabak. Gemaakt en verpakt in Griekenland."
+      },
+      "Alt Text": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      }
+    },
+    {
+      "SKU": "P02977",
+      "Name": {
+        "el": "Πυθία Φίλτρα Ενεργού Άνθρακα Slim 6mm",
+        "en": "PITHIA Activated Carbon Filter Tips Slim 6mm",
+        "es": "PITHIA Filtros de Carbón Activo Slim 6mm",
+        "nl": "PITHIA Filtertips met Actieve Kool Slim 6mm"
+      },
+      "Category": {
+        "el": "Φιλτράκια > Πυθία Φιλτράκια Classic",
+        "en": "Filter Tips > PITHIA Filter Tips Classic",
+        "es": "Filtros > PITHIA Filtros Classic",
+        "nl": "Filtertips > PITHIA Filtertips Classic"
+      },
+      "Attributes": {
+        "el": "Classic, Activated carbon",
+        "en": "Classic, Activated carbon",
+        "es": "Classic, Activated carbon",
+        "nl": "Classic, Activated carbon"
+      },
+      "Per Pack Quantity & Display Quantity": {
+        "el": "120 Φιλτράκια / 6 Τεμάχια",
+        "en": "120 Filter Tips / 6 Units",
+        "es": "120 Filtros / 6 Unidades",
+        "nl": "120 Filtertips / 6 Stuks"
+      },
+      "Diameter": "6.0mm",
+      "Filter Type": "Slim",
+      "Active": true,
+      "Image": "/assets/catalogue/filtrakia/P02977-1.webp",
+      "Short Description": {
+        "el": "Ενεργός άνθρακας στον πυρήνα, για πιο απαλή και δροσερή εμπειρία. 120 σε κάθε συσκευασία, 6.0 mm Slim. 6 συσκευασίες ανά Display.\n\nΚατασκευάζονται και συσκευάζονται στην Ελλάδα.",
+        "en": "Activated carbon at the core, for a softer, cooler experience. 120 in every pack, 6.0 mm Slim. 6 packs per Display.\n\nMade and packed in Greece.",
+        "es": "Carbón activo en el núcleo, para una experiencia más suave y fresca. 120 en cada paquete, 6.0 mm Slim. 6 paquetes por Display.\n\nSe fabrican y se envasan en Grecia.",
+        "nl": "Actieve kool in de kern, voor een zachtere, koelere ervaring. 120 in elke verpakking, 6.0 mm Slim. 6 verpakkingen per Display.\n\nGemaakt en verpakt in Griekenland."
+      },
+      "Description": {
+        "el": "Στον πυρήνα κάθε φίλτρου, ενεργός άνθρακας, και η διαφορά διακρίνεται στη γεύση: η γεύση πιο απαλή, πιο δροσερή, πιο καθαρή. Σφραγισμένα άκρα ώστε ο άνθρακας να μένει στη θέση του, εκατόν είκοσι φίλτρα σε κάθε συσκευασία. Για όσους θέλουν κάτι πιο ήπιο, χωρίς να αλλάξουν τίποτα άλλο. Για όσους θέλουν κάτι πιο ήπιο, χωρίς να αλλάξουν τίποτα άλλο στη συνήθειά τους. Κατασκευάζονται και συσκευάζονται στην Ελλάδα.",
+        "en": "At the core of every filter tip, activated carbon, and the difference is in the taste: softer, cooler, cleaner. Sealed ends so the carbon stays in place, one hundred and twenty filter tips in every pack. For those who want something milder without changing anything else. For those who want something milder without changing anything else in their habit. Made and packed in Greece.",
+        "es": "En el núcleo de cada filtro, carbón activo, y la diferencia está en el sabor: más suave, más fresco, más limpio. Extremos sellados para que el carbón se mantenga en su sitio, ciento veinte filtros en cada paquete. Para quienes quieren algo más ligero sin cambiar nada más. Para quienes quieren algo más ligero sin cambiar nada más en su costumbre. Se fabrican y se envasan en Grecia.",
+        "nl": "In de kern van elke filtertip zit actieve kool, en het verschil is te proeven: zachter, koeler, zuiverder. Afgesloten uiteinden, zodat de kool op zijn plaats blijft, honderdtwintig filtertips in elke verpakking. Voor wie iets milders wil zonder verder iets te veranderen. Voor wie iets milders wil zonder verder iets aan de eigen gewoonte te veranderen. Gemaakt en verpakt in Griekenland."
+      },
+      "Alt Text": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      }
+    },
+    {
+      "SKU": "P00003",
+      "Name": {
+        "el": "Πυθία Φίλτρα Pocket Super Slim 5.7mm",
+        "en": "PITHIA Filter Tips Pocket Super Slim 5.7mm",
+        "es": "PITHIA Filtros Pocket Super Slim 5.7mm",
+        "nl": "PITHIA Filtertips Pocket Super Slim 5.7mm"
+      },
+      "Category": {
+        "el": "Φιλτράκια > Πυθία Φιλτράκια Classic",
+        "en": "Filter Tips > PITHIA Filter Tips Classic",
+        "es": "Filtros > PITHIA Filtros Classic",
+        "nl": "Filtertips > PITHIA Filtertips Classic"
+      },
+      "Attributes": {
+        "el": "Classic, Pocket",
+        "en": "Classic, Pocket",
+        "es": "Classic, Pocket",
+        "nl": "Classic, Pocket"
+      },
+      "Per Pack Quantity & Display Quantity": {
+        "el": "60 Φιλτράκια / 30 Τεμάχια",
+        "en": "60 Filter Tips / 30 Units",
+        "es": "60 Filtros / 30 Unidades",
+        "nl": "60 Filtertips / 30 Stuks"
+      },
+      "Diameter": "5.7mm",
+      "Filter Type": "Super Slim",
+      "Active": true,
+      "Image": "/assets/catalogue/filtrakia/P00003-1.webp",
+      "Short Description": {
+        "el": "60 φιλτράκια Super Slim 5.7 mm σε συσκευασία τσέπης, για να μη μένεις ποτέ χωρίς. 30 συσκευασίες ανά Display.\n\nΚατασκευάζονται και συσκευάζονται στην Ελλάδα.",
+        "en": "60 Super Slim 5.7 mm filter tips in a pocket pack, so you are never without. 30 packs per Display.\n\nMade and packed in Greece.",
+        "es": "60 filtros Super Slim 5.7 mm en paquete de bolsillo, para que nunca te quedes sin ellos. 30 paquetes por Display.\n\nSe fabrican y se envasan en Grecia.",
+        "nl": "60 Super Slim 5.7 mm filtertips in een zakverpakking, zodat je nooit zonder zit. 30 verpakkingen per Display.\n\nGemaakt en verpakt in Griekenland."
+      },
+      "Description": {
+        "el": "Μικρή συσκευασία, εξήντα φίλτρα, μία δουλειά: να μην ψάχνεις. Super slim, στο μέγεθος που χωράει στην ίδια τσέπη με το booklet και τον αναπτήρα, με σταθερή διάμετρο και σφιχτή περιέλιξη. Η συσκευασία κλείνει και τα κρατά στεγνά και στο σχήμα τους. Κατασκευάζονται και συσκευάζονται στην Ελλάδα.",
+        "en": "A small pack, sixty filter tips, one job: so you never have to search. Super slim, sized to fit in the same pocket as the booklet and the lighter, with a consistent diameter and a tight wrap. The pack closes and keeps them dry and in shape. Made and packed in Greece.",
+        "es": "Paquete pequeño, sesenta filtros, una sola misión: que no tengas que buscar. Super slim, del tamaño justo para caber en el mismo bolsillo que el booklet y el mechero, con diámetro constante y un enrollado apretado. El paquete se cierra y los mantiene secos y en su forma. Se fabrican y se envasan en Grecia.",
+        "nl": "Kleine verpakking, zestig filtertips, één taak: dat je niet hoeft te zoeken. Super slim, in een formaat dat in dezelfde zak past als het booklet en de aansteker, met een constante diameter en een strakke wikkeling. De verpakking sluit en houdt ze droog en in vorm. Gemaakt en verpakt in Griekenland."
+      },
+      "Alt Text": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      }
+    },
+    {
+      "SKU": "P00068",
+      "Name": {
+        "el": "Πυθία Τζιβάνα Ακατέργαστη",
+        "en": "PITHIA Tips Unbleached",
+        "es": "PITHIA Tips Sin Blanquear",
+        "nl": "PITHIA Tips Ongebleekt"
+      },
+      "Category": {
+        "el": "Φιλτράκια > Τζιβάνες",
+        "en": "Filter Tips > Tips",
+        "es": "Filtros > Tips",
+        "nl": "Filtertips > Tips"
+      },
+      "Attributes": {
+        "el": "Ακατέργαστη, Τζιβάνες",
+        "en": "Unbleached, Tips",
+        "es": "Sin Blanquear, Tips",
+        "nl": "Ongebleekt, Tips"
+      },
+      "Per Pack Quantity & Display Quantity": {
+        "el": "50 Τζιβάνες / 25 Τεμάχια",
+        "en": "50 Tips / 25 Units",
+        "es": "50 Tips / 25 Unidades",
+        "nl": "50 Tips / 25 Stuks"
+      },
+      "Diameter": null,
+      "Filter Type": null,
+      "Active": true,
+      "Image": "/assets/catalogue/filtrakia/P00068-1.jpg",
+      "Short Description": {
+        "el": "Αυθεντικές ακατέργαστες τζιβάνες Πυθία από μη λευκασμένο χαρτί, σχεδιασμένες για καθαρή γεύση και σταθερό στρίψιμο. Συσκευασία 50 φύλλων ανά τεμάχιο (κουτί 25 τεμαχίων).",
+        "en": "Authentic PITHIA unbleached tips, made from paper that has not been bleached, designed for a clean taste and a steady roll. Pack of 50 leaves per unit (box of 25 units).",
+        "es": "Auténticos tips PITHIA sin blanquear, de papel no blanqueado, diseñados para un sabor limpio y un liado firme. Paquete de 50 hojas por unidad (caja de 25 unidades).",
+        "nl": "Authentieke ongebleekte PITHIA tips van niet-gebleekt papier, ontworpen voor een zuivere smaak en stevig draaien. Verpakking van 50 vellen per stuk (doos van 25 stuks)."
+      },
+      "Description": {
+        "el": "Οι ακατέργαστες τζιβάνες Πυθία προσφέρουν μια φυσική εμπειρία καπνίσματος χωρίς χημική επεξεργασία. Κατασκευασμένες από υψηλής ποιότητας, ανεπεξέργαστο χαρτί, διατηρούν ανεπηρεαστη την αυθεντική γεύση του καπνού. Διαθέτουν την ιδανική σκληρότητα και ελαστικότητα για εύκολο δίπλωμα, εξασφαλίζοντας σταθερό κράτημα στο τσιγάρο, σωστή ροή αέρα και προστασία από τα υπολείμματα καπνού.\n\nΤύπος: Ακατέργαστο χαρτί (Unbleached)\n\nΧαρακτηριστικά: Χωρίς λεύκανση χλωρίου, εύκολη διαμόρφωση\n\nΠεριεχόμενο: 50 τζιβάνες ανά φυλλάδιο / 25 φυλλάδια ανά κουτί",
+        "en": "PITHIA unbleached tips offer a natural smoking experience with no chemical treatment. Made from high-quality, unprocessed paper, they leave the authentic taste of the tobacco unaffected. They have the ideal stiffness and flexibility for easy folding, ensuring a steady hold in the cigarette, proper airflow, and protection from tobacco residue.\n\nType: Unbleached paper\n\nFeatures: No chlorine bleaching, easy to shape\n\nContents: 50 tips per booklet / 25 booklets per box",
+        "es": "Los tips PITHIA sin blanquear ofrecen una experiencia de fumar natural, sin tratamiento químico. Fabricados con papel sin procesar de alta calidad, mantienen intacto el sabor auténtico del tabaco. Tienen la rigidez y la flexibilidad ideales para doblarse con facilidad, y aseguran una sujeción firme en el cigarrillo, un flujo de aire correcto y protección frente a los restos de tabaco.\n\nTipo: Papel sin blanquear (Unbleached)\n\nCaracterísticas: Sin blanqueo con cloro, fácil de moldear\n\nContenido: 50 tips por librillo / 25 librillos por caja",
+        "nl": "De ongebleekte PITHIA tips bieden een natuurlijke rookervaring zonder chemische behandeling. Gemaakt van onbewerkt papier van hoge kwaliteit laten ze de authentieke smaak van de tabak onaangetast. Ze hebben de ideale stijfheid en soepelheid om makkelijk te vouwen, en zorgen voor een stevige houvast in de sigaret, een goede luchtdoorstroming en bescherming tegen tabaksresten.\n\nType: Ongebleekt papier (Unbleached)\n\nKenmerken: Zonder chloorbleking, eenvoudig te vormen\n\nInhoud: 50 tips per boekje / 25 boekjes per doos"
+      },
+      "Alt Text": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      }
+    },
+    {
+      "SKU": "P00399",
+      "Name": {
+        "el": "Πυθία Τζιβάνα Natura",
+        "en": "PITHIA Tips Natura",
+        "es": "PITHIA Tips Natura",
+        "nl": "PITHIA Tips Natura"
+      },
+      "Category": {
+        "el": "Φιλτράκια > Τζιβάνες",
+        "en": "Filter Tips > Tips",
+        "es": "Filtros > Tips",
+        "nl": "Filtertips > Tips"
+      },
+      "Attributes": {
+        "el": "Τζιβάνες",
+        "en": "Tips",
+        "es": "Tips",
+        "nl": "Tips"
+      },
+      "Per Pack Quantity & Display Quantity": {
+        "el": "50 Τζιβάνες / 25 Τεμάχια",
+        "en": "50 Tips / 25 Units",
+        "es": "50 Tips / 25 Unidades",
+        "nl": "50 Tips / 25 Stuks"
+      },
+      "Diameter": null,
+      "Filter Type": null,
+      "Active": true,
+      "Image": "/assets/catalogue/filtrakia/P00399-1.jpg",
+      "Short Description": {
+        "el": "Φυσικές τζιβάνες Πυθία Natura από φυτικές ίνες για οικολογικό στρίψιμο και απολαυστική, ομαλή ροή. Συσκευασία 50 φύλλων ανά τεμάχιο (κουτί 25 τεμαχίων).",
+        "en": "Natural PITHIA Natura tips made from plant fibers, for eco-friendly rolling and a smooth, enjoyable draw. Pack of 50 leaves per unit (box of 25 units).",
+        "es": "Tips naturales PITHIA Natura de fibras vegetales, para un liado ecológico y un tiro suave y agradable. Paquete de 50 hojas por unidad (caja de 25 unidades).",
+        "nl": "Natuurlijke PITHIA Natura tips van plantaardige vezels, voor ecologisch draaien en een soepele, aangename trek. Verpakking van 50 vellen per stuk (doos van 25 stuks)."
+      },
+      "Description": {
+        "el": "Η σειρά Πυθία Natura είναι σχεδιασμένη για όσους αναζητούν μια φιλική προς το περιβάλλον επιλογή στο στρίψιμο. Κατασκευασμένες από επιλεγμένες φυσικές ίνες χωρίς πρόσθετα χημικά ή βιομηχανικές λευκάνσεις, προσφέρουν ουδέτερη γεύση και εξαιρετική αντοχή. Το χαρτί ρολάρει εύκολα και διατηρεί τη δομή του καθ' όλη τη διάρκεια της χρήσης, προσφέροντας άνετο κράτημα και ομοιόμορφη καύση.\n\nΤύπος: Φυσικές ίνες (Natura / Eco-friendly)\n\nΧαρακτηριστικά: Οικολογική σύνθεση, ουδέτερη γεύση, σταθερή δομή\n\nΠεριεχόμενο: 50 τζιβάνες ανά φυλλάδιο / 25 φυλλάδια ανά κουτί",
+        "en": "The PITHIA Natura line is designed for those looking for an environmentally friendly choice in rolling. Made from selected natural fibers with no added chemicals or industrial bleaching, they offer a neutral taste and excellent strength. The paper rolls easily and keeps its structure throughout use, offering a comfortable hold and an even burn.\n\nType: Natural fibers (Natura / Eco-friendly)\n\nFeatures: Eco-friendly composition, neutral taste, stable structure\n\nContents: 50 tips per booklet / 25 booklets per box",
+        "es": "La línea PITHIA Natura está diseñada para quienes buscan una opción respetuosa con el medio ambiente al liar. Fabricados con fibras naturales seleccionadas, sin químicos añadidos ni blanqueos industriales, ofrecen un sabor neutro y una resistencia excelente. El papel se enrolla con facilidad y mantiene su estructura durante todo el uso, con un agarre cómodo y una combustión uniforme.\n\nTipo: Fibras naturales (Natura / Eco-friendly)\n\nCaracterísticas: Composición ecológica, sabor neutro, estructura estable\n\nContenido: 50 tips por librillo / 25 librillos por caja",
+        "nl": "De PITHIA Natura-lijn is ontworpen voor wie bij het draaien een milieuvriendelijke keuze zoekt. Gemaakt van geselecteerde natuurlijke vezels zonder toegevoegde chemicaliën of industriële bleking, bieden ze een neutrale smaak en een uitstekende stevigheid. Het papier laat zich makkelijk rollen en behoudt zijn structuur tijdens het hele gebruik, voor een comfortabele grip en een gelijkmatige verbranding.\n\nType: Natuurlijke vezels (Natura / Eco-friendly)\n\nKenmerken: Ecologische samenstelling, neutrale smaak, stabiele structuur\n\nInhoud: 50 tips per boekje / 25 boekjes per doos"
+      },
+      "Alt Text": {
+        "el": null,
+        "en": null,
+        "es": null,
+        "nl": null
+      }
+    }
+  ]
+}
