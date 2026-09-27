@@ -94,7 +94,7 @@ export default {
       {
         k: '03',
         t: 'Four variations',
-        d: 'White, brown, yellow, rosé — four tones from the same earth.',
+        d: 'Brown, blue, green, pink — four tones from the same earth.',
       },
     ],
     seal: 'ΦΥΣΕΙ · ΟΥ ΘΕΣΕΙ',
