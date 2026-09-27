@@ -828,12 +828,12 @@
         "es": "MEDIO",
         "nl": "MEDIUM"
       },
-      "Grams/Weight": "18 g/m²",
+      "Grams/Weight": "14 g/m²",
       "Burn Rate": {
-        "el": "Κανονική",
-        "en": "Regular burning",
-        "es": "Combustión normal",
-        "nl": "Normaal brandend"
+        "el": "Βραδείας",
+        "en": "Slow burning",
+        "es": "Combustión lenta",
+        "nl": "Langzaam brandend"
       },
       "Active": true,
       "Image": "/assets/catalogue/xartakia/P02612-1.webp",
@@ -889,12 +889,12 @@
         "es": "MEDIO",
         "nl": "MEDIUM"
       },
-      "Grams/Weight": "18 g/m²",
+      "Grams/Weight": "14 g/m²",
       "Burn Rate": {
-        "el": "Κανονική",
-        "en": "Regular burning",
-        "es": "Combustión normal",
-        "nl": "Normaal brandend"
+        "el": "Βραδείας",
+        "en": "Slow burning",
+        "es": "Combustión lenta",
+        "nl": "Langzaam brandend"
       },
       "Active": true,
       "Image": "/assets/catalogue/xartakia/P02611-1.webp",
