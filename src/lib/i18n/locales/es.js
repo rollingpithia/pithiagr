@@ -94,7 +94,7 @@ export default {
       {
         k: '03',
         t: 'Cuatro variaciones',
-        d: 'Blanco, marrón, amarillo, rosado — cuatro tonos de la misma tierra.',
+        d: 'Cuatro tonos de la misma tierra.',
       },
     ],
     seal: 'ΦΥΣΕΙ · ΟΥ ΘΕΣΕΙ',
