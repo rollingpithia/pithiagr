@@ -94,7 +94,7 @@ export default {
       {
         k: '03',
         t: 'Vier variaties',
-        d: 'Wit, bruin, geel, rosé — vier tonen uit dezelfde aarde.',
+        d: 'Vier tonen uit dezelfde aarde.',
       },
     ],
     seal: 'ΦΥΣΕΙ · ΟΥ ΘΕΣΕΙ',
