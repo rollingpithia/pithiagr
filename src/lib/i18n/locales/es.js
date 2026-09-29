@@ -163,6 +163,7 @@ export default {
     chronicleLabel: 'La crónica',
     origin: {
       eyebrow: 'EL COMIENZO · 1991',
+      imageAlt: 'El quiosco de Patision, donde empezó Pithia en 1991.',
       paragraphs: [
         'Todo empezó en 1991, en un quiosco en Patision 302. Allí, detrás del mostrador, Charalampos Drakopoulos pasó años junto a personas que sabían exactamente lo que querían — y aprendió a distinguir lo bueno de lo excepcional. Una hoja que arde lenta y uniforme. Un papel que prende a la primera. Un filtro que tira como debe. Detalles que pasan inadvertidos, salvo que sepas en qué fijarte.',
         'En 2013, ese conocimiento tomó un nombre: Pithia. Una empresa 100% griega, con una ambición que en pleno corazón de la crisis parecía audaz — estar a la altura de los nombres internacionales más destacados del sector.',
@@ -171,13 +172,14 @@ export default {
     name: {
       eyebrow: 'EL NOMBRE',
       title: 'Por qué Pithia',
+      imageAlt: 'La ilustración clásica de la Pitia.',
       paragraphs: [
         'Durante más de mil años, reyes y ciudades subían a Delfos para escuchar a la Pitia. Ninguna voz del mundo antiguo tuvo mayor autoridad, y ella hablaba solo en ciertos días sagrados. Nada apresurado, nada casual: preparación, precisión, respeto por el momento. Eso es lo que conservamos de su nombre.',
         'Según la tradición, el agua de la fuente Casótide corría bajo tierra hasta el ádyton del templo y daba a la Pitia su voz. En Patision 302, donde estuvo nuestro primer quiosco, un agua subterránea sigue corriendo bajo la ciudad. Algunas coincidencias parecen oráculos.',
       ],
     },
     pillarsEyebrow: 'NUESTROS TRES',
-    pillarsIntro: 'La Pitia daba sus oráculos sentada en un trípode. Nuestro trabajo también se sostiene sobre tres pies.',
+    pillarsIntro: 'La Pitia daba sus oráculos sentada en un trípode. Así también nosotros nos apoyamos en tres pilares firmes.',
     pillars: [
       {
         k: 'Α΄',

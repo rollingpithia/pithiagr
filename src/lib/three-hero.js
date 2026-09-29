@@ -29,6 +29,14 @@ const MAX_TRIS_SCANNED = 200000;
 /** Past this many packs the texture memory gets worth thinking about. */
 const HEAVY_RING_WARNING = 24;
 
+/**
+ * Packs outside the camera's view are not drawn (colour or shadow).
+ * The pad covers the pack itself; the slack keeps a little extra arc past
+ * the frame so a neighbour can still cast its shadow, on any aspect ratio.
+ */
+const VIEW_CULL_PAD = 6;
+const VIEW_CULL_SLACK = Math.sin(0.28);
+
 let maxAnisotropy = 1;
 
 const PLACEHOLDER_COLORS = [
@@ -871,6 +879,16 @@ export async function initThreeHero(container, { base = '' } = {}) {
   const qCurrent = new THREE.Quaternion();
   const eHero = new THREE.Euler();
   const eVision = new THREE.Euler();
+  const frustum = new THREE.Frustum();
+  const projScreen = new THREE.Matrix4();
+  const cullSphere = new THREE.Sphere();
+  let loggedCull = false;
+
+  function updateViewFrustum() {
+    camera.updateMatrixWorld();
+    projScreen.multiplyMatrices(camera.projectionMatrix, camera.matrixWorldInverse);
+    frustum.setFromProjectionMatrix(projScreen);
+  }
 
   const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
@@ -881,6 +899,8 @@ export async function initThreeHero(container, { base = '' } = {}) {
     currentProgress += (targetProgress - currentProgress) * 0.08;
     if (isNaN(currentProgress)) currentProgress = 0;
     currentProgress = Math.max(0, Math.min(1, currentProgress));
+
+    let drawn = 0;
 
     for (let i = 0; i < objectsData.length; i++) {
       const data = objectsData[i];
@@ -907,13 +927,33 @@ export async function initThreeHero(container, { base = '' } = {}) {
 
       qCurrent.slerpQuaternions(qHero, qVision, currentProgress);
       data.mesh.quaternion.copy(qCurrent);
+
+      // Camera sits at the centre of the ring and only looks forward.
+      // Hide everything outside that view so the shadow pass skips it too
+      // (frustum culling alone still draws off-screen casters into the shadow map).
+      const dist = Math.hypot(data.mesh.position.x, data.mesh.position.y, data.mesh.position.z);
+      cullSphere.center.copy(data.mesh.position);
+      cullSphere.radius = VIEW_CULL_PAD + dist * VIEW_CULL_SLACK;
+      const seen = frustum.intersectsSphere(cullSphere);
+      data.mesh.visible = seen;
+      if (seen) drawn++;
     }
 
     const introFade =
       introStartMs === 0 ? 0 : Math.min(1, (performance.now() - introStartMs) / INTRO_DURATION);
     let scrollFade = 1 - Math.pow(currentProgress, 3);
     if (isNaN(scrollFade)) scrollFade = 1;
-    container.style.opacity = String(introFade * scrollFade);
+    const shown = introFade * scrollFade;
+    container.style.opacity = String(shown);
+
+    // The canvas is fully transparent before the intro and once the hero
+    // has scrolled away — skip the GPU frame until there is something to see.
+    if (shown <= 0.001) return;
+
+    if (DEV && !loggedCull) {
+      loggedCull = true;
+      console.info(`[hero] drawing ${drawn} of ${objectsData.length} — the rest sit outside the view`);
+    }
 
     renderer.render(scene, camera);
   }
@@ -923,10 +963,12 @@ export async function initThreeHero(container, { base = '' } = {}) {
     height = window.innerHeight || 768;
     camera.aspect = width / height;
     camera.updateProjectionMatrix();
+    updateViewFrustum();
     renderer.setSize(width, height);
     updateScroll();
   };
   window.addEventListener('resize', onResize);
+  updateViewFrustum();
 
   if (reducedMotion) {
     container.style.opacity = '1';

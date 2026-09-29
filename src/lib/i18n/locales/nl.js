@@ -163,6 +163,7 @@ export default {
     chronicleLabel: 'De kroniek',
     origin: {
       eyebrow: 'HET BEGIN · 1991',
+      imageAlt: 'De kiosk aan de Patision, waar Pithia in 1991 begon.',
       paragraphs: [
         'Het begon allemaal in 1991, in een kiosk aan de Patision 302. Daar, achter de toonbank, bracht Charalampos Drakopoulos jaren door naast mensen die precies wisten wat ze wilden — en leerde hij het goede van het uitzonderlijke te onderscheiden. Een blad dat langzaam en gelijkmatig brandt. Een vel dat bij de eerste keer pakt. Een filter dat goed trekt. Details die onopgemerkt blijven, tenzij je weet waarop je moet letten.',
         'In 2013 kreeg die kennis een naam: Pithia. Een 100% Grieks bedrijf, met een ambitie die midden in de crisis gewaagd leek — waardig naast de toonaangevende internationale namen in het vak te staan.',
@@ -171,13 +172,14 @@ export default {
     name: {
       eyebrow: 'DE NAAM',
       title: 'Waarom Pithia',
+      imageAlt: 'De klassieke illustratie van de Pythia.',
       paragraphs: [
         'Meer dan duizend jaar lang beklommen koningen en steden Delphi om de Pythia te horen. Geen stem in de antieke wereld had groter gezag, en zij sprak alleen op bepaalde heilige dagen. Niets gehaast, niets toevallig: voorbereiding, precisie, respect voor het moment. Dat houden wij over van haar naam.',
         'Volgens de overlevering stroomde het water van de Kassotisbron onder de grond tot het adyton van de tempel en gaf het de Pythia haar stem. Aan de Patision 302, waar onze eerste kiosk stond, stroomt nog altijd een ondergronds water onder de stad. Sommige toevalligheden lijken op orakels.',
       ],
     },
     pillarsEyebrow: 'ONZE DRIE',
-    pillarsIntro: 'De Pythia gaf haar orakels zittend op een driepoot. Ook ons werk rust op drie poten.',
+    pillarsIntro: 'De Pythia gaf haar orakels zittend op een driepoot. Zo steunen ook wij op drie vaste pijlers.',
     pillars: [
       {
         k: 'Α΄',

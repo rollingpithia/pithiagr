@@ -3,6 +3,7 @@
   import ColumnSvg from './ColumnSvg.svelte';
   import Meander from './Meander.svelte';
   import { reveal } from '$lib/actions/reveal.js';
+  import { asset } from '$lib/asset.js';
 
   let { t } = $props();
 </script>
@@ -38,22 +39,46 @@
       </aside>
     </div>
 
-    <article class="story-chapter">
-      <div class="eyebrow reveal story-chapter-eyebrow">{t.story.origin.eyebrow}</div>
-      <div class="story-chapter-prose">
-        {#each t.story.origin.paragraphs as paragraph, i (i)}
-          <p class="reveal reveal-d{i + 2}">{paragraph}</p>
-        {/each}
+    <article class="story-chapter story-split">
+      <div class="story-split-copy">
+        <div class="eyebrow reveal story-chapter-eyebrow">{t.story.origin.eyebrow}</div>
+        <div class="story-chapter-prose">
+          {#each t.story.origin.paragraphs as paragraph, i (i)}
+            <p class="reveal reveal-d{i + 2}">{paragraph}</p>
+          {/each}
+        </div>
       </div>
+      <figure class="story-split-figure reveal reveal-d3">
+        <img
+          src={asset('/assets/start.jpg')}
+          alt={t.story.origin.imageAlt}
+          width="800"
+          height="594"
+          loading="lazy"
+          decoding="async"
+        />
+      </figure>
     </article>
 
-    <article class="story-chapter story-chapter--name">
-      <div class="eyebrow reveal story-chapter-eyebrow">{t.story.name.eyebrow}</div>
-      <h2 class="display reveal reveal-d2 story-chapter-title">{t.story.name.title}</h2>
-      <div class="story-chapter-prose">
-        {#each t.story.name.paragraphs as paragraph, i (i)}
-          <p class="reveal reveal-d{i + 3}">{paragraph}</p>
-        {/each}
+    <article class="story-chapter story-chapter--name story-split story-split--media-first">
+      <figure class="story-split-figure reveal reveal-d2">
+        <img
+          src={asset('/assets/pithia-classic.webp')}
+          alt={t.story.name.imageAlt}
+          width="512"
+          height="512"
+          loading="lazy"
+          decoding="async"
+        />
+      </figure>
+      <div class="story-split-copy">
+        <div class="eyebrow reveal story-chapter-eyebrow">{t.story.name.eyebrow}</div>
+        <h2 class="display reveal reveal-d2 story-chapter-title">{t.story.name.title}</h2>
+        <div class="story-chapter-prose">
+          {#each t.story.name.paragraphs as paragraph, i (i)}
+            <p class="reveal reveal-d{i + 3}">{paragraph}</p>
+          {/each}
+        </div>
       </div>
     </article>
 
@@ -192,6 +217,34 @@
     max-width: 760px;
   }
 
+  .story-split {
+    display: grid;
+    grid-template-columns: minmax(0, 1.2fr) minmax(240px, 0.8fr);
+    gap: clamp(28px, 4vw, 64px);
+    align-items: center;
+    max-width: none;
+  }
+
+  .story-split--media-first {
+    grid-template-columns: minmax(200px, 0.62fr) minmax(0, 1.2fr);
+  }
+
+  .story-split-figure {
+    margin: 0;
+  }
+
+  .story-split-figure img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border: 1px solid var(--hairline);
+  }
+
+  .story-split--media-first .story-split-figure img {
+    max-width: 420px;
+    background: #fff;
+  }
+
   .story-chapter-eyebrow {
     color: var(--accent);
     margin-bottom: 22px;
@@ -320,6 +373,15 @@
   }
 
   @media (max-width: 820px) {
+    .story-split,
+    .story-split--media-first {
+      grid-template-columns: 1fr;
+    }
+
+    .story-split--media-first .story-split-figure img {
+      max-width: 320px;
+    }
+
     .story-grid {
       grid-template-columns: 1fr;
     }

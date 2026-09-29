@@ -163,6 +163,7 @@ export default {
     chronicleLabel: 'The chronicle',
     origin: {
       eyebrow: 'THE BEGINNING · 1991',
+      imageAlt: 'The kiosk on Patision Street, where Pithia began in 1991.',
       paragraphs: [
         'It all began in 1991, at a kiosk on Patision 302. There, behind the counter, Charalampos Drakopoulos spent years beside people who knew exactly what they wanted — and learned to tell the good from the exceptional. A leaf that burns slowly and evenly. A sheet that catches on the first try. A filter that draws properly. Details that pass unnoticed, unless you know what to look for.',
         'In 2013, that knowledge took a name: Pithia. A 100% Greek company, with an ambition that, in the heart of the crisis, seemed bold — to stand worthily beside the leading international names in the field.',
@@ -171,13 +172,14 @@ export default {
     name: {
       eyebrow: 'THE NAME',
       title: 'Why Pithia',
+      imageAlt: 'The classic illustration of the Pythia.',
       paragraphs: [
         'For more than a thousand years, kings and cities climbed to Delphi to hear the Pythia. No voice in the ancient world carried greater authority, and she spoke only on certain sacred days. Nothing hasty, nothing accidental: preparation, precision, respect for the moment. That is what we keep from her name.',
         'According to tradition, the water of the Kassotis spring flowed underground to the inner sanctuary of the temple and gave the Pythia her voice. At Patision 302, where our first kiosk stood, an underground stream still runs beneath the city. Some coincidences resemble oracles.',
       ],
     },
     pillarsEyebrow: 'OUR THREE',
-    pillarsIntro: 'The Pythia delivered her oracles seated on a tripod. Our work, too, rests on three legs.',
+    pillarsIntro: 'The Pythia delivered her oracles seated on a tripod. And so we, too, rely on three steady pillars.',
     pillars: [
       {
         k: 'Α΄',
