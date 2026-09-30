@@ -16,6 +16,8 @@ export default {
     catalogue: 'Catalogue',
     findUs: 'Find us',
     contact: 'Contact',
+    menu: 'Menu',
+    close: 'Close',
   },
   age: {
     eyebrow: 'ORACLE OF ENTRY',

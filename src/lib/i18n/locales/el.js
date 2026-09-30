@@ -18,6 +18,8 @@ export default {
     catalogue: 'Κατάλογος',
     findUs: 'Πού να μας βρεις',
     contact: 'Επικοινωνία',
+    menu: 'Μενού',
+    close: 'Κλείσιμο',
   },
   age: {
     eyebrow: 'ΧΡΗΣΜΟΣ ΕΙΣΟΔΟΥ',

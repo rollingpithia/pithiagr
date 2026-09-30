@@ -16,6 +16,8 @@ export default {
     catalogue: 'Catálogo',
     findUs: 'Dónde encontrarnos',
     contact: 'Contacto',
+    menu: 'Menú',
+    close: 'Cerrar',
   },
   age: {
     eyebrow: 'ORÁCULO DE ENTRADA',

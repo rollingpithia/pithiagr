@@ -12,6 +12,7 @@ const config = {
       base: process.env.BASE_PATH ?? '',
     },
     prerender: {
+      entries: ['*', '/sitemap.xml', '/robots.txt', '/llms.txt'],
       handleHttpError: ({ path, message }) => {
         if (path.includes('/assets/img/products/')) return;
         throw new Error(message);

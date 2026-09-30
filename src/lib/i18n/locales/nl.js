@@ -16,6 +16,8 @@ export default {
     catalogue: 'Catalogus',
     findUs: 'Waar te vinden',
     contact: 'Contact',
+    menu: 'Menu',
+    close: 'Sluiten',
   },
   age: {
     eyebrow: 'ORAKEL VAN TOEGANG',

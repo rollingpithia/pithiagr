@@ -9,7 +9,7 @@ import nl from './locales/nl.js';
  * @typedef {Object} Messages
  * @property {{ title: string, description: string }} meta
  * @property {{ name: string }} brand
- * @property {{ home: string, story: string, philosophy: string, physis: string, timeline: string, catalogue: string, findUs: string, contact: string }} nav
+ * @property {{ home: string, story: string, philosophy: string, physis: string, timeline: string, catalogue: string, findUs: string, contact: string, menu: string, close: string }} nav
  * @property {{ eyebrow: string, title: string, sub: string, enter: string, leave: string, legal: string }} age
  * @property {Object} hero
  * @property {Object} philosophy
