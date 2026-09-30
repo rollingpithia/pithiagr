@@ -1,0 +1,21 @@
+# Pithia (Πυθία)
+
+> Greek premium rolling house, founded in 2013 in Athens. Rolling papers, filter tips, tobacco cases, and wallets. The public site is an editorial catalogue and story, not the online shop.
+
+Pithia takes its name from the oracle of Delphi. The craft started in 1991 at a kiosk on Patision 302. The company is 100% Greek. The Physis (Φύσις) line is the plant-based, plastic-free range of papers and filters. Filter tips are made in Greece. The site is written in Greek by default, and the same pages are also available in English, Spanish, and Dutch — the language is chosen in the browser, not by a separate URL.
+
+The site is for adults. It asks visitors to confirm they are 18 or older before they read it.
+
+House: Patision 302, 11141 Athens. Shop: Patision 306, Athens. Email: info@pithia.gr.
+
+## Pages
+
+- [Home](https://pithia.gr/): Pithia (Πυθία), a Greek premium rolling house since 2013. The homepage introduces the brand, its philosophy, the Physis line, and the Starry papers.
+- [Catalogue](https://pithia.gr/catalogue): The full collection: rolling papers, filter tips, tobacco cases, and wallets. Classic lines and the plant-based Physis range.
+- [Rolling papers](https://pithia.gr/catalogue/xartakia): Rolling papers, from classic and unbleached sheets to the plant-based Physis range and King Size.
+- [Filter tips](https://pithia.gr/catalogue/filtrakia): Filter tips made in Greece, including Ultra Slim, longer SE editions, and the plastic-free Physis line.
+- [Tobacco cases](https://pithia.gr/catalogue/kapnothikes): Tobacco cases for everyday carrying, in plain and patterned editions.
+- [Wallets](https://pithia.gr/catalogue/portofolia): Wallets for everyday use, durable and understated.
+- [Story](https://pithia.gr/story): From a kiosk at Patision 302 in 1991 to the name Pithia in 2013, and the three pillars the house works by.
+- [Find us](https://pithia.gr/find-us): Stockists and partner shops across Greece, plus the house and the shop on Patision Street in Athens.
+- [Contact](https://pithia.gr/contact): Write to the house: info@pithia.gr, Patision 302, 11141 Athens. The retail shop is at Patision 306.
